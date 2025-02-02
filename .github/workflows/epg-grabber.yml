@@ -29,7 +29,7 @@ jobs:
         env:
           M3U4U_EPG: ${{ secrets.M3U4U_EPG }}
         run: |
-          python epg-grabber/getEpgs.py
+          python getEpgs.py
           
       - name: Force commit and push the changes (no history)
         run: |
