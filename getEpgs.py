@@ -3,10 +3,11 @@ import gzip
 import xml.etree.ElementTree as ET
 import requests
 
-save_as_gz = True  # Set to True to save an additional .gz version
+save_as_gz = False  # Set to True to save an additional .gz version
 
+# Use the same directory as the script for saving files
 tvg_ids_file = os.path.join(os.path.dirname(__file__), 'tvg-ids.txt')
-output_file = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'epg.xml')
+output_file = os.path.join(os.path.dirname(__file__), 'epg.xml')
 output_file_gz = output_file + '.gz'
 
 def fetch_and_extract_xml(url):
@@ -30,7 +31,7 @@ def fetch_and_extract_xml(url):
             return None
 
 def filter_and_build_epg(urls):
-    with open(tvg_ids_file, 'r') as file:
+    with open(tvg_ids_file, 'r', encoding='utf-8') as file:
         valid_tvg_ids = set(line.strip() for line in file)
 
     root = ET.Element('tv')
@@ -48,10 +49,6 @@ def filter_and_build_epg(urls):
         for programme in epg_data.findall('programme'):
             tvg_id = programme.get('channel')
             if tvg_id in valid_tvg_ids:
-                title = programme.find('title').text
-                if title == 'NHL Hockey' or title == 'Live: NFL Football':
-                    subtitle = programme.find('sub-title').text
-                    programme.find('title').text = title + " " + subtitle
                 root.append(programme)
 
     tree = ET.ElementTree(root)
@@ -62,8 +59,8 @@ def filter_and_build_epg(urls):
         with gzip.open(output_file_gz, 'wb') as f:
             tree.write(f, encoding='utf-8', xml_declaration=True)
         print(f"New EPG saved to {output_file_gz}")
-	    
-m3u4u_epg = os.getenv("M3U4U_EPG")
+
+#m3u4u_epg = os.getenv("M3U4U_EPG")
 
 urls = [
 	'https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz',

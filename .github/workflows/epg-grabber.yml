@@ -2,39 +2,39 @@ name: Update EPG
 
 on:
   schedule:
-    - cron: "0 */3 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+  
 jobs:
-  update-files:
+  update_epg:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository (no history)
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 1
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
 
-      - name: Install dependencies
-        run: |
-          python -m pip install requests pytz
-          pip install bs4
-          pip install chardet
-          
-      - name: Run EPG grabber script
-        env:
-          M3U4U_EPG: ${{ secrets.M3U4U_EPG }}
-        run: |
-          python getEpgs.py
-          
-      - name: Force commit and push the changes (no history)
-        run: |
-          git config --global user.name "actions-user"
-          git config --global user.email "actions@github.com"
-          git add .
-          git commit -m "Update EPG"
-          git push --force
+    - name: Run EPG update script
+      run: |
+        python getEpgs.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add epg.xml
+        git commit -m "EPG Updated! 📺"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
