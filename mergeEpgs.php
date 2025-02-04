@@ -53,11 +53,9 @@ function mergeEPGData() {
     }
 
     $epgUrls = [
-    "https://script.google.com/macros/s/AKfycbzAQcsx5OgIXo0VS6RXVCQ4BCP6J7A6AstliLtNpvUoijt2lXA7IZ-rL0ekJPTu0GPXQg/exec?pass=$gasKey",
+    "https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz",
     "https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz",
-    "https://epg.pw/xmltv/epg_ZA.xml",
-    "https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz",
-    "https://github.com/newf276/junk/releases/latest/download/epg-xumo.xml.gz"
+    "https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz"
     ];
     
     $mergedXml = new SimpleXMLElement('<tv/>');
