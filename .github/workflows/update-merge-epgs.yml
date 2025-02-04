@@ -1,0 +1,34 @@
+name: Merge EPG Data
+
+on:
+  schedule:
+    - cron: '0 */8 * * *'
+  workflow_dispatch: 
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Set up PHP
+      uses: shivammathur/setup-php@v2
+      with:
+        php-version: '8.0'
+
+
+    - name: Print Environment Variables
+      run: printenv
+
+    - name: Run PHP Script
+      env:
+        GAS_KEY: ${{ secrets.GAS_KEY }}
+      run: php php/mergeEpgs.php
+
