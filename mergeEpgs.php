@@ -5,7 +5,7 @@ ini_set('memory_limit', '512M');
 function updateEpgToGitHub() {
     $epgContent = mergeEPGData();
     if ($epgContent) {
-        file_put_contents('epg.xml', $epgContent); 
+        file_put_contents('myepg.xml', $epgContent); 
         commitAndPushChanges(); 
     } else {
         error_log('Failed to fetch or merge EPG data.');
@@ -57,7 +57,7 @@ function mergeEPGData() {
     "https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz",
     "https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz"
     ];
-    
+
     $mergedXml = new SimpleXMLElement('<tv/>');
 
     foreach ($epgUrls as $url) {
@@ -106,7 +106,7 @@ function commitAndPushChanges() {
     $commands = [
         'git config --global user.email "action@github.com"',
         'git config --global user.name "GitHub Action"',
-        'git add epg.xml',
+        'git add myepg.xml',
         'git commit -m "Update EPG data" || echo "No changes to commit"',
         'git push https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git'
     ];
@@ -122,5 +122,3 @@ function commitAndPushChanges() {
         }
     }
 }
-
-updateEpgToGitHub();
