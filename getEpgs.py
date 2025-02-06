@@ -64,6 +64,8 @@ def filter_and_build_epg(urls):
 
 urls = [
     'https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz',
+    'https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz',
+    'https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz',
 ]
 
 if __name__ == "__main__":
