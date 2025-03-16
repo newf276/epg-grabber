@@ -8016,15 +8016,6 @@
     <display-name>History 365</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000428O_20240528T020941SQUARE.png" />
   </channel>
-  <programme channel="CA1400004AE" start="20250316070000 +0000" stop="20250316080000 +0000">
-    <title>W5</title>
-    <sub-title>48 Hours</sub-title>
-    <desc>Award-winning documentary investigates the fentanyl crisis at Ground Zero in Vancouver.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_884529301_0_20250221T152057434Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-q9jtz.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme channel="CA1400004AE" start="20250316080000 +0000" stop="20250316090000 +0000">
     <title>CTV News</title>
     <sub-title>Special: I'm Sandie Rinaldo</sub-title>
@@ -8070,6 +8061,15 @@
       <value>NA</value>
     </rating>
   </programme>
+  <programme channel="CA1400004AE" start="20250316140000 +0000" stop="20250316150000 +0000">
+    <title>W5: Avery Haines Investigates</title>
+    <sub-title>Narco Jungle: The Death Train</sub-title>
+    <desc>Avery rides atop Mexico's “death train” through narco territory, documenting the harrowing journey migrants take in search of a better life.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_553445474_0_20241217T072309474Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-fsphx.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
   <programme channel="CABC2300009KD" start="20250316070000 +0000" stop="20250316120000 +0000">
     <title>This Week's Top Stories</title>
     <desc>The big stories that made news across Canada and the world this week.</desc>
@@ -8090,14 +8090,15 @@
     <desc>Whether a slick scam, misleading marketing claim or maddening customer service, Marketplace has got your back.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925924_0_20241213T120008100Z_23_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
   </programme>
-  <programme channel="CAAJ2700011IF" start="20250316070000 +0000" stop="20250316080000 +0000">
-    <title>Dateline NBC</title>
-    <sub-title>A Perfect Spot</sub-title>
-    <desc>A Georgia couple's romantic tryst takes a deadly turn, leaving investigators stumped -- until tire treads at the scene and cell phone calls reveal a twisted plot.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQO375324A_871699046_0_20250219T051914384Z_47_imageprocessorclient-tvplus-linear-b76dd9bbb-bpgg8.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme channel="CABC2300009KD" start="20250316133000 +0000" stop="20250316140000 +0000">
+    <title>At Issue</title>
+    <desc>CBC's Rosemary Barton hosts Canada's most-watched political panel.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_839039656_3_20250212T162246964Z_53_imageprocessorclient-tvplus-linear-b76dd9bbb-rghk7.jpeg" />
+  </programme>
+  <programme channel="CABC2300009KD" start="20250316140000 +0000" stop="20250316150000 +0000">
+    <title>The Fifth Estate</title>
+    <desc>The Fifth Estate brings in-depth investigations that matter to Canadians.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552925926_0_20241213T120008023Z_34_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
   </programme>
   <programme channel="CAAJ2700011IF" start="20250316080000 +0000" stop="20250316090000 +0000">
     <title>Dateline NBC</title>
@@ -8144,15 +8145,14 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="CA15000018F" start="20250316073000 +0000" stop="20250316080000 +0000">
-    <title>CBC Vancouver News Saturday</title>
-    <desc>B.C.'s award-winning newscast delivers local breaking news, original journalism and weather.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_551266394_0_20241120T172631172Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-szqc9.jpeg" />
-  </programme>
-  <programme channel="CA15000018F" start="20250316080000 +0000" stop="20250316083000 +0000">
-    <title>CBC Vancouver News Saturday</title>
-    <desc>B.C.'s award-winning newscast delivers local breaking news, original journalism and weather.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_551266394_0_20241120T172631172Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-szqc9.jpeg" />
+  <programme channel="CAAJ2700011IF" start="20250316140000 +0000" stop="20250316150000 +0000">
+    <title>Dateline NBC</title>
+    <sub-title>Without a Trace</sub-title>
+    <desc>A 29-year-old woman goes missing.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQO375324A_856748306_0_20250216T052155353Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-ddgfn.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
   </programme>
   <programme channel="CA15000018F" start="20250316083000 +0000" stop="20250316090000 +0000">
     <title>CBC Vancouver News Saturday</title>
@@ -8204,15 +8204,15 @@
     <desc>B.C.'s award-winning newscast delivers local breaking news, original journalism and weather.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_551266394_0_20241120T172631172Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-szqc9.jpeg" />
   </programme>
-  <programme channel="CA4600003GV" start="20250316073000 +0000" stop="20250316080000 +0000">
-    <title>CBC News: Atlantic Tonight</title>
-    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
+  <programme channel="CA15000018F" start="20250316133000 +0000" stop="20250316140000 +0000">
+    <title>CBC Vancouver News Saturday</title>
+    <desc>B.C.'s award-winning newscast delivers local breaking news, original journalism and weather.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_551266394_0_20241120T172631172Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-szqc9.jpeg" />
   </programme>
-  <programme channel="CA4600003GV" start="20250316080000 +0000" stop="20250316083000 +0000">
-    <title>CBC News: Atlantic Tonight</title>
-    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
+  <programme channel="CA15000018F" start="20250316140000 +0000" stop="20250316143000 +0000">
+    <title>CBC Vancouver News Saturday</title>
+    <desc>B.C.'s award-winning newscast delivers local breaking news, original journalism and weather.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_551266394_0_20241120T172631172Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-szqc9.jpeg" />
   </programme>
   <programme channel="CA4600003GV" start="20250316083000 +0000" stop="20250316090000 +0000">
     <title>CBC News: Atlantic Tonight</title>
@@ -8264,15 +8264,15 @@
     <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CA1500002Q4" start="20250316073000 +0000" stop="20250316080000 +0000">
-    <title>CBC Ontario News</title>
-    <desc>A comprehensive look at the day's top stories.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542518989_0_20240529T062538430Z_88.jpeg" />
+  <programme channel="CA4600003GV" start="20250316133000 +0000" stop="20250316140000 +0000">
+    <title>CBC News: Atlantic Tonight</title>
+    <desc>Host Amy Smith brings you breaking news, in-depth reports and weather you can count on.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_554186120_0_20241217T103439543Z_79_imageprocessorclient-tvplus-linear-5dc4fd45f6-968t6.jpeg" />
   </programme>
-  <programme channel="CA1500002Q4" start="20250316080000 +0000" stop="20250316083000 +0000">
-    <title>CBC Ontario News</title>
-    <desc>A comprehensive look at the day's top stories.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542518989_0_20240529T062538430Z_88.jpeg" />
+  <programme channel="CA4600003GV" start="20250316140000 +0000" stop="20250316143000 +0000">
+    <title>About That</title>
+    <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
   </programme>
   <programme channel="CA1500002Q4" start="20250316083000 +0000" stop="20250316090000 +0000">
     <title>CBC Ontario News</title>
@@ -8324,21 +8324,15 @@
     <desc>A comprehensive look at the day's top stories.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542518989_0_20240529T062538430Z_88.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250316073000 +0000" stop="20250316080000 +0000">
-    <title>Dream In Colour</title>
-    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA1500002Q4" start="20250316133000 +0000" stop="20250316140000 +0000">
+    <title>CBC Ontario News</title>
+    <desc>A comprehensive look at the day's top stories.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542518989_0_20240529T062538430Z_88.jpeg" />
   </programme>
-  <programme channel="CABC23000223U" start="20250316080000 +0000" stop="20250316083000 +0000">
-    <title>Dream In Colour</title>
-    <desc>Get lost in the breathtaking beauty of Canadian and international landscapes</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124152_0_20231019T012929571Z_80.jpeg" />
-    <rating>
-      <value>PG</value>
-    </rating>
+  <programme channel="CA1500002Q4" start="20250316140000 +0000" stop="20250316143000 +0000">
+    <title>About That</title>
+    <desc>Andrew Chang expands our understanding of the stories everybody's talking about.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542515038_0_20240529T053048695Z_102.jpeg" />
   </programme>
   <programme channel="CABC23000223U" start="20250316083000 +0000" stop="20250316090000 +0000">
     <title>Dream In Colour</title>
@@ -8420,31 +8414,20 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="CABC52000039H" start="20250316070433 +0000" stop="20250316073056 +0000">
-    <title>Bob the Builder</title>
-    <sub-title>Pilchard's Breakfast / Scoop's In Charge</sub-title>
-    <desc>Mr Beasley is having a conservatory built. / Bob and Wendy have been invited to a lunch at the Town Hall.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_533989607_0_20231016T125342066Z_15.jpeg" />
+  <programme channel="CABC23000223U" start="20250316133000 +0000" stop="20250316140000 +0000">
+    <title>How To Survive</title>
+    <desc>Endure life-threatening moments by employing statistical facts and survivor stories, all while entertaining.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534124631_0_20231019T012929606Z_64.jpeg" />
     <rating>
-      <value>TV-Y</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme channel="CABC52000039H" start="20250316073056 +0000" stop="20250316075719 +0000">
-    <title>Bob the Builder</title>
-    <sub-title>Muck's Sleepover / Trailer Travis</sub-title>
-    <desc>Muck has a sleepover with Travis. Wendy, Muck, and Dizzy put up a new signpost at the crossroads.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_533989561_0_20231016T125333994Z_99.jpeg" />
+  <programme channel="CABC23000223U" start="20250316140000 +0000" stop="20250316143000 +0000">
+    <title>Weather AM</title>
+    <desc>Get your local forecast and weather headlines from right here in Canada, and around the globe.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_539709218_0_20240321T153330644Z_1.jpeg" />
     <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme channel="CABC52000039H" start="20250316075719 +0000" stop="20250316082342 +0000">
-    <title>Bob the Builder</title>
-    <sub-title>Spud &amp; Squawk / Scoop Has Some Fun</sub-title>
-    <desc>Mr Bentley asks Bob and crew to build an out-of-town car park. / Bob is erecting telegraph poles with Scoop.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_533990005_1_20231016T125337191Z_73.jpeg" />
-    <rating>
-      <value>TV-Y</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="CABC52000039H" start="20250316082342 +0000" stop="20250316085004 +0000">
@@ -8555,11 +8538,20 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme channel="CABC5200004AI" start="20250316072517 +0000" stop="20250316081651 +0000">
-    <title>Strawberry Shortcake</title>
-    <sub-title>Spring For Strawberry Shortcake</sub-title>
-    <desc>It's the first day of spring in Strawberryland, at least it's supposed to be, but with the cold winds blowing and frost on the ground it looks as though spring isn't going to come this year.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_535987448_0_20231208T062410564Z_79.jpeg" />
+  <programme channel="CABC52000039H" start="20250316134025 +0000" stop="20250316140648 +0000">
+    <title>Bob the Builder</title>
+    <sub-title>Mr Beasley's New Friends / Spud The Pilot</sub-title>
+    <desc>Bob is repairing a leaking water tank at school. / Bob is installing an antique fireplace for Mrs Percival.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_533989637_1_20231016T125334008Z_21.jpeg" />
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme channel="CABC52000039H" start="20250316140648 +0000" stop="20250316143312 +0000">
+    <title>Bob the Builder</title>
+    <sub-title>Trix and the Otters / Speedy Skip</sub-title>
+    <desc>Farmer Pickles wants a fence built around his compost heap. / Bob is replacing a potting shed for Mr Beasley.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_533989671_1_20231016T125334008Z_80.jpeg" />
     <rating>
       <value>TV-Y</value>
     </rating>
@@ -8663,28 +8655,22 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme channel="CA800001ZX" start="20250316070829 +0000" stop="20250316073414 +0000">
-    <title>Dinopaws</title>
-    <desc>Young Dinosaurs Gwen, Bob and Tony go on adventures on pre-historic Earth. Gwen thinks that a dino is coming to squash them/Bob and Gwen think they hear Tony talk for the first time.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_900142289_0_20250224T142242249Z_95_imageprocessorclient-tvplus-linear-b76dd9bbb-r8mhp.jpeg" />
+  <programme channel="CABC5200004AI" start="20250316135654 +0000" stop="20250316142526 +0000">
+    <title>Strawberry Shortcake</title>
+    <sub-title>A Festival of Friends</sub-title>
+    <desc>Friends from all over the world descend on Strawberryland to take part in the first Great Friendship Festival. Strawberry thinks the festival will provide a wonderful opportunity to see the world through different eyes.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_540160852_0_20240403T070751315Z_82.jpeg" />
     <rating>
-      <value>TV-G</value>
+      <value>TV-Y</value>
     </rating>
   </programme>
-  <programme channel="CA800001ZX" start="20250316073414 +0000" stop="20250316080030 +0000">
-    <title>Dinopaws</title>
-    <desc>Young Dinosaurs Gwen, Bob and Tony go on adventures on pre-historic Earth. Tony finds a bone but another dino takes it from him/Bob can't join in with Gwen and Tony's game</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_900142289_0_20250224T142242249Z_95_imageprocessorclient-tvplus-linear-b76dd9bbb-r8mhp.jpeg" />
+  <programme channel="CABC5200004AI" start="20250316142526 +0000" stop="20250316145305 +0000">
+    <title>Strawberry Shortcake</title>
+    <sub-title>Festival of the Fillies</sub-title>
+    <desc>Honey Pie Pony is excited that the ponies of Ice Cream Island have invited her to take part in their annual Festival of the Horses.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_540161490_0_20240403T070751315Z_99.jpeg" />
     <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme channel="CA800001ZX" start="20250316080030 +0000" stop="20250316082616 +0000">
-    <title>Dinopaws</title>
-    <desc>Young Dinosaurs Gwen, Bob and Tony go on adventures on pre-historic Earth. Bob loses Gwen in a canyon that makes their voices echo/Tony runs into a cave where a scary thing lives.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_900142289_0_20250224T142242249Z_95_imageprocessorclient-tvplus-linear-b76dd9bbb-r8mhp.jpeg" />
-    <rating>
-      <value>TV-G</value>
+      <value>TV-Y</value>
     </rating>
   </programme>
   <programme channel="CA800001ZX" start="20250316082616 +0000" stop="20250316085232 +0000">
@@ -8783,22 +8769,20 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme channel="CABD1200043OK" start="20250316071233 +0000" stop="20250316074131 +0000">
-    <title>Schitt's Creek</title>
-    <sub-title>Start Spreading the News</sub-title>
-    <desc>Moira receives some unexpected news, and David makes a tough decision about where he wants to live.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542518855_0_20240529T062530432Z_24.jpeg" />
+  <programme channel="CA800001ZX" start="20250316133830 +0000" stop="20250316140446 +0000">
+    <title>Dinopaws</title>
+    <desc>Young Dinosaurs Gwen, Bob and Tony go on adventures on pre-historic Earth. Bob celebrates the things he loves/The Dinopaws are having fun shouting</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_900142289_0_20250224T142242249Z_95_imageprocessorclient-tvplus-linear-b76dd9bbb-r8mhp.jpeg" />
     <rating>
-      <value>14+</value>
+      <value>TV-G</value>
     </rating>
   </programme>
-  <programme channel="CABD1200043OK" start="20250316074131 +0000" stop="20250316081013 +0000">
-    <title>Schitt's Creek</title>
-    <sub-title>Happy Ending</sub-title>
-    <desc>David stresses out over the rain on his wedding day, the family scrambles to make it right.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542518855_0_20240529T062530432Z_24.jpeg" />
+  <programme channel="CA800001ZX" start="20250316140446 +0000" stop="20250316143032 +0000">
+    <title>Dinopaws</title>
+    <desc>Young Dinosaurs Gwen, Bob and Tony go on adventures on pre-historic Earth. The kids want to escape the hot sun./Gwen and Bob embark on a trek to find what is at the end of the world.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_900142289_0_20250224T142242249Z_95_imageprocessorclient-tvplus-linear-b76dd9bbb-r8mhp.jpeg" />
     <rating>
-      <value>14+</value>
+      <value>TV-G</value>
     </rating>
   </programme>
   <programme channel="CABD1200043OK" start="20250316081013 +0000" stop="20250316090031 +0000">
@@ -8909,22 +8893,22 @@
       <value>14+</value>
     </rating>
   </programme>
-  <programme channel="CA1400005SO" start="20250316072704 +0000" stop="20250316075322 +0000">
-    <title>Roast Battle Canada</title>
-    <sub-title>Salma Hindy v Jean Paul, Sterling Scott v Brittany Lyseng</sub-title>
-    <desc>Featuring Salma Hindy v Jean Paul, and Sterling Scott v Brittany Lyseng.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_543003608_0_20240609T004119413Z_119.jpeg" />
+  <programme channel="CABD1200043OK" start="20250316135107 +0000" stop="20250316141701 +0000">
+    <title>Schitt's Creek</title>
+    <sub-title>Singles Week</sub-title>
+    <desc>Out-of-the-blue Patrick tells David he loves him, leaving David flustered and unsure of how to respond. Alexis and Moira are about to kick off Singles Week when Jocelyn goes into labour, so Moira reluctantly leaves Alexis in charge. Johnny finally gets Roland to take on more responsibility at the motel, but in doing so realizes he may have inadvertently caused Roland to miss the birth of his child.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542518855_0_20240529T062530432Z_24.jpeg" />
     <rating>
-      <value>TV-14</value>
+      <value>14+</value>
     </rating>
   </programme>
-  <programme channel="CA1400005SO" start="20250316075322 +0000" stop="20250316081855 +0000">
-    <title>Roast Battle Canada</title>
-    <sub-title>Sophie Buddle v Daniel Woodrow, and Mike Rita v Jarrett Campbell</sub-title>
-    <desc>Featuring Sophie Buddle v Daniel Woodrow, and Mike Rita v Jarrett Campbell.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_543002846_0_20240609T004114565Z_65.jpeg" />
+  <programme channel="CABD1200043OK" start="20250316141701 +0000" stop="20250316144619 +0000">
+    <title>Schitt's Creek</title>
+    <sub-title>Merry Christmas, Johnny Rose</sub-title>
+    <desc>Johnny wants to celebrate the holidays with an old-fashioned Rose Family Christmas Party, but it's going to take a lot to get everyone on board at the last minute. Moira brings a negative attitude to Christmas tree shopping, Alexis is already double-booked with another party, and David puts minimal effort into helping with decorations. But the Roses soon realize that the party means more to Johnny than any of them thought.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542518855_0_20240529T062530432Z_24.jpeg" />
     <rating>
-      <value>TV-14</value>
+      <value>14+</value>
     </rating>
   </programme>
   <programme channel="CA1400005SO" start="20250316081855 +0000" stop="20250316084545 +0000">
@@ -9043,22 +9027,12 @@
       <value>PG-13</value>
     </rating>
   </programme>
-  <programme channel="CAAJ2700029OC" start="20250316073000 +0000" stop="20250316080000 +0000">
-    <title>FailArmy</title>
-    <sub-title>Now | It All Falls Down</sub-title>
-    <desc>What do Dogs, Balance and Candy have in common? They're all in this episode of FAILARMY NOW.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_546196604_0_20241102T143122364Z_110_imageprocessorclient-tvplus-linear-5dc4fd45f6-gx6jk.png" />
+  <programme channel="CA1400005SO" start="20250316140649 +0000" stop="20250316145837 +0000">
+    <title>Patton Oswalt @ JFL</title>
+    <desc>The legendary Patton Oswalt hosts a stand-up comedy showcase at the renowned Just For Laughs MONTRÉAL festival.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_550523406_0_20241108T072406076Z_133_imageprocessorclient-tvplus-linear-5dc4fd45f6-k22rj.jpeg" />
     <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="CAAJ2700029OC" start="20250316080000 +0000" stop="20250316083000 +0000">
-    <title>FailArmy</title>
-    <sub-title>Playlist | Back 2 School</sub-title>
-    <desc>Hits on this playlist include "Anybody Seen My Baby," "Over the Edge" and "I'll Be There for You."</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_546196622_0_20241102T143122138Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-gx6jk.jpeg" />
-    <rating>
-      <value>TV-14</value>
+      <value>PG-13</value>
     </rating>
   </programme>
   <programme channel="CAAJ2700029OC" start="20250316083000 +0000" stop="20250316090000 +0000">
@@ -9147,20 +9121,20 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="CABA3700001DB" start="20250316073000 +0000" stop="20250316080000 +0000">
-    <title>Top 10 Late Night Laugh's Countdown</title>
-    <desc>What are you still doing up? Late nights are the perfect time to sit back, relax, and laugh.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_718583386_0_20250119T132038866Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-7wdfl.jpeg" />
+  <programme channel="CAAJ2700029OC" start="20250316133000 +0000" stop="20250316140000 +0000">
+    <title>World's Most Expensive Fails | Raiders of the Lost Fail</title>
+    <desc>There's an expensive fail in that temple...can you get it?</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_546196663_0_20240817T124333734Z_47_imageprocessorclient-tvplus-linear-64ff86dd75-56v7s.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="CABA3700001DB" start="20250316080000 +0000" stop="20250316083000 +0000">
-    <title>Prank Video Showdown</title>
-    <desc>We show you the funniest pranks and hijinks, and put them head to head for the Ultimate Prank of the Day!</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_643331794_2_20250104T132050708Z_87_imageprocessorclient-tvplus-linear-5dc4fd45f6-fsphx.jpeg" />
+  <programme channel="CAAJ2700029OC" start="20250316140000 +0000" stop="20250316143000 +0000">
+    <title>Best Fails of the Month | Ep. 2.5</title>
+    <desc>The best of the worst for May '19.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_546196572_0_20240817T124326400Z_28_imageprocessorclient-tvplus-linear-64ff86dd75-56v7s.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>TV-14</value>
     </rating>
   </programme>
   <programme channel="CABA3700001DB" start="20250316083000 +0000" stop="20250316090000 +0000">
@@ -9243,12 +9217,20 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme channel="CAAJ40000077N" start="20250316063423 +0000" stop="20250316081528 +0000">
-    <title>Beauty and the Least</title>
-    <desc>Likeable loser Ben Banks (Ben Banks) is a serial underachiever and stoner in his twelfth year of community college. When he falls in love with Amy (Mischa Barton), he learns that growing up isn't so bad.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_782149411_3_20250201T061949555Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-qtwlw.jpeg" />
+  <programme channel="CABA3700001DB" start="20250316133000 +0000" stop="20250316140000 +0000">
+    <title>World's Funniest Videos Top 10 Countdown</title>
+    <desc>Humor has no international borders. We're bringing you the most hilarious moments across the globe.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_845072969_0_20250213T212714617Z_58_imageprocessorclient-tvplus-linear-b76dd9bbb-4fr8j.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABA3700001DB" start="20250316140000 +0000" stop="20250316143000 +0000">
+    <title>World's Funniest Videos Top 10 Countdown</title>
+    <desc>Humor has no international borders. We're bringing you the most hilarious moments across the globe.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_850982207_0_20250215T012034452Z_58_imageprocessorclient-tvplus-linear-b76dd9bbb-bfkrz.jpeg" />
+    <rating>
+      <value>TV-PG</value>
     </rating>
   </programme>
   <programme channel="CAAJ40000077N" start="20250316081528 +0000" stop="20250316100909 +0000">
@@ -9275,10 +9257,10 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="CAAJ2700014EE" start="20250316062437 +0000" stop="20250316082940 +0000">
-    <title>Kung Fu Yoga</title>
-    <desc>An archaeology professor and his team must locate and save a lost treasure. With Jackie Chan. Subtitled.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_547742798_1_20240919T094556813Z_68_imageprocessorclient-tvplus-linear-5dc4fd45f6-z28mc.jpeg" />
+  <programme channel="CAAJ40000077N" start="20250316133135 +0000" stop="20250316152325 +0000">
+    <title>Mozart and the Whale</title>
+    <desc>The budding romance between two people with Asperger's syndrome is threatened by their emotional dysfunctions.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_547682459_1_20240918T073907162Z_57_imageprocessorclient-tvplus-linear-5dc4fd45f6-ntqmq.jpeg" />
     <rating>
       <value>PG-13</value>
     </rating>
@@ -9307,14 +9289,6 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="CABD1200001SY" start="20250316063902 +0000" stop="20250316082548 +0000">
-    <title>A Christmas Solo</title>
-    <desc>Two single parents stumble into the possibility of love for Christmas, but unbeknownst to them their daughters are embroiled in a nasty rivalry at school.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_971568633_0_20250310T002329160Z_25_imageprocessorclient-tvplus-linear-b76dd9bbb-7227f.jpeg" />
-    <rating>
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme channel="CABD1200001SY" start="20250316082548 +0000" stop="20250316101344 +0000">
     <title>My Divorce Party</title>
     <desc>Xan gathers her besties to celebrate her impending divorce by blowing all her money by the end of the weekend.</desc>
@@ -9339,22 +9313,12 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme channel="CAAJ27000159K" start="20250316070706 +0000" stop="20250316073929 +0000">
-    <title>The Rifleman</title>
-    <sub-title>Jealous Man</sub-title>
-    <desc>A lawman's irrational jealousy threatens not only to destroy his marriage but also to make him a target.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_547682104_0_20240918T072221611Z_100_imageprocessorclient-tvplus-linear-5dc4fd45f6-kvpw9.jpeg" />
+  <programme channel="CABD1200001SY" start="20250316140010 +0000" stop="20250316154533 +0000">
+    <title>Christmas Crush</title>
+    <desc>When a woman learns of her high school reunion a week before Christmas, she's ecstatic to finally have her chance to win the one "that got away" back.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_552273297_0_20241204T055741497Z_23_imageprocessorclient-tvplus-linear-5dc4fd45f6-kvpw9.jpeg" />
     <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="CAAJ27000159K" start="20250316073929 +0000" stop="20250316081154 +0000">
-    <title>The Rifleman</title>
-    <sub-title>Guilty Conscience</sub-title>
-    <desc>No one is more surprised than Micah when newcomer Leota Carraway claims he's her long-lost husband and the father of her child.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_547682178_5_20240918T072222183Z_32_imageprocessorclient-tvplus-linear-5dc4fd45f6-z28mc.jpeg" />
-    <rating>
-      <value>NA</value>
+      <value>TV-14</value>
     </rating>
   </programme>
   <programme channel="CAAJ27000159K" start="20250316081154 +0000" stop="20250316084420 +0000">
@@ -9447,6 +9411,24 @@
       <value>TV-PG</value>
     </rating>
   </programme>
+  <programme channel="CAAJ27000159K" start="20250316133448 +0000" stop="20250316140653 +0000">
+    <title>The Rifleman</title>
+    <sub-title>The Most Amazing Man</sub-title>
+    <desc>Fast-draw artist Wade Randall is in town, bragging of his gun battles with notorious bad men, until one of them shows up to challenge his story.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_547681956_5_20240918T072241050Z_66_imageprocessorclient-tvplus-linear-5dc4fd45f6-z28mc.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="CAAJ27000159K" start="20250316140653 +0000" stop="20250316143909 +0000">
+    <title>The Rifleman</title>
+    <sub-title>Squeeze Play</sub-title>
+    <desc>When Lucas refuses to sell his land, Mr. Prescott will stop at nothing to to change his mind. He hires men to try to persuade Lucas, but he refuses.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_547681784_5_20240918T072222180Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-z28mc.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
   <programme channel="CABD1200038NZ" start="20250316060000 +0000" stop="20250316100000 +0000">
     <title>After Hours Hit Mix</title>
     <desc>Experience the ultimate after-hours party with these music video hits.</desc>
@@ -9462,11 +9444,6 @@
     <desc>Start your morning with the best hits of the moment!</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_966363921_0_20250309T002208183Z_75_imageprocessorclient-tvplus-linear-b76dd9bbb-jk5t6.png" />
   </programme>
-  <programme channel="CABB2600018T4" start="20250316040000 +0000" stop="20250316080000 +0000">
-    <title>90s Nightshift</title>
-    <desc>Punch your timecard with the 90s nightshift.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_545470258_0_20240802T002005819Z_41.jpeg" />
-  </programme>
   <programme channel="CABB2600018T4" start="20250316080000 +0000" stop="20250316100000 +0000">
     <title>90s Mornings</title>
     <desc>Rise and shine with these 90s music videos.</desc>
@@ -9476,6 +9453,11 @@
     <title>Wake Up With The 90s</title>
     <desc>Fuel up your morning with these 90s hits.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_545441016_0_20240801T062423429Z_3.jpeg" />
+  </programme>
+  <programme channel="CABB2600018T4" start="20250316140000 +0000" stop="20250316160000 +0000">
+    <title>You Go 90s!</title>
+    <desc>90s music video hits to help you power through the afternoon.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_545440040_0_20240801T062424777Z_53.jpeg" />
   </programme>
   <programme channel="CABB2600017ZU" start="20250316060000 +0000" stop="20250316100000 +0000">
     <title>Nighttime 80s</title>
@@ -9591,24 +9573,6 @@
     <desc>Welcome the sun with these mellow music videos.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_538890038_18_20240301T172222900Z_1.jpeg" />
   </programme>
-  <programme channel="CAAJ3400016J9" start="20250316073000 +0000" stop="20250316080000 +0000">
-    <title>Sketch</title>
-    <sub-title>Designing Fantasies</sub-title>
-    <desc>Renowned architect Mark Candelaria guides you through some of his most famous and fabulous projects.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_966277698_0_20250309T002208303Z_32_imageprocessorclient-tvplus-linear-b76dd9bbb-jk5t6.jpeg" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme channel="CAAJ3400016J9" start="20250316080000 +0000" stop="20250316083000 +0000">
-    <title>Epic Destinations</title>
-    <sub-title>Living It Up in Los Cabos</sub-title>
-    <desc>Andrea and her sister Sabrina head to spectacular Los Cabos for the adventure of a lifetime.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_551430119_0_20241122T054126663Z_35_imageprocessorclient-tvplus-linear-5dc4fd45f6-khb48.jpeg" />
-    <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
   <programme channel="CAAJ3400016J9" start="20250316083000 +0000" stop="20250316090000 +0000">
     <title>Nina's Garden</title>
     <sub-title>Building &amp; Tending Your Garden</sub-title>
@@ -9699,22 +9663,22 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme channel="CA14000028T" start="20250316071832 +0000" stop="20250316074439 +0000">
-    <title>Up The Dish</title>
-    <sub-title>Sashimi</sub-title>
-    <desc>Up the Dish's four chefs go raw – and raw vegan – with their variations on a classic Japanese dish.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_540999130_2_20240425T140058366Z_121.jpeg" />
+  <programme channel="CAAJ3400016J9" start="20250316133000 +0000" stop="20250316140000 +0000">
+    <title>The Sabrina Soto Show</title>
+    <sub-title>Whole Body, Mind &amp; Spirit</sub-title>
+    <desc>Sabrina's expert guests guide her on a personal journey to wellness from the inside out.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_935434930_0_20250303T042040570Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-9jfq9.jpeg" />
     <rating>
-      <value>PG</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
-  <programme channel="CA14000028T" start="20250316074439 +0000" stop="20250316081044 +0000">
-    <title>VegHeadz</title>
-    <sub-title>Melon</sub-title>
-    <desc>Chef Pino Di Cerbo creates dishes featuring melons, including honeydew gazpacho and grilled cantaloupe.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_540999294_3_20240425T140104397Z_121.jpeg" />
+  <programme channel="CAAJ3400016J9" start="20250316140000 +0000" stop="20250316143000 +0000">
+    <title>The Sabrina Soto Show</title>
+    <sub-title>Cocina De Sabrina</sub-title>
+    <desc>Join Sabrina for a feast for the eyes, body, and soul with laughs and great conversation.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_935458566_0_20250303T042040589Z_114_imageprocessorclient-tvplus-linear-b76dd9bbb-9jfq9.jpeg" />
     <rating>
-      <value>PG</value>
+      <value>TV-G</value>
     </rating>
   </programme>
   <programme channel="CA14000028T" start="20250316081044 +0000" stop="20250316083651 +0000">
@@ -9798,11 +9762,20 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="CABC5200022N1" start="20250316072528 +0000" stop="20250316081857 +0000">
-    <title>Holmes on Homes</title>
-    <sub-title>Semi Dilemma</sub-title>
-    <desc>Oversee a complicated roof repair made more challenging by feuding homeowners.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534269067_0_20231024T061815487Z_137.jpeg" />
+  <programme channel="CA14000028T" start="20250316140226 +0000" stop="20250316142833 +0000">
+    <title>Country House Hunters New Zealand</title>
+    <sub-title>Rotorua - Aileen and Constance</sub-title>
+    <desc>Aileen and Constance embark on a search in Rotorua for a culturally rich home.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_541359402_1_20240504T004146896Z_90.jpeg" />
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CA14000028T" start="20250316142833 +0000" stop="20250316145504 +0000">
+    <title>Country House Hunters New Zealand</title>
+    <sub-title>Waitaki Region - Gill &amp; Mick</sub-title>
+    <desc>Gill and Mick are in pursuit of a rustic home in the majestic landscapes of the Waitaki Region.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_541358961_0_20240504T004144015Z_3.jpeg" />
     <rating>
       <value>PG</value>
     </rating>
@@ -9861,18 +9834,26 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="CABC5200002OG" start="20250316065507 +0000" stop="20250316074638 +0000">
-    <title>Holiday Homes In the Sun: Spain</title>
-    <sub-title>Summer in the Canary Islands</sub-title>
-    <desc>Search for favorite holiday rentals for a traditional Catalonian escape.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_548065677_1_20240925T092305827Z_85_imageprocessorclient-tvplus-linear-5dc4fd45f6-fsphx.jpeg" />
+  <programme channel="CABC5200022N1" start="20250316133938 +0000" stop="20250316142928 +0000">
+    <title>Holmes Makes It Right</title>
+    <sub-title>Log Jam</sub-title>
+    <desc>Cozy up to geothermal and house wraps in a budget-busting retirement nest.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_774817661_0_20250130T192211483Z_3_imageprocessorclient-tvplus-linear-5dc4fd45f6-48mnw.jpeg" />
     <rating>
-      <value>TV-G</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="CABC5200022N1" start="20250316142928 +0000" stop="20250316145602 +0000">
+    <title>Great Canadian Cottages</title>
+    <sub-title>Eco Homes</sub-title>
+    <desc>Travel to the gorgeous Bruce Peninsula and tour three impressive eco-homes.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_536802240_0_20240102T005729628Z_65.jpeg" />
+    <rating>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="CABC5200002OG" start="20250316074638 +0000" stop="20250316083809 +0000">
-    <title>Holiday Homes In the Sun: Spain</title>
-    <sub-title>The Beaches of Mataro</sub-title>
+    <title>Holiday Homes In the Sun: Spain: The Beaches of Mataro</title>
     <desc>The Trio are in Mataró competing to find their favorite holiday rentals for a traditional Catalonian escape.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_548065679_0_20240925T092305390Z_29_imageprocessorclient-tvplus-linear-5dc4fd45f6-fqr4t.jpeg" />
     <rating>
@@ -9933,13 +9914,13 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme channel="CABD1200012B8" start="20250316070700 +0000" stop="20250316080800 +0000">
-    <title>Dan Cruickshank's Adventures in Architecture</title>
-    <sub-title>Beauty</sub-title>
-    <desc>Historian and writer Dan Cruickshank investigates how humanity has created beauty through architecture.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_629500419_0_20250101T192133468Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-8b57x.jpeg" />
+  <programme channel="CABC5200002OG" start="20250316135444 +0000" stop="20250316144730 +0000">
+    <title>Interior Design Masters</title>
+    <sub-title>Just by a Hair</sub-title>
+    <desc>Our three remaining designers return to the Design Studio to discover their penultimate challenge a salon.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_548065718_1_20240925T092306345Z_107_imageprocessorclient-tvplus-linear-5dc4fd45f6-fsphx.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>TV-G</value>
     </rating>
   </programme>
   <programme channel="CABD1200012B8" start="20250316080800 +0000" stop="20250316090900 +0000">
@@ -9996,18 +9977,17 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="CABD1200010LE" start="20250316063700 +0000" stop="20250316074400 +0000">
-    <title>Rick Stein's India</title>
-    <sub-title>Rajasthan and Himachal Pradesh</sub-title>
-    <desc>Rick Stein visits the royal state of Rajasthan, a land of kings, hilltop forts and palaces, where the local population are serious meat-eaters.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_538393348_0_20240217T082456829Z_107.jpeg" />
+  <programme channel="CABD1200012B8" start="20250316141200 +0000" stop="20250316151000 +0000">
+    <title>Dan Cruickshank's Adventures in Architecture</title>
+    <sub-title>Pleasure</sub-title>
+    <desc>Dan visits India, Germany, Italy and Brazil to explore how architecture produces pleasure.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_629500419_0_20250101T192133468Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-8b57x.jpeg" />
     <rating>
-      <value>CAN_ENG_G</value>
+      <value>NA</value>
     </rating>
   </programme>
   <programme channel="CABD1200010LE" start="20250316074400 +0000" stop="20250316085100 +0000">
-    <title>Rick Stein's India</title>
-    <sub-title>Madurai and Lucknow</sub-title>
+    <title>Rick Stein's India: Madurai and Lucknow</title>
     <desc>Rick Stein discovers a five-star hotel in Madurai employing local housewives for genuine home-cooked dishes and enjoys Chettinad Chicken, a dish inspired by spices brought back from both the east and the west by traveling merchants.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_538393348_0_20240217T082456829Z_107.jpeg" />
     <rating>
@@ -10086,13 +10066,22 @@
       <value>CAN_ENG_G</value>
     </rating>
   </programme>
-  <programme channel="CABC5200006AL" start="20250316070000 +0000" stop="20250316080000 +0000">
-    <title>On The Line</title>
-    <sub-title>Miami's Best New Chef is Making The Vietnamese Food of His Childhood</sub-title>
-    <desc>Experience a day in the life of a prominent culinary professional as Bon Appétit follows them in their world.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534175029_0_20231020T081903402Z_1.jpeg" />
+  <programme channel="CABD1200010LE" start="20250316133300 +0000" stop="20250316140600 +0000">
+    <title>Nigel Slater's Simple Suppers</title>
+    <sub-title>New Tricks</sub-title>
+    <desc>Nigel transforms classic recipes with some new twists.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_548515393_0_20241003T132632322Z_55_imageprocessorclient-tvplus-linear-5dc4fd45f6-z28mc.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="CABD1200010LE" start="20250316140600 +0000" stop="20250316143900 +0000">
+    <title>Nigel Slater's Simple Suppers</title>
+    <sub-title>Making Things Go Further</sub-title>
+    <desc>Nigel demonstrates how to make our ingredients go a little bit further.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_548515393_0_20241003T132632322Z_55_imageprocessorclient-tvplus-linear-5dc4fd45f6-z28mc.jpeg" />
+    <rating>
+      <value>NA</value>
     </rating>
   </programme>
   <programme channel="CABC5200006AL" start="20250316080000 +0000" stop="20250316090000 +0000">
@@ -10149,13 +10138,13 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme channel="CABB2500021YQ" start="20250316073000 +0000" stop="20250316080000 +0000">
-    <title>The 3 Best</title>
-    <sub-title>Duck</sub-title>
-    <desc>Duck meat is ultra-flavorful  these are the three best ways to make it even better. First, duck breast is c...</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_966273413_0_20250309T002211376Z_28_imageprocessorclient-tvplus-linear-b76dd9bbb-jk5t6.png" />
+  <programme channel="CABC5200006AL" start="20250316140000 +0000" stop="20250316150000 +0000">
+    <title>Street Eats</title>
+    <sub-title>We Tried Hong Kong's #1 Egg Tart Spot</sub-title>
+    <desc>This new series follows chef Lucas Sin as he goes on the ground in Hong Kong.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534175029_0_20231020T081903402Z_1.jpeg" />
     <rating>
-      <value>G</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
   <programme channel="CABB2500021YQ" start="20250316080000 +0000" stop="20250316083001 +0000">
@@ -10257,22 +10246,22 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="CABD1200002T9" start="20250316071501 +0000" stop="20250316074002 +0000">
-    <title>Basic Versus Baller: Travel at Any Cost</title>
-    <sub-title>Keep Austin Weird</sub-title>
-    <desc>In the state capital of Texas, Marko and Alex see what Austin has to offer. An eclectic city known for its music and cuisine, the guys brave the Texas heat and check out what keeps Austin weird.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_553299686_1_20241217T070217163Z_121_imageprocessorclient-tvplus-linear-5dc4fd45f6-z28mc.jpeg" />
+  <programme channel="CABB2500021YQ" start="20250316133000 +0000" stop="20250316140000 +0000">
+    <title>Spencer's Big 30</title>
+    <sub-title>Curry in a Hurry Night</sub-title>
+    <desc>Host Spencer Watts uses bold flavours to make classic Butter Chicken and refreshing Mango Lassi.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_541512491_1_20240508T003640047Z_33.jpeg" />
     <rating>
-      <value>TV-14</value>
+      <value>G</value>
     </rating>
   </programme>
-  <programme channel="CABD1200002T9" start="20250316074002 +0000" stop="20250316080503 +0000">
-    <title>Basic Versus Baller: Travel at Any Cost</title>
-    <sub-title>Levels of Luxury in Laos</sub-title>
-    <desc>Sandwiched between Thailand, Vietnam, and Cambodia, Laos is a destination often overlooked by tourists. Marko and Alex are uncovering the hidden gem of Vientiane, the capital city, to see what goes on in this sleepy town beside the Mekong River.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_541652344_0_20240510T142801421Z_40.jpeg" />
+  <programme channel="CABB2500021YQ" start="20250316140000 +0000" stop="20250316143000 +0000">
+    <title>Spencer's Big 30</title>
+    <sub-title>Taco Night</sub-title>
+    <desc>Have a fun, inexpensive, 30-minute fiesta in the kitchen with chef Spencer Watts' favourite taco recipes.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_541786067_0_20240514T004734700Z_43.jpeg" />
     <rating>
-      <value>TV-14</value>
+      <value>G</value>
     </rating>
   </programme>
   <programme channel="CABD1200002T9" start="20250316080503 +0000" stop="20250316083003 +0000">
@@ -10392,13 +10381,31 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="CA35000025N" start="20250316065433 +0000" stop="20250316074634 +0000">
-    <title>Farming For Love</title>
-    <sub-title>On The Makeout Train</sub-title>
-    <desc>The farmers and daters take a break from chores and reunite to kick up their boots at a barn party, with a one-on-one date at stake.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_549882278_0_20241028T112531817Z_40_imageprocessorclient-tvplus-linear-5dc4fd45f6-xpdp5.jpeg" />
+  <programme channel="CABD1200002T9" start="20250316133618 +0000" stop="20250316140219 +0000">
+    <title>Tastemade</title>
+    <sub-title>A Trip to Latin America</sub-title>
+    <desc>Bring your passport, we're heading to Latin America! Let's explore some dishes with a unique Latin flair!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534291177_0_20231024T182552334Z_88.jpeg" />
     <rating>
-      <value>PG</value>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="CABD1200002T9" start="20250316140219 +0000" stop="20250316142819 +0000">
+    <title>Tastemade</title>
+    <sub-title>Party Time Favorites</sub-title>
+    <desc>Whether it's the big game or a fancy dinner party, we have the recipes you can make when it's time to host!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534291177_0_20231024T182552334Z_88.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="CABD1200002T9" start="20250316142819 +0000" stop="20250316145404 +0000">
+    <title>Tastemade</title>
+    <sub-title>Southern Home Cooking</sub-title>
+    <desc>Today, we're going on a trip down south for a taste of some country home cooking!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_534291177_0_20231024T182552334Z_88.jpeg" />
+    <rating>
+      <value>TV-14</value>
     </rating>
   </programme>
   <programme channel="CA35000025N" start="20250316074634 +0000" stop="20250316083830 +0000">
@@ -10464,13 +10471,13 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="CA1400009E5" start="20250316065852 +0000" stop="20250316075244 +0000">
-    <title>Mighty Ships</title>
-    <sub-title>Cristobal Colon</sub-title>
-    <desc>The Cristobal Colon is to dredge sand from the sea floor for a super port in Cuxhaven, Germany.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_541779724_0_20240513T152413084Z_28.jpeg" />
+  <programme channel="CA35000025N" start="20250316135356 +0000" stop="20250316144316 +0000">
+    <title>The Amazing Race Canada</title>
+    <sub-title>This Is Going To Be A Spicy Leg</sub-title>
+    <desc>The race heads east to Niagara-on-the-Lake, Ont., where a roadblock has teams revved up and they try to sniff out a win.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_595840276_0_20241226T001941019Z_88_imageprocessorclient-tvplus-linear-5dc4fd45f6-kmjnf.jpeg" />
     <rating>
-      <value>G</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="CA1400009E5" start="20250316075244 +0000" stop="20250316084637 +0000">
@@ -10536,20 +10543,13 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme channel="CAAJ270002855" start="20250316073000 +0000" stop="20250316080000 +0000">
-    <title>Countdown: The Funniest Pets | Pet Tantrums</title>
-    <desc>We've got a speedy hedgehog, a strange bird battle and a lively lizard!</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_653692501_0_20250106T152225060Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-szqc9.jpeg" />
+  <programme channel="CA1400009E5" start="20250316140346 +0000" stop="20250316145740 +0000">
+    <title>The Mightiest</title>
+    <sub-title>Dream Teams</sub-title>
+    <desc>The intricate collaboration between people and machines in high-stakes environments where nothing can go wrong  featuring California...</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542227994_0_20240522T062431935Z_40.jpeg" />
     <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme channel="CAAJ270002855" start="20250316080000 +0000" stop="20250316083000 +0000">
-    <title>Funniest Pets of the Month | Ep. 2.2</title>
-    <desc>These pets won January '25. But after watching these clips, the real winner is you.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_789044143_0_20250202T151911031Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-ftks4.jpeg" />
-    <rating>
-      <value>TV-PG</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="CAAJ270002855" start="20250316083000 +0000" stop="20250316090000 +0000">
@@ -10632,31 +10632,20 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme channel="CABC2300002VB" start="20250316071528 +0000" stop="20250316073848 +0000">
-    <title>The Voyager with Josh Garcia</title>
-    <sub-title>Pearl of the Orient</sub-title>
-    <desc>Shanghai, China. Josh learns the ancient martial art of tai chi and then discovers how to make soup dumplings.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_533890513_0_20231012T163808849Z_54.jpeg" />
+  <programme channel="CAAJ270002855" start="20250316133000 +0000" stop="20250316140000 +0000">
+    <title>Dr. Phur | For the Love of Tennis Balls!</title>
+    <desc>What to do when your furry friends are too attached, scare off delivery drivers, and hate the holiday season.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_546196507_0_20240817T124332743Z_42_imageprocessorclient-tvplus-linear-64ff86dd75-56v7s.png" />
     <rating>
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme channel="CABC2300002VB" start="20250316073848 +0000" stop="20250316080210 +0000">
-    <title>The Voyager with Josh Garcia</title>
-    <sub-title>Caribbean Gem</sub-title>
-    <desc>Amber Cove, Dominican Republic. Josh discovers the natural wonder of amber, an indigenous gem.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_533890513_0_20231012T163808849Z_54.jpeg" />
+  <programme channel="CAAJ270002855" start="20250316140000 +0000" stop="20250316143000 +0000">
+    <title>Funniest Pets of the Month | Ep. 2.3</title>
+    <desc>These pets won February '25. But after watching these clips, the real winner is you.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_930076863_0_20250302T031754154Z_1_imageprocessorclient-tvplus-linear-b76dd9bbb-55jld.jpeg" />
     <rating>
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme channel="CABC2300002VB" start="20250316080210 +0000" stop="20250316082531 +0000">
-    <title>The Voyager with Josh Garcia</title>
-    <sub-title>Northern Highlights</sub-title>
-    <desc>In Juneau, Josh kayaks to Mendenhall Glacier and then learns about timbersports from lumberjacks in Ketchikan.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_533890513_0_20231012T163808849Z_54.jpeg" />
-    <rating>
-      <value>TV-G</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
   <programme channel="CABC2300002VB" start="20250316082531 +0000" stop="20250316084851 +0000">
@@ -10785,31 +10774,22 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme channel="CAAJ3400017AE" start="20250316071227 +0000" stop="20250316073128 +0000">
-    <title>Fascinating Places</title>
-    <sub-title>Untamed Wilderness</sub-title>
-    <desc>Patagonia seems to be primarily uninhabited by man, which makes this harsh, wild land a paradise for animals.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_536219532_0_20231214T212710137Z_1.jpeg" />
+  <programme channel="CABC2300002VB" start="20250316135319 +0000" stop="20250316141639 +0000">
+    <title>The Voyager with Josh Garcia</title>
+    <sub-title>Medieval Treasure</sub-title>
+    <desc>Josh sails to Tallinn, Estonia, one of Europe's best-preserved cities, and steps back into medieval times.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_533890513_0_20231012T163808849Z_54.jpeg" />
     <rating>
-      <value>TV-14</value>
+      <value>TV-G</value>
     </rating>
   </programme>
-  <programme channel="CAAJ3400017AE" start="20250316073128 +0000" stop="20250316075002 +0000">
-    <title>Fascinating Places</title>
-    <sub-title>From Pantanal to the Iguacu Waterfalls</sub-title>
-    <desc>The Pantanal, in the southwest of Brazil, is the largest marsh in the world.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_536219532_0_20231214T212710137Z_1.jpeg" />
+  <programme channel="CABC2300002VB" start="20250316141639 +0000" stop="20250316144118 +0000">
+    <title>Ocean Mysteries with Jeff Corwin</title>
+    <sub-title>Secrets of Sea Lions</sub-title>
+    <desc>Host Jeff Corwin uncovers the hidden world of Steller sea lions on an adventure to Vancouver, Canada.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_533890513_0_20231012T163808849Z_54.jpeg" />
     <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="CAAJ3400017AE" start="20250316075002 +0000" stop="20250316082206 +0000">
-    <title>Super Senses: Wild Feats of Evolution</title>
-    <sub-title>Sight</sub-title>
-    <desc>The human imagination is limited when it comes to animal senses.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_536867563_0_20240103T202415221Z_121.jpeg" />
-    <rating>
-      <value>TV-PG</value>
+      <value>TV-G</value>
     </rating>
   </programme>
   <programme channel="CAAJ3400017AE" start="20250316082206 +0000" stop="20250316085353 +0000">
@@ -10901,11 +10881,11 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="CA900003IF" start="20250316072618 +0000" stop="20250316081742 +0000">
-    <title>How The Earth Was Made</title>
-    <sub-title>Hawaii</sub-title>
-    <desc>The Hawaiian Islands are the most remote island chain on the planet.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_545564334_0_20240804T002130386Z_136.jpeg" />
+  <programme channel="CAAJ3400017AE" start="20250316141411 +0000" stop="20250316151653 +0000">
+    <title>Mega Disaster</title>
+    <sub-title>Volcano</sub-title>
+    <desc>Volcanoes can bury entire cities in clouds of ash and gas, or turn rivers into torrents of mud and debris.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_548700350_0_20241007T002308208Z_58_imageprocessorclient-tvplus-linear-5dc4fd45f6-jqdl4.jpeg" />
     <rating>
       <value>TV-PG</value>
     </rating>
@@ -10973,10 +10953,14 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme channel="GBBD8000016N" start="20250316073000 +0000" stop="20250316080000 +0000">
-    <title>Quest's World of Wonder</title>
-    <desc>The Indian Ocean island of Mauritius is a dream destination for holiday-makers and honeymooners alike. Discover what else this unique destination has to offer.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_513737589_0_20241204T002414982Z_23_imageprocessorclient-tvplus-linear-7cd5d896cc-g6qbr.png" />
+  <programme channel="CA900003IF" start="20250316141630 +0000" stop="20250316150916 +0000">
+    <title>The Universe</title>
+    <sub-title>Mysteries Of The Moon</sub-title>
+    <desc>For thousands of years, mankind has found comfort in its presence.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/CA_USQT620324A_542886870_1_20240606T053736595Z_40.jpeg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
   </programme>
   <programme channel="GBBD8000016N" start="20250316080000 +0000" stop="20250316090000 +0000">
     <title>CNN</title>
@@ -11016,6 +11000,11 @@
     <desc>Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_513737589_0_20241204T002414982Z_23_imageprocessorclient-tvplus-linear-7cd5d896cc-g6qbr.png" />
   </programme>
+  <programme channel="GBBD8000016N" start="20250316140000 +0000" stop="20250316150000 +0000">
+    <title>Fareed Zakaria GPS</title>
+    <desc>Fareed Zakaria brings viewers his insights and analysis, and interviews world leaders, artists, scientists, business leaders, global affairs analysts and other cultural observers for the 'Global Public Square.'</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_513737589_0_20241204T002414982Z_23_imageprocessorclient-tvplus-linear-7cd5d896cc-g6qbr.png" />
+  </programme>
   <programme channel="GBBB1600008R3" start="20250316060000 +0000" stop="20250316093000 +0000">
     <title>Breakfast with Stephen and Anne</title>
     <desc>It's Stephen and Anne here. Join us for the weekend breakfast show Britain is turning to. News from around our great country and the world is live here on GB News Breakfast.</desc>
@@ -11035,26 +11024,6 @@
     <title>The Weekend</title>
     <desc>A lively look at all the latest live and breaking news for the weekend from around the UK with our network of GB News reporters, plus views and debate from a wide range of perspectives.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_505509588_0_20240918T105427845Z_1_imageprocessorclient-tvplus-linear-7cd5d896cc-qjm7s.png" />
-  </programme>
-  <programme channel="GBBD1100002L5" start="20250316073000 +0000" stop="20250316074500 +0000">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485348807_9_20231018T140012878Z_69.png" />
-  </programme>
-  <programme channel="GBBD1100002L5" start="20250316074500 +0000" stop="20250316080000 +0000">
-    <title>Fashion</title>
-    <desc>All the best of the Parisian catwalks and a behind-the-scenes look at the big names in Haute couture.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_487494693_5_20240106T060033477Z_63.jpeg" />
-  </programme>
-  <programme channel="GBBD1100002L5" start="20250316080000 +0000" stop="20250316081500 +0000">
-    <title>News</title>
-    <desc>An international news bulletin, presented live from the newsroom.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485348807_9_20231018T140012878Z_69.png" />
-  </programme>
-  <programme channel="GBBD1100002L5" start="20250316081500 +0000" stop="20250316083000 +0000">
-    <title>France In Focus</title>
-    <desc>An in-depth look at the political and social events shaping France.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485353315_9_20231018T140013176Z_69.jpeg" />
   </programme>
   <programme channel="GBBD1100002L5" start="20250316083000 +0000" stop="20250316084500 +0000">
     <title>News</title>
@@ -11156,6 +11125,26 @@
     <desc>An in-depth look at the political and social events shaping France.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485353315_9_20231018T140013176Z_69.jpeg" />
   </programme>
+  <programme channel="GBBD1100002L5" start="20250316133000 +0000" stop="20250316134500 +0000">
+    <title>News</title>
+    <desc>An international news bulletin, presented live from the newsroom.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485348807_9_20231018T140012878Z_69.png" />
+  </programme>
+  <programme channel="GBBD1100002L5" start="20250316134500 +0000" stop="20250316140000 +0000">
+    <title>The 51 Percent</title>
+    <desc>A program about women who are reshaping our world.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485349852_2_20231018T140005581Z_58.jpeg" />
+  </programme>
+  <programme channel="GBBD1100002L5" start="20250316140000 +0000" stop="20250316141500 +0000">
+    <title>News</title>
+    <desc>An international news bulletin, presented live from the newsroom.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485348807_9_20231018T140012878Z_69.png" />
+  </programme>
+  <programme channel="GBBD1100002L5" start="20250316141500 +0000" stop="20250316143000 +0000">
+    <title>People And Profit</title>
+    <desc>Going beyond the corporate jargon to break down major business stories to see how they affect our lives.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485350250_1_20231018T140005401Z_129.jpeg" />
+  </programme>
   <programme channel="GBBD4900001RG" start="20250316070000 +0000" stop="20250316090000 +0000">
     <title>Reuters</title>
     <sub-title>Morning News</sub-title>
@@ -11186,11 +11175,6 @@
     <desc>Reuters delivers fast, accurate, unbiased and trusted news around the globe.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_488130744_3_20240130T174553604Z_155.png" />
   </programme>
-  <programme channel="GBBC900007Q5" start="20250316063517 +0000" stop="20250316080215 +0000">
-    <title>Earthtastrophe</title>
-    <desc>Planet Earth is sucked into a terrifying wormhole.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_619278640_0_20250203T143824507Z_123_imageprocessorclient-tvplus-linear-7cd5d896cc-bwxh8.jpeg" />
-  </programme>
   <programme channel="GBBC900007Q5" start="20250316080215 +0000" stop="20250316093901 +0000">
     <title>Deadly Exchange</title>
     <desc>A mother and daughter invite an exchange student into home, only to be interrupted by a suspicious murder. Starring Lindsay Hartley (2016)</desc>
@@ -11211,10 +11195,10 @@
     <desc />
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_561799361_0_20250107T155138665Z_1_imageprocessorclient-tvplus-linear-7cd5d896cc-x6dc5.png" />
   </programme>
-  <programme channel="GBBB3800003JH" start="20250316061426 +0000" stop="20250316075532 +0000">
-    <title>Sox: A Family's Best Friend</title>
-    <desc>A new family is having difficulty adjusting, when an adorable dog comes into their life. Once his special powers are discovered, the local dog catcher and the (F.B.D.I) Federal Bureau of Dog Investigation will stop at nothing to get him.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_489778350_14_20240329T051041003Z_143.jpeg" />
+  <programme channel="GBBC900007Q5" start="20250316141859 +0000" stop="20250316155419 +0000">
+    <title>Washed Away</title>
+    <desc>Whilst attempting to move on from her husband's death, a woman discovers him alive and well. Starring Emmanuelle Vaugier (2017)</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_489001261_4_20240301T145558865Z_78.jpeg" />
   </programme>
   <programme channel="GBBB3800003JH" start="20250316075532 +0000" stop="20250316093102 +0000">
     <title>Jock of the Bushveld</title>
@@ -11256,11 +11240,6 @@
     <desc>The guy Paige has fallen for is actually a prince, and things are complicated further when the king abdicates.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485476140_0_20231024T022007802Z_146.jpeg" />
   </programme>
-  <programme channel="GBBC900008L9" start="20250316060315 +0000" stop="20250316073345 +0000">
-    <title>Love, For Real</title>
-    <desc>Hayley and her best friend Bree go on a reality dating show to publicize her fashion line, but nothing goes as planned when love, friendship, and careers are on the line.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_514681166_0_20241212T005026199Z_1_imageprocessorclient-tvplus-linear-7cd5d896cc-gwp7l.jpeg" />
-  </programme>
   <programme channel="GBBC900008L9" start="20250316073345 +0000" stop="20250316090000 +0000">
     <title>Raise a Glass to Love</title>
     <desc>An aspiring Master Sommelier Jenna returns to her family vineyard  and is fascinated by the natural methods of the new winemaker. Starring Laura Osnes (2021)</desc>
@@ -11280,6 +11259,11 @@
     <title>Love, Alaska</title>
     <desc>Loner Finn has been home for a year but doesn't feel like he fits in. All is about to change when old flame Maggie returns home. (2019)</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_486187232_1_20231116T012607839Z_73.jpeg" />
+  </programme>
+  <programme channel="GBBC900008L9" start="20250316134255 +0000" stop="20250316150444 +0000">
+    <title>Cabin Connection</title>
+    <desc>A lifestyle writer hires widowed handyman Cole to help get the cabin she inherited into shape. Starring Katherine Barrell (2022)</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_651182915_0_20250218T122725023Z_1_imageprocessorclient-tvplus-linear-6fb5b47f79-7vnkv.jpeg" />
   </programme>
   <programme channel="GBAJ400042T1" start="20250316072647 +0000" stop="20250316091540 +0000">
     <title>Beauty and The Billionaire</title>
@@ -11343,14 +11327,6 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352137A_510047749_1_20241031T212423917Z_122_imageprocessorclient-tvplus-linear-7cd5d896cc-l4w6v.jpeg" />
     <rating>
       <value>16</value>
-    </rating>
-  </programme>
-  <programme channel="GBBB5000002PL" start="20250316065627 +0000" stop="20250316075259 +0000">
-    <title>Giant Appetites</title>
-    <desc>In an ever changing world food is one of the few constants – it's the driver for almost anything that creatures do. Appetites vary from species to species, but some seem to take more than their fair share</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489712191_0_20240326T160607129Z_1.jpeg" />
-    <rating>
-      <value>12</value>
     </rating>
   </programme>
   <programme channel="GBBB5000002PL" start="20250316075259 +0000" stop="20250316084304 +0000">
@@ -11423,12 +11399,21 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="GBBC900015D3" start="20250316064239 +0000" stop="20250316073929 +0000">
-    <title>North America's National Parks</title>
-    <desc>Yellowstone National Park is an American national park located in the western United States, largely in the northwest corner of Wyoming and extending into Montana, and Idaho. It was established by the U.S. Congress and signed into law by President Ulysses S. Grant on March 1, 1872. Yellowstone was the first national park in the U.S. and is also widely held to be the first national park in the world. The park is known for its wildlife and its many geothermal features, especially Old Faithful geyser, one of its most popular. While it represents many types of biomes, the subalpine forest is the most abundant. It is part of the South Central Rockies forests ecoregion. (S1 E04)</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352137A_509934215_32_20241030T220119945Z_125_imageprocessorclient-tvplus-linear-7cd5d896cc-d4vtb.jpeg" />
+  <programme channel="GBBB5000002PL" start="20250316134416 +0000" stop="20250316141123 +0000">
+    <title>Epic Safari Encounters</title>
+    <sub-title>Bumi Hills Safari Lodge Part 1</sub-title>
+    <desc>Back on the banks of Lake Kariba, Kristina is hosted by the luxurious Bumi Hills Safari Lodge. She tracks lions with her guide Madison, witness elephants swimming and challenges Madison to a fishing bet and finally gets to tick an elusive cat off her bucket list.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_485221451_0_20231013T023057605Z_1.jpeg" />
     <rating>
-      <value>3</value>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="GBBB5000002PL" start="20250316141123 +0000" stop="20250316150755 +0000">
+    <title>Nature's Cutest</title>
+    <desc>As we all know the natural world can be tough and challenging at times, but it can also be nothing short of adorable.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_489797423_0_20240329T144954399Z_113.jpeg" />
+    <rating>
+      <value>12</value>
     </rating>
   </programme>
   <programme channel="GBBC900015D3" start="20250316073929 +0000" stop="20250316083620 +0000">
@@ -11487,23 +11472,13 @@
       <value>3</value>
     </rating>
   </programme>
-  <programme channel="GBBD50000084W" start="20250316070710 +0000" stop="20250316073135 +0000">
-    <title>Jack Hanna</title>
-    <sub-title>'s Wild Countdown</sub-title>
-    <desc>These creatures know how to protect their territories and themselves!</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_488294806_4_20240205T145250269Z_144.png" />
-  </programme>
-  <programme channel="GBBD50000084W" start="20250316073135 +0000" stop="20250316075545 +0000">
-    <title>Jack Hanna</title>
-    <sub-title>'s Wild Countdown</sub-title>
-    <desc>Giraffes, zebras, moose and bongo have very different coats, but they all wear the same shoe style!</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_488294806_4_20240205T145250269Z_144.png" />
-  </programme>
-  <programme channel="GBBD50000084W" start="20250316075545 +0000" stop="20250316082041 +0000">
-    <title>Jack Hanna</title>
-    <sub-title>'s Wild Countdown</sub-title>
-    <desc>Join Jack as he's counting down ten amazing equine experiences!</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_488294806_4_20240205T145250269Z_144.png" />
+  <programme channel="GBBC900015D3" start="20250316142857 +0000" stop="20250316152933 +0000">
+    <title>Portugal's Nature Parks</title>
+    <desc>Madeira - Portugal's autonomous island in the Atlantic Ocean, is closer to the African coast than to the mother country Portugal, from which it is separated by about 900 kilometers. The island's name comes from Portuguese sailors who claimed the uninhabited isle for themselves in 1419. Madeira means wood and that was available in abundance. Almost the entire surface was covered by dense forest. Since 1982, two-thirds of the landscape has been protected. (S1 E04)</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQU352137A_509934270_27_20241030T220126999Z_60_imageprocessorclient-tvplus-linear-7cd5d896cc-kk2zh.jpeg" />
+    <rating>
+      <value>3</value>
+    </rating>
   </programme>
   <programme channel="GBBD50000084W" start="20250316082041 +0000" stop="20250316084451 +0000">
     <title>Jack Hanna</title>
@@ -11583,10 +11558,23 @@
     <desc>Experience the Great Migration as animals cross the Mara River into Tanzania's Serengeti National Park!</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_488294806_4_20240205T145250269Z_144.png" />
   </programme>
-  <programme channel="GBBB1000005IO" start="20250316070712 +0000" stop="20250316080803 +0000">
-    <title>Animal Armoury</title>
-    <desc>Take a look at various animals fighting styles such as elks, gorillas, Kangaroos and shrimp.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_487270251_1_20231228T145333036Z_1.jpeg" />
+  <programme channel="GBBD50000084W" start="20250316134024 +0000" stop="20250316140434 +0000">
+    <title>Jack Hanna</title>
+    <sub-title>'s Wild Countdown</sub-title>
+    <desc>Join Jungle Jack as he counts down some of the weirdest, wackiest and wildest animal behaviors on the planet!</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_488294806_4_20240205T145250269Z_144.png" />
+  </programme>
+  <programme channel="GBBD50000084W" start="20250316140434 +0000" stop="20250316142919 +0000">
+    <title>Jack Hanna</title>
+    <sub-title>'s Into the Wild</sub-title>
+    <desc>Jack and his grandson witness cheetahs and lions on the savannah!</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_488294806_4_20240205T145250269Z_144.png" />
+  </programme>
+  <programme channel="GBBD50000084W" start="20250316142919 +0000" stop="20250316145329 +0000">
+    <title>Jack Hanna</title>
+    <sub-title>'s Wild Countdown</sub-title>
+    <desc>Big cats, gigantic spiders, killer reptiles… all of today's creatures are deadly in their own way!</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_488294806_4_20240205T145250269Z_144.png" />
   </programme>
   <programme channel="GBBB1000005IO" start="20250316080803 +0000" stop="20250316090847 +0000">
     <title>Animal Armoury</title>
@@ -11623,17 +11611,15 @@
     <desc>Sharks, often feared, have a deeper significance beyond their appearance.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_493049529_2_20240522T213620857Z_136.jpeg" />
   </programme>
-  <programme channel="GBBA220000751" start="20250316070742 +0000" stop="20250316074131 +0000">
-    <title>Monkey Thieves</title>
-    <sub-title>Searching for Sanctuary</sub-title>
-    <desc>Rani and the temple troop rely on handouts, while Bipin and the exiles search for a new base. As prospects dim, they suddenly find a ray of hope.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668951285_0_20250225T161653051Z_54_imageprocessorclient-tvplus-linear-6fb5b47f79-9tw54.jpeg" />
+  <programme channel="GBBB1000005IO" start="20250316134743 +0000" stop="20250316141418 +0000">
+    <title>World of Oceans</title>
+    <desc>All creatures aim to pass on their genes and ensure the success of their offspring.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_493049529_2_20240522T213620857Z_136.jpeg" />
   </programme>
-  <programme channel="GBBA220000751" start="20250316074131 +0000" stop="20250316081521 +0000">
-    <title>Monkey Thieves</title>
-    <sub-title>Urban Exile</sub-title>
-    <desc>With Jaipur overrun by langurs, the splinter group must try every trick in the book to locate food. In a faraway forest, Zamir reappears.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668961000_0_20250225T161700758Z_15_imageprocessorclient-tvplus-linear-6fb5b47f79-9tw54.jpeg" />
+  <programme channel="GBBB1000005IO" start="20250316141418 +0000" stop="20250316144102 +0000">
+    <title>World Of Oceans</title>
+    <desc>The ocean's mysteries and creatures have inspired myths and legends for thousands of years.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_493049529_2_20240522T213620857Z_136.jpeg" />
   </programme>
   <programme channel="GBBA220000751" start="20250316081521 +0000" stop="20250316084911 +0000">
     <title>Monkey Thieves</title>
@@ -11677,10 +11663,17 @@
     <desc>Capturing a large bull elephant almost ends in disaster when it falls in an awkward position and stops breathing. We welcome some very rare and special new arrivals. White lion cubs have just been born at Shamwari's sister reserve Sanbona.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_669809917_0_20250226T001706174Z_74_imageprocessorclient-tvplus-linear-6fb5b47f79-mxkkf.jpeg" />
   </programme>
-  <programme channel="GBBD500001F5" start="20250316072200 +0000" stop="20250316082100 +0000">
-    <title>A Genet's Tale</title>
-    <desc>In a hidden corner of the Mediterranean forest three young genet cubs begin to discover the world.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_487477315_3_20240105T145218276Z_43.jpeg" />
+  <programme channel="GBBA220000751" start="20250316134927 +0000" stop="20250316142415 +0000">
+    <title>The Great Penguin Rescue</title>
+    <sub-title>Episode 4</sub-title>
+    <desc>As more starving penguin chicks are rescued, Michaela must work as hard as she can to keep the youngsters alive, but can she keep up with the pace as the birds keep on coming?</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668956082_2_20250225T161701645Z_98_imageprocessorclient-tvplus-linear-6fb5b47f79-hnnz9.jpeg" />
+  </programme>
+  <programme channel="GBBA220000751" start="20250316142415 +0000" stop="20250316145904 +0000">
+    <title>The Great Penguin Rescue</title>
+    <sub-title>Episode 5</sub-title>
+    <desc>Michael needs to face her fears now and learn the critical task of hand feeding young birds. If she doesn't, they will certainly die. But can she master the task in time?</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_668961967_1_20250225T161659011Z_80_imageprocessorclient-tvplus-linear-6fb5b47f79-xv2bl.jpeg" />
   </programme>
   <programme channel="GBBD500001F5" start="20250316082100 +0000" stop="20250316092100 +0000">
     <title>Wild Faces of Switzerland</title>
@@ -11712,21 +11705,10 @@
     <desc>In a hidden corner of the Mediterranean forest three young genet cubs begin to discover the world.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_487477315_3_20240105T145218276Z_43.jpeg" />
   </programme>
-  <programme channel="USBA370000104" start="20250316070000 +0000" stop="20250316080000 +0000">
-    <title>60 Minutes</title>
-    <desc>The oldest and most-watched newsmagazine on television gets the real story on America's most prevalent issues. CBS News correspondents contribute segments to each hourlong episode. Topics range from hard news coverage to politics, lifestyle, pop culture, business, health, and science. The correspondents and contributors include Lesley Stahl, Scott Pelley, Anderson Cooper, Bill Whitaker, Sharyn Alfonsi, Jon Wertheim and Norah O'Donnell .</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQA520417A_545359982_1_20240731T065753572Z_85.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="USBA370000104" start="20250316080000 +0000" stop="20250316083000 +0000">
-    <title>Here Comes the Sun</title>
-    <desc>Taking a closer look at some of the people, places, and things brought to viewers every weekend.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQA520417A_545360012_0_20240731T065753391Z_86.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme channel="GBBD500001F5" start="20250316140900 +0000" stop="20250316150900 +0000">
+    <title>Wild Faces of Switzerland</title>
+    <desc>Discover the unique and diverse wildlife that makes Switzerland such a special place.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_487553138_5_20240108T145150892Z_91.jpeg" />
   </programme>
   <programme channel="USBA370000104" start="20250316083000 +0000" stop="20250316090000 +0000">
     <title>Here Comes the Sun</title>
@@ -11792,10 +11774,10 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="USBC39000171G" start="20250316073000 +0000" stop="20250316080000 +0000">
-    <title>On the Run</title>
-    <desc>ABC News Live</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_982600727_0_20250312T032039629Z_94_imageprocessorclient-tvplus-linear-b76dd9bbb-r4zw8.jpeg" />
+  <programme channel="USBA370000104" start="20250316133000 +0000" stop="20250316150000 +0000">
+    <title>CBS News Sunday Morning</title>
+    <desc>The sparkling notes of a trumpet fanfare and the familiar logo of the sun alert viewers that it's time for CBS's Sunday morning staple. Journalist Jane Pauley helms the show, taking over hosting duties from Charles Osgood, who spent 22 years on the job. A morning talk show, this program airs at a different pace and focuses much of its attention on the performing arts. After a quick update of the day's news and national weather, correspondents offer longer-length segments on a variety of topics, from architecture to ballet to music to pop culture to politics.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQA520417A_752350355_0_20250126T064607244Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-p6g22.jpeg" />
     <rating>
       <value>NA</value>
     </rating>
@@ -11868,6 +11850,23 @@
       <value>NA</value>
     </rating>
   </programme>
+  <programme channel="USBC39000171G" start="20250316133000 +0000" stop="20250316140000 +0000">
+    <title>The Weekend View</title>
+    <desc>ABC News Live</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_663565982_2_20250108T151757760Z_62_imageprocessorclient-tvplus-linear-5dc4fd45f6-jqdl4.jpeg" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="USBC39000171G" start="20250316140000 +0000" stop="20250316143000 +0000">
+    <title>ABC News Live</title>
+    <sub-title>Weekends</sub-title>
+    <desc>ABC News Live</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_826998885_0_20250210T062214529Z_84_imageprocessorclient-tvplus-linear-5dc4fd45f6-qbw2m.jpeg" />
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
   <programme channel="USBA300024TN" start="20250316060000 +0000" stop="20250316100000 +0000">
     <title>LiveNOW from FOX</title>
     <desc>A raw and unfiltered, non-stop stream of breaking news, live events and stories across the nation.</desc>
@@ -11884,10 +11883,10 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="USBD3000073N" start="20250316070000 +0000" stop="20250316080000 +0000">
-    <title>The Week as It Happened</title>
-    <desc>Get caught up on all the big stories and breaking news from the week.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_561690199_0_20241218T232458175Z_33_imageprocessorclient-tvplus-linear-5dc4fd45f6-7xngg.jpeg" />
+  <programme channel="USBA300024TN" start="20250316140000 +0000" stop="20250316180000 +0000">
+    <title>LiveNOW from FOX</title>
+    <desc>A raw and unfiltered, non-stop stream of breaking news, live events and stories across the nation.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_883609160_0_20250221T112034428Z_143_imageprocessorclient-tvplus-linear-b76dd9bbb-z2cj4.jpeg" />
     <rating>
       <value>NA</value>
     </rating>
@@ -11943,19 +11942,29 @@
     </rating>
   </programme>
   <programme channel="USBD3000073N" start="20250316130000 +0000" stop="20250316133000 +0000">
-    <title>Xploration Awesome Planet: Natural Disasters</title>
+    <title>Xploration Awesome Planet</title>
+    <sub-title>Natural Disasters</sub-title>
     <desc>Science helps people prepare for natural disasters: simulating a category 5 hurricane  avalanche safety  studying floods  designing buildings to hold up against earthquakes.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533948624_1_20231015T002810518Z_61.jpeg" />
     <rating>
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme channel="USBD700003L7" start="20250316065900 +0000" stop="20250316075900 +0000">
-    <title>FOX Nation: Capitol Reef</title>
-    <desc>Abby continues her RV trip through Utah along the Scenic Byway 12 and arrives at Capitol Reef National Park  exploring the red rocks on this Independence Day, Abby embarks on a llama tour and discovers petroglyphs dating back to the ancient settlers.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_535190533_0_20231116T012915746Z_46.jpeg" />
+  <programme channel="USBD3000073N" start="20250316133000 +0000" stop="20250316140000 +0000">
+    <title>Xploration Awesome Planet</title>
+    <sub-title>Taking Flight</sub-title>
+    <desc>Catching and tagging bats in Congaree National Park  flight patterns of wood storks  the transformation from caterpillar to butterfly.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533948624_1_20231015T002810518Z_61.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="USBD3000073N" start="20250316140000 +0000" stop="20250316143000 +0000">
+    <title>Xploration: Animal Science: Primarily Primates</title>
+    <desc>In this episode we meet human's closest relatives - primates. See what makes a chimpanzee one of the most intelligent primates. Find out why the spider monkey is such an amazing climber and feel the power of the howler monkey's howl.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_546905683_0_20240902T001900603Z_34_imageprocessorclient-tvplus-linear-5dc4fd45f6-jwswd.jpeg" />
+    <rating>
+      <value>TV-G</value>
     </rating>
   </programme>
   <programme channel="USBD700003L7" start="20250316075900 +0000" stop="20250316085900 +0000">
@@ -12002,22 +12011,6 @@
     <title>Weather Command Weekend</title>
     <desc>Stay up to date inside the Weather Command center with a weekend forecast, real-time weather alerts and breaking weather news.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_990779357_0_20250313T162643506Z_103_imageprocessorclient-tvplus-linear-b76dd9bbb-q9jtz.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="USBB52000022Q" start="20250316073000 +0000" stop="20250316080000 +0000">
-    <title>Breakfast with Anna Jones</title>
-    <desc>All the big stories of the morning, with news making interviews, human interest stories, a review of the newspapers, and the latest sports updates.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552297521_0_20241204T132930515Z_71_imageprocessorclient-tvplus-linear-5dc4fd45f6-b9k9c.jpeg" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="USBB52000022Q" start="20250316080000 +0000" stop="20250316083000 +0000">
-    <title>Breakfast with Anna Jones</title>
-    <desc>All the big stories of the morning, with news making interviews, human interest stories, a review of the newspapers, and the latest sports updates.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552297521_0_20241204T132930515Z_71_imageprocessorclient-tvplus-linear-5dc4fd45f6-b9k9c.jpeg" />
     <rating>
       <value>NA</value>
     </rating>
@@ -12093,13 +12086,21 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="USAJ3400011A8" start="20250316073000 +0000" stop="20250316080000 +0000">
-    <title>Bloomberg Investigates</title>
-    <sub-title>Monkey Laundering</sub-title>
-    <desc>Fake permits, undercover informants and millions of dollars are involved  a US government agency works to prove suppliers to research labs import wild monkeys from Cambodia with false paperwork.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_909619032_1_20250226T082217359Z_20_imageprocessorclient-tvplus-linear-b76dd9bbb-vg5j4.jpeg" />
+  <programme channel="USBB52000022Q" start="20250316133000 +0000" stop="20250316140000 +0000">
+    <title>Trevor Phillips: Highlights</title>
+    <desc>Exclusive interviews, news analysis and more from the latest episode of Trevor Phillips, with more discussions on the day's current affairs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552297519_0_20241204T132938522Z_106_imageprocessorclient-tvplus-linear-5dc4fd45f6-b9k9c.jpeg" />
     <rating>
-      <value>TV-G</value>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="USBB52000022Q" start="20250316140000 +0000" stop="20250316143000 +0000">
+    <title>Sky News</title>
+    <sub-title>Today</sub-title>
+    <desc>The latest breaking news stories with reports and analysis from Sky News correspondents across the UK and around the world.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_544979369_2_20240722T092830384Z_139.jpeg" />
+    <rating>
+      <value>NA</value>
     </rating>
   </programme>
   <programme channel="USAJ3400011A8" start="20250316080000 +0000" stop="20250316090000 +0000">
@@ -12129,8 +12130,7 @@
     </rating>
   </programme>
   <programme channel="USAJ3400011A8" start="20250316110000 +0000" stop="20250316113000 +0000">
-    <title>Bloomberg Investigates</title>
-    <sub-title>Scambaiters</sub-title>
+    <title>Bloomberg Investigates: Scambaiters</title>
     <desc>An estimated $1 trillion lost globally to fraud  with law enforcement struggling to cope, scambaiter vigilantes are filling the gaps.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_909619032_1_20250226T082217359Z_20_imageprocessorclient-tvplus-linear-b76dd9bbb-vg5j4.jpeg" />
     <rating>
@@ -12171,13 +12171,12 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme channel="USBD300002TU" start="20250316070000 +0000" stop="20250316080000 +0000">
-    <title>Sue Thomas F.B.Eye</title>
-    <sub-title>Political Agenda</sub-title>
-    <desc>The team investigates a journalist's murder  Sue helps a congressional aide.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_541058641_2_20240427T003646057Z_50.jpeg" />
+  <programme channel="USAJ3400011A8" start="20250316140000 +0000" stop="20250316143000 +0000">
+    <title>The David Rubenstein Show: Peer to Peer Conversations: Brian Moynihan: Bank of America Chairman and CEO</title>
+    <desc>Brian Moynihan brought Bank of America back from the brink of disaster and turned it into the largest consumer bank in the U.S.  exploring how he led the turnaround.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_955134735_0_20250306T212346187Z_61_imageprocessorclient-tvplus-linear-b76dd9bbb-slcx2.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>TV-G</value>
     </rating>
   </programme>
   <programme channel="USBD300002TU" start="20250316080000 +0000" stop="20250316090000 +0000">
@@ -12234,18 +12233,16 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="USBD300003LK" start="20250316060000 +0000" stop="20250316080000 +0000">
-    <title>Midsomer Murders</title>
-    <sub-title>The Incident at Cooper Hill</sub-title>
-    <desc>Mysterious lights are seen in the sky over famous UFO hotspot Cooper Hill  a local forest ranger suffers a strange death and the visiting UFO spotters are convinced aliens are responsible.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538058246_0_20240207T164008703Z_60.jpeg" />
+  <programme channel="USBD300002TU" start="20250316140000 +0000" stop="20250316150000 +0000">
+    <title>NCIS: Under the Radar</title>
+    <desc>When a Navy lieutenant goes missing, the team uses Twitter to help solve the case  McGee's badge is missing.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_547972295_0_20240923T223404563Z_1_imageprocessorclient-tvplus-linear-5dc4fd45f6-lxmvh.jpeg" />
     <rating>
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme channel="USBD300003LK" start="20250316080000 +0000" stop="20250316100000 +0000">
-    <title>Midsomer Murders</title>
-    <sub-title>Breaking the Chain</sub-title>
+    <title>Midsomer Murders: Breaking the Chain</title>
     <desc>An international cycling race leader is murdered  Barnaby and Nelson find themselves drawn into a competitive world of blackmail, bribery and bloodshed.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538058246_0_20240207T164008703Z_60.jpeg" />
     <rating>
@@ -12288,11 +12285,11 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme channel="USBC6000225M" start="20250316070000 +0000" stop="20250316080000 +0000">
-    <title>Leverage</title>
-    <sub-title>The Toy Job</sub-title>
-    <desc>The team creates a global toy craze to take on a CEO who is about to release a dangerous toy onto the market.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533895474_2_20231013T002827436Z_15.jpeg" />
+  <programme channel="USBD300003LK" start="20250316140000 +0000" stop="20250316150000 +0000">
+    <title>Murdoch Mysteries</title>
+    <sub-title>Pendrick's Planetary Parlour</sub-title>
+    <desc>Murdoch investigates after a murder is transmitted over James Pendrick's new invention.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_547604255_0_20240916T152407106Z_73_imageprocessorclient-tvplus-linear-5dc4fd45f6-2m7pn.jpeg" />
     <rating>
       <value>TV-PG</value>
     </rating>
@@ -12351,21 +12348,13 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="USBC44000072I" start="20250316070239 +0000" stop="20250316074540 +0000">
-    <title>Blippi's Great Green Adventure</title>
-    <desc>In this special episode, Blippi celebrates Earth Day with his Great Green Adventure. Caring for the environment is one of our prime responsibilities and Blippi teaches children how by taking them on a puzzle-solving adventure.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_839030167_0_20250212T162241973Z_46_imageprocessorclient-tvplus-linear-b76dd9bbb-vg5j4.jpeg" />
+  <programme channel="USBC6000225M" start="20250316140000 +0000" stop="20250316150000 +0000">
+    <title>Leverage</title>
+    <sub-title>Redemption: The Card Game Job</sub-title>
+    <desc>The Leverage team dives into the world of a fantasy collectible card game with a devoted following to take down a pharmaceutical bad boy who is price-gouging drugs.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_654621246_0_20250106T202242106Z_72_imageprocessorclient-tvplus-linear-5dc4fd45f6-86bnr.jpeg" />
     <rating>
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme channel="USBC44000072I" start="20250316074540 +0000" stop="20250316080848 +0000">
-    <title>Starlight, Star Bright</title>
-    <sub-title>Strawberry Shortcake's Berry Bitty Adventures</sub-title>
-    <desc>With time running out before the Grand Opening celebration for the new Marketplace, Strawberry's friends get the idea to invite her favorite singer, superstar CHERRY JAM, to be the guest singer. The girls are blown away when their berryjuice cell phone gets a text message that Cherry accepts their invitation! Strawberry is touched by their surprise, but reminds them that now the town and Marketplace really have to shine! The girls and Berrykins rush to turn the Marketplace Café into a suitable performance area for a big star like Cherry Jam.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_839103719_2_20250212T162251229Z_62_imageprocessorclient-tvplus-linear-b76dd9bbb-6g687.jpeg" />
-    <rating>
-      <value>TV-Y</value>
+      <value>NA</value>
     </rating>
   </programme>
   <programme channel="USBC44000072I" start="20250316080848 +0000" stop="20250316083156 +0000">
@@ -12453,18 +12442,18 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme channel="US2200006FS" start="20250316073000 +0000" stop="20250316080000 +0000">
-    <title>Episodes from The Morph Files</title>
-    <desc>Best moments from The Morph Files, episodes 6 and 7</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_929353993_0_20250302T002042110Z_41_imageprocessorclient-tvplus-linear-b76dd9bbb-rghk7.jpeg" />
+  <programme channel="USBC44000072I" start="20250316134115 +0000" stop="20250316140913 +0000">
+    <title>All My Senses</title>
+    <desc>Sid wants to know about all his different senses. At school, Sid and his friends embark on a quest to explore vision, hearing, touch, smell, and taste!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_839126345_1_20250212T162248323Z_56_imageprocessorclient-tvplus-linear-b76dd9bbb-55jld.jpeg" />
     <rating>
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme channel="US2200006FS" start="20250316080000 +0000" stop="20250316083000 +0000">
-    <title>Episodes from The Morph Files</title>
-    <desc>Best moments from The Morph Files, episodes 7 and 8</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_544391058_8_20240710T123843730Z_26.jpeg" />
+  <programme channel="USBC44000072I" start="20250316140913 +0000" stop="20250316143711 +0000">
+    <title>A Brush with Teeth</title>
+    <desc>At school, Sid discovers that our mouths are filled with different kinds of teeth that do lots of different jobs--like chewing our food! So it's really important to keep our teeth healthy by brushing them every day!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_839126346_1_20250212T162248324Z_36_imageprocessorclient-tvplus-linear-b76dd9bbb-55jld.jpeg" />
     <rating>
       <value>TV-Y</value>
     </rating>
@@ -12546,20 +12535,20 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme channel="USBD3300015BY" start="20250316070919 +0000" stop="20250316073721 +0000">
-    <title>Rainbow Ruby</title>
-    <sub-title>Up in the Air // AdDRESSing the Problem</sub-title>
-    <desc>Ling Ling is waiting for Rainbow Ruby, looking worried. It turns out that Mr. Sloth's best friend Chirpee is depressed. Chirpee wants to fly high but is struggling due to his small wings and lack of means to learn how to fly. // Ling Ling tells Rainbow Ruby that the dress that the paper doll Paige was planning to wear to Kiki's dance party is torn. Paige very much wants to go to the party but she cannot go without a dress.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_534029232_0_20231017T125328596Z_1.jpeg" />
+  <programme channel="US2200006FS" start="20250316133000 +0000" stop="20250316140000 +0000">
+    <title>Timmy Time Narrated</title>
+    <sub-title>Episodes from Season 3</sub-title>
+    <desc>Timmy is a little lamb with a lot to learn! Season 3, episodes 22 - 26. Narrated.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_544562333_3_20240712T175058689Z_41.jpeg" />
     <rating>
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme channel="USBD3300015BY" start="20250316073721 +0000" stop="20250316080523 +0000">
-    <title>Rainbow Ruby</title>
-    <sub-title>Sleeping Kiki // Babysitter Blues</sub-title>
-    <desc>Kiki wants to become a movie actress but the villagers have no idea how to direct a movie. Rainbow Ruby uses her magic suitcase to turn into a movie director. She then assigns roles to the village friends. // Ling Ling rushes toward Rainbow Ruby to tell her that a busy villager mom asked him to take care of her three children but he just doesn't have time to look after them. Rainbow Ruby uses her magic suitcase to transform into a babysitter and starts babysitting the children.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_534029508_0_20231017T125342881Z_109.jpeg" />
+  <programme channel="US2200006FS" start="20250316140000 +0000" stop="20250316143000 +0000">
+    <title>Shaun the Sheep</title>
+    <sub-title>Episodes from Season 2</sub-title>
+    <desc>Shaun and his frolicsome Flock return, along with the Farmer and the long-suffering sheepdog Bitzer, for plenty more hilarious farmyard antics in Season 2. Episodes 1 - 3.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_544914567_3_20240720T173445625Z_117.jpeg" />
     <rating>
       <value>TV-Y</value>
     </rating>
@@ -12672,20 +12661,22 @@
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme channel="USBB3600001R6" start="20250316073000 +0000" stop="20250316080000 +0000">
-    <title>Cloud Babies</title>
-    <desc>Cloud Babies is about four toddlers, Baba Pink, Baba Blue, Baba Yellow, and Baba Green whose job is to look after the sky and their Sky Friends, Sun, Moon, Rainbow, Fluffa Cloud and Little Star. They live together with Bobo White, a mischievous little Sky Imp, in a house on a big fluffy cloud.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_539912844_0_20240327T075609712Z_57.jpeg" />
+  <programme channel="USBD3300015BY" start="20250316134147 +0000" stop="20250316140949 +0000">
+    <title>Rainbow Ruby</title>
+    <sub-title>Farm Fun // Tummy Trouble</sub-title>
+    <desc>Thunderbell is sad because he's discovered a new fruit and eaten all of it. Now there's none left and he'll never be able to eat that fruit again. Rainbow Ruby uses her magic suitcase and transforms into a farmer. // Thunderbell has a terrible tummy ache. Rainbow Ruby becomes a Microbiologist to find out why Thunderbell is sick. Rainbow Ruby uses a microscope to find a bacterium inside the cheesecake Thunderbell had but Felicia accidentally casts a spell that makes the bacterium gigantic.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_534029194_1_20231017T125330952Z_46.jpeg" />
     <rating>
       <value>TV-Y</value>
     </rating>
   </programme>
-  <programme channel="USBB3600001R6" start="20250316080000 +0000" stop="20250316083000 +0000">
-    <title>Sing Along</title>
-    <desc>Dino Ranch Show roars to life with dino-sized adventures and catchy tunes that will have you dancing alongside your prehistoric pals. Then, join Dance With Bubu for an interactive dance party that turns every moment into a joyous celebration of rhythm and movement. Next, let the adorable characters of Badanamu Nursery Rhymes whisk you away with their charming melodies and playful antics, perfect for sing-along fun. Finally, make friends with Emmie the Elephant, whose delightful songs and heartwarming stories will capture your heart and have you tapping your toes in no time.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_547966720_2_20240923T182336127Z_22_imageprocessorclient-tvplus-linear-5dc4fd45f6-w4b2n.jpeg" />
+  <programme channel="USBD3300015BY" start="20250316140949 +0000" stop="20250316143751 +0000">
+    <title>Rainbow Ruby</title>
+    <sub-title>Blast Off // The True Jewel</sub-title>
+    <desc>Ling Ling takes Rainbow Ruby to Ellie's cabin where she meets mischievous baby stars that fell from the sky. The baby stars were playing together, got separated from their mother and ended up in Rainbow Village. // Kiki is extremely upset because the jewel Prince Frederick gave her as a gift broke. The friends try to glue the broken pieces together but it doesn't work. Rainbow Ruby uses her magic suitcase to become a jewelry designer and tries designing jewelry with the broken pieces.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_534029702_0_20231017T125336197Z_54.jpeg" />
     <rating>
-      <value>TV-14</value>
+      <value>TV-Y</value>
     </rating>
   </programme>
   <programme channel="USBB3600001R6" start="20250316083000 +0000" stop="20250316090000 +0000">
@@ -12768,13 +12759,20 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="USBD12000239N" start="20250316070000 +0000" stop="20250316080000 +0000">
-    <title>Ryan's World</title>
-    <sub-title>Slippery Science!</sub-title>
-    <desc>Ryan sleeves and learns all about squishy polymers, electricity, and panda facts from his friend Combo Panda!</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_539693497_2_20240321T104647424Z_81.jpeg" />
+  <programme channel="USBB3600001R6" start="20250316133000 +0000" stop="20250316140000 +0000">
+    <title>Back to Back</title>
+    <desc>Embark on an electrifying journey as they boldly leap from one heart-pounding expedition to the next, fueled by their unbreakable bond and insatiable thirst for excitement. Get ready to be swept away in a whirlwind of adrenaline-pumping quests, where danger and discovery await them at every turn.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_535370978_0_20231121T092142928Z_110.jpeg" />
     <rating>
-      <value>TV-G</value>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="USBB3600001R6" start="20250316140000 +0000" stop="20250316143000 +0000">
+    <title>Counting With Paula</title>
+    <desc>The show features Paula and her friends, Tim, Billy, Chalky, Calc, and the Numbers as they go on exciting adventures in colorful and exotic places. From the Amazon jungles to the deepest oceans, and to the hottest deserts, Paula and friends solve problems, have fun and make more friends along the way!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_537136017_0_20240111T195419796Z_124.jpeg" />
+    <rating>
+      <value>TV-Y</value>
     </rating>
   </programme>
   <programme channel="USBD12000239N" start="20250316080000 +0000" stop="20250316090000 +0000">
@@ -12831,13 +12829,13 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme channel="USBD1700001RW" start="20250316070054 +0000" stop="20250316080208 +0000">
-    <title>Wild France</title>
-    <sub-title>Episode 1</sub-title>
-    <desc>The Atlantic winds blow on a country blessed by nature.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_897028287_0_20250224T001931488Z_98_imageprocessorclient-tvplus-linear-b76dd9bbb-5jlst.jpeg" />
+  <programme channel="USBD12000239N" start="20250316140000 +0000" stop="20250316143000 +0000">
+    <title>Ryan's World</title>
+    <sub-title>Toy Rescue!</sub-title>
+    <desc>Gus the Gummy Gator and his Ryan's World friends go on learning adventures through the cartoon and IRL worlds!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_539693516_1_20240321T104641515Z_78.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>TV-G</value>
     </rating>
   </programme>
   <programme channel="USBD1700001RW" start="20250316080208 +0000" stop="20250316090337 +0000">
@@ -12894,13 +12892,13 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme channel="USBA3400003IP" start="20250316065302 +0000" stop="20250316075447 +0000">
-    <title>Wild Pacific Rescue</title>
-    <sub-title>Battle to Save a Sea Lion</sub-title>
-    <desc>Fight waves to find a sea lion in danger, and see an aging duck undergo surgery.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_533927514_1_20231014T022305196Z_92.jpeg" />
+  <programme channel="USBD1700001RW" start="20250316135747 +0000" stop="20250316145728 +0000">
+    <title>Wild Japan</title>
+    <sub-title>Honshu</sub-title>
+    <desc>Japan's 'big island' is home to millions of people and an astonishing range of wildlife.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_838290364_1_20250212T123031144Z_25_imageprocessorclient-tvplus-linear-b76dd9bbb-t8jnc.jpeg" />
     <rating>
-      <value>PG</value>
+      <value>TV-G</value>
     </rating>
   </programme>
   <programme channel="USBA3400003IP" start="20250316075447 +0000" stop="20250316085636 +0000">
@@ -12958,13 +12956,13 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme channel="US900001CX" start="20250316072619 +0000" stop="20250316081744 +0000">
-    <title>How The Earth Was Made</title>
-    <sub-title>Hawaii</sub-title>
-    <desc>The Hawaiian Islands are the most remote island chain on the planet.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123222_1_20241101T142909803Z_28_imageprocessorclient-tvplus-linear-5dc4fd45f6-xk8kz.jpeg" />
+  <programme channel="USBA3400003IP" start="20250316141414 +0000" stop="20250316151425 +0000">
+    <title>World's Deadliest</title>
+    <sub-title>Born To Kill</sub-title>
+    <desc>Get a hunting lesson with some of the world's fiercest pint-sized predators.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_538441262_0_20240219T005334136Z_42.jpeg" />
     <rating>
-      <value>TV-PG</value>
+      <value>PG</value>
     </rating>
   </programme>
   <programme channel="US900001CX" start="20250316081744 +0000" stop="20250316090908 +0000">
@@ -13030,11 +13028,11 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme channel="USBD35000428O" start="20250316064524 +0000" stop="20250316074018 +0000">
-    <title>The Food That Built America</title>
-    <sub-title>Let Them Eat Snack Cakes</sub-title>
-    <desc>A New York widow grows a bakery into a national powerhouse.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550123368_0_20241101T142907431Z_101_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
+  <programme channel="US900001CX" start="20250316141630 +0000" stop="20250316150916 +0000">
+    <title>The Universe</title>
+    <sub-title>Mysteries Of The Moon</sub-title>
+    <desc>For thousands of years, mankind has found comfort in its presence.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_550122911_0_20241101T142907529Z_96_imageprocessorclient-tvplus-linear-5dc4fd45f6-qvh4n.jpeg" />
     <rating>
       <value>TV-PG</value>
     </rating>
@@ -13106,6 +13104,15 @@
     <title>Mankind The Story of All of Us</title>
     <sub-title>Plague</sub-title>
     <desc>Genghis Khan creates empire, leaves 40m dead  Plague devastates Asia, Europe.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552682976_0_20241210T062901317Z_58_imageprocessorclient-tvplus-linear-5dc4fd45f6-gx6jk.jpeg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="USBD35000428O" start="20250316141847 +0000" stop="20250316150921 +0000">
+    <title>Mankind The Story of All of Us</title>
+    <sub-title>Treasure</sub-title>
+    <desc>Spanish in Andes mine silver, minting coins that transform global economy.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_552682976_0_20241210T062901317Z_58_imageprocessorclient-tvplus-linear-5dc4fd45f6-gx6jk.jpeg" />
     <rating>
       <value>TV-14</value>
