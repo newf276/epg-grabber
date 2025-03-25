@@ -91,30 +91,6 @@
     <display-name>MTV Queens of Pop</display-name>
     <icon src="https://images.pluto.tv/channels/65413633295b840008c9333a/colorLogoPNG.png" />
   </channel>
-  <programme channel="62b976b93279cb000772c6f9" start="20250325190000 +0000" stop="20250325210000 +0000">
-    <title>Bloomberg: The Close</title>
-    <live />
-    <episode-num system="original-air-date">20250325190000 +0000</episode-num>
-    <desc>Alix Steel, Romaine Bostick and Scarlet Fu own the market-moving breaking news around the closing bell; a synthesis of the top stories; key insights from investors, strategists and the companies of today and tomorrow.</desc>
-    <icon src="https://images.pluto.tv/series/65c5f7b104045f00136f6532/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">65c5f7b104045f00136f6532</series-id>
-    <category>Series</category>
-    <category>News &amp; Information</category>
-    <category>News</category>
-  </programme>
-  <programme channel="62b976b93279cb000772c6f9" start="20250325210000 +0000" stop="20250325220000 +0000">
-    <title>Bloomberg: Balance of Power</title>
-    <live />
-    <episode-num system="original-air-date">20250325210000 +0000</episode-num>
-    <desc>Focusing on the intersection of politics and global business.</desc>
-    <icon src="https://images.pluto.tv/series/65c5f7b104045f00136f64e2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">65c5f7b104045f00136f64e2</series-id>
-    <category>Series</category>
-    <category>News &amp; Information</category>
-    <category>News</category>
-  </programme>
   <programme channel="62b976b93279cb000772c6f9" start="20250325220000 +0000" stop="20250325230000 +0000">
     <title>The Deal with Alex Rodriguez and Jason Kelly</title>
     <live />
@@ -125,8 +101,8 @@
     <series-id system="pluto">65df3586038f370013ff4811</series-id>
     <sub-title>Ted Leonsis</sub-title>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="62b976b93279cb000772c6f9" start="20250325230000 +0000" stop="20250326010000 +0000">
     <title>Bloomberg The Asia Trade</title>
@@ -137,8 +113,8 @@
     <date>19700101</date>
     <series-id system="pluto">665743104d780d0013c691fe</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="62b976b93279cb000772c6f9" start="20250326010000 +0000" stop="20250326030000 +0000">
     <title>Bloomberg: The China Show</title>
@@ -149,8 +125,8 @@
     <date>19700101</date>
     <series-id system="pluto">65df3c8303625d0013a0386c</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="62b976b93279cb000772c6f9" start="20250326030000 +0000" stop="20250326040000 +0000">
     <title>Insight with Haslinda Amin</title>
@@ -161,8 +137,8 @@
     <date>19700101</date>
     <series-id system="pluto">671c0e213d553200130818fc</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="62b976b93279cb000772c6f9" start="20250326040000 +0000" stop="20250326060000 +0000">
     <title>Bloomberg Horizons Middle East &amp; Africa</title>
@@ -173,8 +149,8 @@
     <date>19700101</date>
     <series-id system="pluto">6632833be42c2300139fbbc8</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="62b976b93279cb000772c6f9" start="20250326060000 +0000" stop="20250326070000 +0000">
     <title>Bloomberg Daybreak: Europe</title>
@@ -185,8 +161,8 @@
     <date>19700101</date>
     <series-id system="pluto">65c5f7b004045f00136f6349</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="62b976b93279cb000772c6f9" start="20250326070000 +0000" stop="20250326090000 +0000">
     <title>Bloomberg The Opening Trade</title>
@@ -197,8 +173,8 @@
     <date>19700101</date>
     <series-id system="pluto">667b223d6ae03e00139e107b</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="62b976b93279cb000772c6f9" start="20250326090000 +0000" stop="20250326100000 +0000">
     <title>The Pulse with Francine Lacqua</title>
@@ -209,8 +185,8 @@
     <date>19700101</date>
     <series-id system="pluto">65c5f7b004045f00136f639a</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="62b976b93279cb000772c6f9" start="20250326100000 +0000" stop="20250326130000 +0000">
     <title>Bloomberg Surveillance</title>
@@ -221,19 +197,20 @@
     <date>19700101</date>
     <series-id system="pluto">65c5f7b004045f00136f63f2</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
-  <programme channel="62bdb0bcd707b9000739d2e5" start="20250325180800 +0000" stop="20250325200500 +0000">
-    <title>My Week With Marilyn</title>
-    <episode-num system="original-air-date">20111123000000 +0000</episode-num>
-    <desc>An assistant on the set of THE PRINCE AND THE SHOWGIRL documents the week he spent befriending Marilyn Monroe (Michelle Williams) and helping her escape the pressures of fame and Hollywood.</desc>
-    <icon src="https://images.pluto.tv/episodes/67588fb2882f6d0013f745e7/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20111123</date>
-    <series-id system="pluto">67588fb0882f6d0013f745c9</series-id>
-    <category>Biographical Drama</category>
-    <category>Movie</category>
-    <category>Drama</category>
+  <programme channel="62b976b93279cb000772c6f9" start="20250326130000 +0000" stop="20250326150000 +0000">
+    <title>Bloomberg Open Interest</title>
+    <live />
+    <episode-num system="original-air-date">20250326130000 +0000</episode-num>
+    <desc>Delivering the market-moving news anyone needs to know to get a jump start on the U.S. trading day.</desc>
+    <icon src="https://images.pluto.tv/series/667f166892217f00135f4090/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">667f166892217f00135f4090</series-id>
+    <category>Series</category>
+    <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="62bdb0bcd707b9000739d2e5" start="20250325200500 +0000" stop="20250325221200 +0000">
     <title>Suite Francaise (2014)</title>
@@ -243,8 +220,8 @@
     <date>20150703</date>
     <series-id system="pluto">666af72a1e1534001327e945</series-id>
     <category>War Drama</category>
-    <category>Movie</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62bdb0bcd707b9000739d2e5" start="20250325221200 +0000" stop="20250326012000 +0000">
     <title>The English Patient</title>
@@ -253,8 +230,8 @@
     <icon src="https://images.pluto.tv/episodes/65fc598103625d0013d9a529/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>19961114</date>
     <series-id system="pluto">65fc598003625d0013d9a501</series-id>
-    <category>Movie</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62bdb0bcd707b9000739d2e5" start="20250326012000 +0000" stop="20250326034500 +0000">
     <title>Shakespeare In Love</title>
@@ -263,8 +240,8 @@
     <icon src="https://images.pluto.tv/episodes/6621232ba9f2d20013c38571/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>19981210</date>
     <series-id system="pluto">6621232aa9f2d20013c38549</series-id>
-    <category>Movie</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62bdb0bcd707b9000739d2e5" start="20250326034500 +0000" stop="20250326055200 +0000">
     <title>Suite Francaise (2014)</title>
@@ -274,8 +251,8 @@
     <date>20150703</date>
     <series-id system="pluto">666af72a1e1534001327e945</series-id>
     <category>War Drama</category>
-    <category>Movie</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62bdb0bcd707b9000739d2e5" start="20250326055200 +0000" stop="20250326074100 +0000">
     <title>Sunshine Cleaning</title>
@@ -284,9 +261,9 @@
     <icon src="https://images.pluto.tv/episodes/660d7e71ab971d0013cd9009/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20090101</date>
     <series-id system="pluto">660d7e6fab971d0013cd8feb</series-id>
+    <category>Indie Comedies</category>
     <category>Independent</category>
     <category>Movie</category>
-    <category>Indie Comedies</category>
   </programme>
   <programme channel="62bdb0bcd707b9000739d2e5" start="20250326074100 +0000" stop="20250326092900 +0000">
     <title>Support The Girls</title>
@@ -296,8 +273,8 @@
     <date>20180828</date>
     <series-id system="pluto">64c28944d0d03200133b40c6</series-id>
     <category>Independent Drama</category>
-    <category>Movie</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62bdb0bcd707b9000739d2e5" start="20250326092900 +0000" stop="20250326110800 +0000">
     <title>Five Nights in Maine</title>
@@ -307,8 +284,8 @@
     <date>20160805</date>
     <series-id system="pluto">64de3ff1a5aa6e0013c64020</series-id>
     <category>Independent Drama</category>
-    <category>Movie</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62bdb0bcd707b9000739d2e5" start="20250326110800 +0000" stop="20250326125500 +0000">
     <title>The Beaver</title>
@@ -317,53 +294,19 @@
     <icon src="https://images.pluto.tv/episodes/62ff66eaa0cb07001acd7c0a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20110101</date>
     <series-id system="pluto">62ff66eaa0cb07001acd7c08</series-id>
+    <category>Drama</category>
     <category>Independent</category>
     <category>Movie</category>
-    <category>Drama</category>
   </programme>
-  <programme channel="62cbf063257170000724590c" start="20250325200000 +0000" stop="20250325203000 +0000">
-    <title>Global News BC</title>
-    <live />
-    <episode-num system="original-air-date">20250325200000 +0000</episode-num>
-    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
-    <category>News &amp; Information</category>
-  </programme>
-  <programme channel="62cbf063257170000724590c" start="20250325203000 +0000" stop="20250325210000 +0000">
-    <title>Global News BC</title>
-    <live />
-    <episode-num system="original-air-date">20250325203000 +0000</episode-num>
-    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
-    <category>News &amp; Information</category>
-  </programme>
-  <programme channel="62cbf063257170000724590c" start="20250325210000 +0000" stop="20250325213000 +0000">
-    <title>Global News BC</title>
-    <live />
-    <episode-num system="original-air-date">20250325210000 +0000</episode-num>
-    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
-    <category>News &amp; Information</category>
-  </programme>
-  <programme channel="62cbf063257170000724590c" start="20250325213000 +0000" stop="20250325220000 +0000">
-    <title>Global News BC</title>
-    <live />
-    <episode-num system="original-air-date">20250325213000 +0000</episode-num>
-    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
-    <category>Series</category>
-    <category>News &amp; Information</category>
+  <programme channel="62bdb0bcd707b9000739d2e5" start="20250326125500 +0000" stop="20250326172200 +0000">
+    <title>Once Upon a Time in America</title>
+    <episode-num system="original-air-date">19840601000000 +0000</episode-num>
+    <desc>Sergio Leone's final film is the epic tale of the life of a Jewish gangster in New York.</desc>
+    <icon src="https://images.pluto.tv/episodes/648773a4649e97001bcfa6fd/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>19840601</date>
+    <series-id system="pluto">648773a0649e97001bcfa6df</series-id>
+    <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62cbf063257170000724590c" start="20250325220000 +0000" stop="20250325223000 +0000">
     <title>Global News BC</title>
@@ -684,47 +627,47 @@
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="62cbf398b8e02600071deda5" start="20250325200000 +0000" stop="20250325203000 +0000">
-    <title>Global News Halifax</title>
+  <programme channel="62cbf063257170000724590c" start="20250326123000 +0000" stop="20250326130000 +0000">
+    <title>Global News BC</title>
     <live />
-    <episode-num system="original-air-date">20250325200000 +0000</episode-num>
-    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250326123000 +0000</episode-num>
+    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
+    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="62cbf398b8e02600071deda5" start="20250325203000 +0000" stop="20250325210000 +0000">
-    <title>Global News Halifax</title>
+  <programme channel="62cbf063257170000724590c" start="20250326130000 +0000" stop="20250326133000 +0000">
+    <title>Global News BC</title>
     <live />
-    <episode-num system="original-air-date">20250325203000 +0000</episode-num>
-    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250326130000 +0000</episode-num>
+    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
+    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="62cbf398b8e02600071deda5" start="20250325210000 +0000" stop="20250325213000 +0000">
-    <title>Global News Halifax</title>
+  <programme channel="62cbf063257170000724590c" start="20250326133000 +0000" stop="20250326140000 +0000">
+    <title>Global News BC</title>
     <live />
-    <episode-num system="original-air-date">20250325210000 +0000</episode-num>
-    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250326133000 +0000</episode-num>
+    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
+    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="62cbf398b8e02600071deda5" start="20250325213000 +0000" stop="20250325220000 +0000">
-    <title>Global News Halifax</title>
+  <programme channel="62cbf063257170000724590c" start="20250326140000 +0000" stop="20250326143000 +0000">
+    <title>Global News BC</title>
     <live />
-    <episode-num system="original-air-date">20250325213000 +0000</episode-num>
-    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250326140000 +0000</episode-num>
+    <desc>British Colombia’s local news and weather along with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/633fd0564ea0c60007fa8bfd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
+    <series-id system="pluto">633fd0564ea0c60007fa8bfd</series-id>
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
@@ -1047,47 +990,47 @@
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="62cc00b3b821cf00070f82c3" start="20250325200000 +0000" stop="20250325203000 +0000">
-    <title>Global News Toronto</title>
+  <programme channel="62cbf398b8e02600071deda5" start="20250326123000 +0000" stop="20250326130000 +0000">
+    <title>Global News Halifax</title>
     <live />
-    <episode-num system="original-air-date">20250325200000 +0000</episode-num>
-    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250326123000 +0000</episode-num>
+    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
+    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="62cc00b3b821cf00070f82c3" start="20250325203000 +0000" stop="20250325210000 +0000">
-    <title>Global News Toronto</title>
+  <programme channel="62cbf398b8e02600071deda5" start="20250326130000 +0000" stop="20250326133000 +0000">
+    <title>Global News Halifax</title>
     <live />
-    <episode-num system="original-air-date">20250325203000 +0000</episode-num>
-    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250326130000 +0000</episode-num>
+    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
+    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="62cc00b3b821cf00070f82c3" start="20250325210000 +0000" stop="20250325213000 +0000">
-    <title>Global News Toronto</title>
+  <programme channel="62cbf398b8e02600071deda5" start="20250326133000 +0000" stop="20250326140000 +0000">
+    <title>Global News Halifax</title>
     <live />
-    <episode-num system="original-air-date">20250325210000 +0000</episode-num>
-    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250326133000 +0000</episode-num>
+    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
+    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="62cc00b3b821cf00070f82c3" start="20250325213000 +0000" stop="20250325220000 +0000">
-    <title>Global News Toronto</title>
+  <programme channel="62cbf398b8e02600071deda5" start="20250326140000 +0000" stop="20250326143000 +0000">
+    <title>Global News Halifax</title>
     <live />
-    <episode-num system="original-air-date">20250325213000 +0000</episode-num>
-    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
-    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250326140000 +0000</episode-num>
+    <desc>Halifax’s daily local news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/6352464c9f6e2d0007eee985/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
+    <series-id system="pluto">6352464c9f6e2d0007eee985</series-id>
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
@@ -1410,19 +1353,49 @@
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="62e92b5fca869f00078f0162" start="20250325195000 +0000" stop="20250325201900 +0000">
-    <title>Pet Obsessed</title>
-    <episode-num system="onscreen">S01E24</episode-num>
-    <episode-num system="pluto">63107ecf04308c00135da6dd</episode-num>
-    <episode-num system="original-air-date">20201028010531 +0000</episode-num>
-    <desc>Caboodle; a large quantity of adorable pet videos</desc>
-    <icon src="https://images.pluto.tv/series/63107ec704308c00135da07f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20201028</date>
-    <series-id system="pluto">63107ec704308c00135da07f</series-id>
-    <sub-title>The Whole Kitten &amp; Caboodle</sub-title>
-    <category>Human Interest</category>
+  <programme channel="62cc00b3b821cf00070f82c3" start="20250326123000 +0000" stop="20250326130000 +0000">
+    <title>Global News Toronto</title>
+    <live />
+    <episode-num system="original-air-date">20250326123000 +0000</episode-num>
+    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
     <category>Series</category>
-    <category>Reality</category>
+    <category>News &amp; Information</category>
+  </programme>
+  <programme channel="62cc00b3b821cf00070f82c3" start="20250326130000 +0000" stop="20250326133000 +0000">
+    <title>Global News Toronto</title>
+    <live />
+    <episode-num system="original-air-date">20250326130000 +0000</episode-num>
+    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
+    <category>Series</category>
+    <category>News &amp; Information</category>
+  </programme>
+  <programme channel="62cc00b3b821cf00070f82c3" start="20250326133000 +0000" stop="20250326140000 +0000">
+    <title>Global News Toronto</title>
+    <live />
+    <episode-num system="original-air-date">20250326133000 +0000</episode-num>
+    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
+    <category>Series</category>
+    <category>News &amp; Information</category>
+  </programme>
+  <programme channel="62cc00b3b821cf00070f82c3" start="20250326140000 +0000" stop="20250326143000 +0000">
+    <title>Global News Toronto</title>
+    <live />
+    <episode-num system="original-air-date">20250326140000 +0000</episode-num>
+    <desc>Toronto’s daily news and weather with international and national stories, 24-hours a day, 365 days/week.</desc>
+    <icon src="https://images.pluto.tv/series/63524d459f6e2d0007eeead8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">63524d459f6e2d0007eeead8</series-id>
+    <category>Series</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="62e92b5fca869f00078f0162" start="20250325201900 +0000" stop="20250325231000 +0000">
     <title>Best Pets of the Month</title>
@@ -1434,8 +1407,8 @@
     <date>20201030</date>
     <series-id system="pluto">630fa419bb171a00130d5ed7</series-id>
     <sub-title>Best Of Marathon</sub-title>
-    <category>Series</category>
     <category>Other</category>
+    <category>Series</category>
     <category>None</category>
   </programme>
   <programme channel="62e92b5fca869f00078f0162" start="20250325231000 +0000" stop="20250325233900 +0000">
@@ -1449,8 +1422,8 @@
     <series-id system="pluto">63107f45bdb41f00136da0f6</series-id>
     <sub-title>Chihuahuas</sub-title>
     <category>Human Interest</category>
-    <category>Series</category>
     <category>Reality</category>
+    <category>Series</category>
   </programme>
   <programme channel="62e92b5fca869f00078f0162" start="20250325233900 +0000" stop="20250326000800 +0000">
     <title>We Heart Animals</title>
@@ -1462,8 +1435,8 @@
     <date>20191009</date>
     <series-id system="pluto">630fa450c38c53001334452f</series-id>
     <sub-title>Stranger Things</sub-title>
-    <category>Series</category>
     <category>Other</category>
+    <category>Series</category>
     <category>None</category>
   </programme>
   <programme channel="62e92b5fca869f00078f0162" start="20250326000800 +0000" stop="20250326020400 +0000">
@@ -1475,8 +1448,8 @@
     <icon src="https://images.pluto.tv/series/630fa450c38c53001334452f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>20190131</date>
     <series-id system="pluto">630fa450c38c53001334452f</series-id>
-    <category>Series</category>
     <category>Other</category>
+    <category>Series</category>
     <category>None</category>
   </programme>
   <programme channel="62e92b5fca869f00078f0162" start="20250326020400 +0000" stop="20250326023400 +0000">
@@ -1489,8 +1462,8 @@
     <date>20190331</date>
     <series-id system="pluto">630fa450c38c53001334452f</series-id>
     <sub-title>Pet Pals</sub-title>
-    <category>Series</category>
     <category>Other</category>
+    <category>Series</category>
     <category>None</category>
   </programme>
   <programme channel="62e92b5fca869f00078f0162" start="20250326023400 +0000" stop="20250326030300 +0000">
@@ -1504,8 +1477,8 @@
     <series-id system="pluto">63107f45bdb41f00136da0f6</series-id>
     <sub-title>German Shepherds</sub-title>
     <category>Human Interest</category>
-    <category>Series</category>
     <category>Reality</category>
+    <category>Series</category>
   </programme>
   <programme channel="62e92b5fca869f00078f0162" start="20250326030300 +0000" stop="20250326033200 +0000">
     <title>We Heart Animals</title>
@@ -1517,8 +1490,8 @@
     <date>20050712</date>
     <series-id system="pluto">630fa450c38c53001334452f</series-id>
     <sub-title>Bird Brain</sub-title>
-    <category>Series</category>
     <category>Other</category>
+    <category>Series</category>
     <category>None</category>
   </programme>
   <programme channel="62e92b5fca869f00078f0162" start="20250326033200 +0000" stop="20250326043800 +0000">
@@ -1531,8 +1504,8 @@
     <date>20180327</date>
     <series-id system="pluto">630fa31e8e14850013922e90</series-id>
     <sub-title>Episode 1</sub-title>
-    <category>Series</category>
     <category>Other</category>
+    <category>Series</category>
     <category>None</category>
   </programme>
   <programme channel="62e92b5fca869f00078f0162" start="20250326043800 +0000" stop="20250326050700 +0000">
@@ -1545,8 +1518,8 @@
     <date>20050712</date>
     <series-id system="pluto">630fa450c38c53001334452f</series-id>
     <sub-title>Wild AF</sub-title>
-    <category>Series</category>
     <category>Other</category>
+    <category>Series</category>
     <category>None</category>
   </programme>
   <programme channel="62e92b5fca869f00078f0162" start="20250326050700 +0000" stop="20250326053600 +0000">
@@ -1559,8 +1532,8 @@
     <date>20050712</date>
     <series-id system="pluto">630fa450c38c53001334452f</series-id>
     <sub-title>Cats, Dogs and Birds</sub-title>
-    <category>Series</category>
     <category>Other</category>
+    <category>Series</category>
     <category>None</category>
   </programme>
   <programme channel="62e92b5fca869f00078f0162" start="20250326053600 +0000" stop="20250326082700 +0000">
@@ -1573,8 +1546,8 @@
     <date>20190726</date>
     <series-id system="pluto">630fa292bdb41f00136d1cb4</series-id>
     <category>Human Interest</category>
-    <category>Series</category>
     <category>Reality</category>
+    <category>Series</category>
   </programme>
   <programme channel="62e92b5fca869f00078f0162" start="20250326082700 +0000" stop="20250326102300 +0000">
     <title>We Heart Animals Marathon: Episode 3</title>
@@ -1585,8 +1558,8 @@
     <icon src="https://images.pluto.tv/series/630fa450c38c53001334452f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>20190301</date>
     <series-id system="pluto">630fa450c38c53001334452f</series-id>
-    <category>Series</category>
     <category>Other</category>
+    <category>Series</category>
     <category>None</category>
   </programme>
   <programme channel="62e92b5fca869f00078f0162" start="20250326102300 +0000" stop="20250326105200 +0000">
@@ -1600,8 +1573,8 @@
     <series-id system="pluto">63107f45bdb41f00136da0f6</series-id>
     <sub-title>Raccoons</sub-title>
     <category>Human Interest</category>
-    <category>Series</category>
     <category>Reality</category>
+    <category>Series</category>
   </programme>
   <programme channel="62e92b5fca869f00078f0162" start="20250326105200 +0000" stop="20250326112100 +0000">
     <title>That's My Pet</title>
@@ -1614,8 +1587,8 @@
     <series-id system="pluto">63107f45bdb41f00136da0f6</series-id>
     <sub-title>Cats</sub-title>
     <category>Human Interest</category>
-    <category>Series</category>
     <category>Reality</category>
+    <category>Series</category>
   </programme>
   <programme channel="62e92b5fca869f00078f0162" start="20250326112100 +0000" stop="20250326115000 +0000">
     <title>Primetime Pets</title>
@@ -1628,8 +1601,8 @@
     <series-id system="pluto">63107e30bc1f1600132bf25c</series-id>
     <sub-title>Episode 2.5</sub-title>
     <category>Human Interest</category>
-    <category>Series</category>
     <category>Reality</category>
+    <category>Series</category>
   </programme>
   <programme channel="62e92b5fca869f00078f0162" start="20250326115000 +0000" stop="20250326121900 +0000">
     <title>We Heart Animals</title>
@@ -1641,19 +1614,63 @@
     <date>20050712</date>
     <series-id system="pluto">630fa450c38c53001334452f</series-id>
     <sub-title>Playful Pets</sub-title>
-    <category>Series</category>
     <category>Other</category>
+    <category>Series</category>
     <category>None</category>
   </programme>
-  <programme channel="62ea3c2e4823db00072788ed" start="20250325184130 +0000" stop="20250325202430 +0000">
-    <title>22 Chaser</title>
-    <episode-num system="original-air-date">20200605000000 +0000</episode-num>
-    <desc>Practical solutions to environmental concerns are addressed with the hope that the filmmaker's daughter, 21 years old in the year 2040, will face a hopeful future.</desc>
-    <icon src="https://images.pluto.tv/episodes/64ca9f40b97a1e0013a8f9b7/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20200605</date>
-    <series-id system="pluto">64ca9d6aa5aa6e0013713783</series-id>
-    <category>Action</category>
-    <category>Movie</category>
+  <programme channel="62e92b5fca869f00078f0162" start="20250326121900 +0000" stop="20250326124800 +0000">
+    <title>Puppy Love</title>
+    <episode-num system="onscreen">S01E107</episode-num>
+    <episode-num system="pluto">630fa5a67a42340013e87a5e</episode-num>
+    <episode-num system="original-air-date">20050712000000 +0000</episode-num>
+    <desc>The cutest puppies. Nonstop</desc>
+    <icon src="https://images.pluto.tv/series/630fa56d7a42340013e85b2d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20050712</date>
+    <series-id system="pluto">630fa56d7a42340013e85b2d</series-id>
+    <category>Other</category>
+    <category>Series</category>
+    <category>None</category>
+  </programme>
+  <programme channel="62e92b5fca869f00078f0162" start="20250326124800 +0000" stop="20250326131700 +0000">
+    <title>We Heart Animals</title>
+    <episode-num system="onscreen">S02E213</episode-num>
+    <episode-num system="pluto">630fa4b7c38c530013346eb6</episode-num>
+    <episode-num system="original-air-date">20050712000000 +0000</episode-num>
+    <desc>Some of the cutest and most lovable breeds all in one episode.</desc>
+    <icon src="https://images.pluto.tv/series/630fa450c38c53001334452f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20050712</date>
+    <series-id system="pluto">630fa450c38c53001334452f</series-id>
+    <sub-title>Dog Days</sub-title>
+    <category>Other</category>
+    <category>Series</category>
+    <category>None</category>
+  </programme>
+  <programme channel="62e92b5fca869f00078f0162" start="20250326131700 +0000" stop="20250326134600 +0000">
+    <title>Viral Wild</title>
+    <episode-num system="onscreen">S01E106</episode-num>
+    <episode-num system="pluto">63107f1d7a42340013e91f50</episode-num>
+    <episode-num system="original-air-date">20210127073444 +0000</episode-num>
+    <desc>Encounter the breathtaking, heart-stopping, and sometimes side-splitting creatures we share this planet with. Experience the wonder of all that call our planet home from the comfort of yours!</desc>
+    <icon src="https://images.pluto.tv/series/63107f087a42340013e916f7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20210127</date>
+    <series-id system="pluto">63107f087a42340013e916f7</series-id>
+    <sub-title>Deep Dive Vol. 2</sub-title>
+    <category>Documentary</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="62e92b5fca869f00078f0162" start="20250326134600 +0000" stop="20250326141500 +0000">
+    <title>Primetime Pets</title>
+    <episode-num system="onscreen">S02E13</episode-num>
+    <episode-num system="pluto">63107e49bc1f1600132bf863</episode-num>
+    <episode-num system="original-air-date">20050712000000 +0000</episode-num>
+    <desc>Learn about Dalmatians, Golden Retrievers, Yorkshire Terriers, and other breeds! Or just watch because they’re all so cute.</desc>
+    <icon src="https://images.pluto.tv/series/63107e30bc1f1600132bf25c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20050712</date>
+    <series-id system="pluto">63107e30bc1f1600132bf25c</series-id>
+    <sub-title>Episode 2.13</sub-title>
+    <category>Human Interest</category>
+    <category>Reality</category>
+    <category>Series</category>
   </programme>
   <programme channel="62ea3c2e4823db00072788ed" start="20250325202430 +0000" stop="20250325221630 +0000">
     <title>DUAL</title>
@@ -1742,20 +1759,19 @@
     <icon src="https://images.pluto.tv/episodes/64c2b218e1356600130aa807/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20160902</date>
     <series-id system="pluto">64c2b215e1356600130aa7e6</series-id>
-    <category>Action</category>
     <category>Action Comedies</category>
+    <category>Action</category>
     <category>Movie</category>
   </programme>
-  <programme channel="62ea3d24b8e02600071fa296" start="20250325183830 +0000" stop="20250325202730 +0000">
-    <title>All Roads Lead to Rome</title>
-    <episode-num system="original-air-date">20160205000000 +0000</episode-num>
-    <desc>Maggie, a single mother from New York City, embarks on a journey to a Tuscan village in an effort to reconnect with her rebellious teenage daughter, Summer.</desc>
-    <icon src="https://images.pluto.tv/episodes/655f5c2c24664a0013d7c0c5/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20160205</date>
-    <series-id system="pluto">655f5c2a24664a0013d7c0a4</series-id>
+  <programme channel="62ea3c2e4823db00072788ed" start="20250326130630 +0000" stop="20250326150130 +0000">
+    <title>The Giver</title>
+    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
+    <desc>Based on the beloved young adult novel. A young man who lives in a seemingly ideal world, must escape after discovering the deadly truths of his community’s secret past. Starring Taylor Swift, Meryl Streep, Brenton Thwaites, and Jeff Bridges.</desc>
+    <icon src="https://images.pluto.tv/episodes/67588b7ae1038900137b4495/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20140101</date>
+    <series-id system="pluto">67588b78e1038900137b4475</series-id>
+    <category>Science fiction</category>
     <category>Movie</category>
-    <category>Romance</category>
-    <category>Romantic comedy</category>
   </programme>
   <programme channel="62ea3d24b8e02600071fa296" start="20250325202730 +0000" stop="20250325221930 +0000">
     <title>She's Funny That Way</title>
@@ -1764,9 +1780,9 @@
     <icon src="https://images.pluto.tv/episodes/649498cc5719ba0013c38a56/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20151102</date>
     <series-id system="pluto">649498ca5719ba0013c38a35</series-id>
+    <category>Comedy</category>
     <category>Screwball</category>
     <category>Movie</category>
-    <category>Comedy</category>
   </programme>
   <programme channel="62ea3d24b8e02600071fa296" start="20250325221930 +0000" stop="20250326000030 +0000">
     <title>My Blind Brother</title>
@@ -1776,8 +1792,8 @@
     <date>20160923</date>
     <series-id system="pluto">64060590c33aa4001304bd6f</series-id>
     <category>Late Night Comedies</category>
-    <category>Movie</category>
     <category>Comedy</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62ea3d24b8e02600071fa296" start="20250326000030 +0000" stop="20250326015330 +0000">
     <title>My Big Fat Greek Wedding</title>
@@ -1786,9 +1802,9 @@
     <icon src="https://images.pluto.tv/episodes/67bc6d52d34cfb18a57aa380/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20020222</date>
     <series-id system="pluto">67bc6d50d34cfb18a57aa35a</series-id>
-    <category>Movie</category>
     <category>Romantic comedy</category>
     <category>Comedy</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62ea3d24b8e02600071fa296" start="20250326015330 +0000" stop="20250326034830 +0000">
     <title>Landline</title>
@@ -1797,9 +1813,9 @@
     <icon src="https://images.pluto.tv/episodes/6543aa09939c4b001a1fd4db/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20170101</date>
     <series-id system="pluto">6543aa07939c4b001a1fd4ba</series-id>
-    <category>Movie</category>
     <category>Romantic comedy</category>
     <category>Comedy</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62ea3d24b8e02600071fa296" start="20250326034830 +0000" stop="20250326054130 +0000">
     <title>My Big Fat Greek Wedding</title>
@@ -1808,9 +1824,9 @@
     <icon src="https://images.pluto.tv/episodes/67bc6d52d34cfb18a57aa380/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20020222</date>
     <series-id system="pluto">67bc6d50d34cfb18a57aa35a</series-id>
-    <category>Movie</category>
     <category>Romantic comedy</category>
     <category>Comedy</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62ea3d24b8e02600071fa296" start="20250326054130 +0000" stop="20250326073630 +0000">
     <title>Landline</title>
@@ -1819,9 +1835,9 @@
     <icon src="https://images.pluto.tv/episodes/6543aa09939c4b001a1fd4db/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20170101</date>
     <series-id system="pluto">6543aa07939c4b001a1fd4ba</series-id>
-    <category>Movie</category>
     <category>Romantic comedy</category>
     <category>Comedy</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62ea3d24b8e02600071fa296" start="20250326073630 +0000" stop="20250326094930 +0000">
     <title>The Big Divorce</title>
@@ -1830,9 +1846,9 @@
     <icon src="https://images.pluto.tv/episodes/65771ceb0687dc00138c3f5c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20131125</date>
     <series-id system="pluto">65771ce80687dc00138c3f3b</series-id>
-    <category>Movie</category>
     <category>Romantic comedy</category>
     <category>Comedy</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62ea3d24b8e02600071fa296" start="20250326094930 +0000" stop="20250326114130 +0000">
     <title>Posthumous</title>
@@ -1842,8 +1858,8 @@
     <date>20141016</date>
     <series-id system="pluto">66631f136ae03e0013c21806</series-id>
     <category>Dramedy</category>
-    <category>Movie</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62ea3d24b8e02600071fa296" start="20250326114130 +0000" stop="20250326133230 +0000">
     <title>Bad Parents</title>
@@ -1852,30 +1868,19 @@
     <icon src="https://images.pluto.tv/episodes/656df61d12fb500013937834/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20131209</date>
     <series-id system="pluto">656df61912fb500013937813</series-id>
-    <category>Movie</category>
     <category>Comedy</category>
-  </programme>
-  <programme channel="62fb6cd97b90e60007bc318a" start="20250325183300 +0000" stop="20250325201400 +0000">
-    <title>Feeling Butterflies</title>
-    <episode-num system="original-air-date">20221031000000 +0000</episode-num>
-    <desc>Emily's booming butterfly business delivers monarchs to a birthday party where she meets single dad, Garrett. With the help of Garrett and his daughter, Emily's business begins to take flight.</desc>
-    <icon src="https://images.pluto.tv/episodes/6362b8b336d64a001454391a/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20221031</date>
-    <series-id system="pluto">6362b8b036d64a0014543911</series-id>
     <category>Movie</category>
-    <category>Romance</category>
+  </programme>
+  <programme channel="62ea3d24b8e02600071fa296" start="20250326133230 +0000" stop="20250326153030 +0000">
+    <title>Laggies</title>
+    <episode-num system="original-air-date">20150209000000 +0000</episode-num>
+    <desc>In the throes of a quarter-life crisis, Megan panics when her boyfriend proposes. She takes an opportunity to escape for a week, hiding out in the house of her new 16-year-old friend Annika and her world-weary single dad.</desc>
+    <icon src="https://images.pluto.tv/episodes/64f9f7bacecd3f0013177aa4/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20150209</date>
+    <series-id system="pluto">64f9f7b8cecd3f0013177a83</series-id>
     <category>Romantic comedy</category>
-  </programme>
-  <programme channel="62fb6cd97b90e60007bc318a" start="20250325201400 +0000" stop="20250325215900 +0000">
-    <title>Wedding Planner Mystery CA</title>
-    <episode-num system="original-air-date">20221031000000 +0000</episode-num>
-    <desc>Carnegie Kincaid is a wedding planner and a perfectionist in both work and romance. When a murder occurs and a bride is kidnapped surrounding the wedding of a prominent family embroiled in a high profile fraud scandal.</desc>
-    <icon src="https://images.pluto.tv/episodes/635826fc92944d0014789dc9/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20221031</date>
-    <series-id system="pluto">635826f992944d0014789dc0</series-id>
+    <category>Comedy</category>
     <category>Movie</category>
-    <category>Romance</category>
-    <category>Drama</category>
   </programme>
   <programme channel="62fb6cd97b90e60007bc318a" start="20250325215900 +0000" stop="20250325234400 +0000">
     <title>Yellowstone Romance</title>
@@ -1884,9 +1889,9 @@
     <icon src="https://images.pluto.tv/episodes/65a68be608d0ab0013692b56/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20220310</date>
     <series-id system="pluto">65a68be508d0ab0013692b30</series-id>
-    <category>Movie</category>
     <category>Romance</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62fb6cd97b90e60007bc318a" start="20250325234400 +0000" stop="20250326012300 +0000">
     <title>Mid-Love Crisis</title>
@@ -1895,9 +1900,9 @@
     <icon src="https://images.pluto.tv/episodes/65a6b356a95cb10014d9a843/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20221009</date>
     <series-id system="pluto">65a6b353a95cb10014d9a823</series-id>
-    <category>Movie</category>
     <category>Romance</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62fb6cd97b90e60007bc318a" start="20250326012300 +0000" stop="20250326031200 +0000">
     <title>Loves Second Chance</title>
@@ -1906,9 +1911,9 @@
     <icon src="https://images.pluto.tv/episodes/6333034acad61a001397ff9b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20221031</date>
     <series-id system="pluto">63330348cad61a001397ff93</series-id>
-    <category>Movie</category>
     <category>Romance</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62fb6cd97b90e60007bc318a" start="20250326031200 +0000" stop="20250326045300 +0000">
     <title>The Birthday Wish</title>
@@ -1917,9 +1922,9 @@
     <icon src="https://images.pluto.tv/episodes/665097c25faaa600148dc1b3/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20230121</date>
     <series-id system="pluto">665097c05faaa600148dc193</series-id>
-    <category>Movie</category>
     <category>Romance</category>
     <category>Romantic comedy</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62fb6cd97b90e60007bc318a" start="20250326045300 +0000" stop="20250326063500 +0000">
     <title>MatchMaker Mysteries A Killer Engagement</title>
@@ -1939,8 +1944,8 @@
     <date>20221031</date>
     <series-id system="pluto">63330e8b7a31e800133e18d5</series-id>
     <category>Inspirational Drama</category>
-    <category>Movie</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62fb6cd97b90e60007bc318a" start="20250326081700 +0000" stop="20250326095600 +0000">
     <title>Make Me A Match</title>
@@ -1949,9 +1954,9 @@
     <icon src="https://images.pluto.tv/episodes/66d0bcc28e7691001385affc/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20230101</date>
     <series-id system="pluto">66d0bcc08e7691001385afd6</series-id>
-    <category>Movie</category>
     <category>Romantic comedy</category>
     <category>Comedy</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62fb6cd97b90e60007bc318a" start="20250326095600 +0000" stop="20250326113800 +0000">
     <title>Flower Shop Mystery: Mum's the Word</title>
@@ -1960,8 +1965,8 @@
     <icon src="https://images.pluto.tv/episodes/632885657d18170013f7c3bd/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20221031</date>
     <series-id system="pluto">632885607d18170013f7c3b6</series-id>
-    <category>Movie</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62fb6cd97b90e60007bc318a" start="20250326113800 +0000" stop="20250326131800 +0000">
     <title>All of My Heart: The Wedding</title>
@@ -1970,20 +1975,19 @@
     <icon src="https://images.pluto.tv/episodes/66c4c8c294a1840013eee514/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20180101</date>
     <series-id system="pluto">66c4c8c094a1840013eee4f2</series-id>
-    <category>Movie</category>
     <category>Romantic comedy</category>
     <category>Comedy</category>
+    <category>Movie</category>
   </programme>
-  <programme channel="62fb6d4308f5ec0007453c09" start="20250325190700 +0000" stop="20250325204800 +0000">
-    <title>Five More Minutes: Moments Like These</title>
-    <episode-num system="original-air-date">20220101000000 +0000</episode-num>
-    <desc>Inspired by Scotty McCreery's song 'Five More Minutes', a Christmas wish gets realized in an unexpected way, as a young widow has to return to her old home for the holidays.</desc>
-    <icon src="https://images.pluto.tv/episodes/66c4b0f3dc6f2f001387fa45/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20220101</date>
-    <series-id system="pluto">66c4b0f1dc6f2f001387fa23</series-id>
+  <programme channel="62fb6cd97b90e60007bc318a" start="20250326131800 +0000" stop="20250326150200 +0000">
+    <title>A Gift of Miracles</title>
+    <episode-num system="original-air-date">20140101000000 +0000</episode-num>
+    <desc>A chance encounter between two strangers, through a series of small coincidences, gives one young woman a new perspective on life, love and the world's unexplained marvels.</desc>
+    <icon src="https://images.pluto.tv/episodes/6309091bd1f9a40013b4064e/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20140101</date>
+    <series-id system="pluto">6309091ad1f9a40013b40648</series-id>
+    <category>Drama</category>
     <category>Movie</category>
-    <category>Romantic comedy</category>
-    <category>Comedy</category>
   </programme>
   <programme channel="62fb6d4308f5ec0007453c09" start="20250325204800 +0000" stop="20250325223000 +0000">
     <title>Finding Father Christmas</title>
@@ -1993,8 +1997,8 @@
     <date>20221031</date>
     <series-id system="pluto">6328829fe2125200135367f7</series-id>
     <category>Inspirational Drama</category>
-    <category>Movie</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62fb6d4308f5ec0007453c09" start="20250325223000 +0000" stop="20250326001300 +0000">
     <title>The Mistletoe Inn</title>
@@ -2003,9 +2007,9 @@
     <icon src="https://images.pluto.tv/episodes/636bb53d92944d00147f5d78/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20221031</date>
     <series-id system="pluto">636bb53b92944d00147f5d6f</series-id>
-    <category>Movie</category>
     <category>Romance</category>
     <category>Romantic comedy</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62fb6d4308f5ec0007453c09" start="20250326001300 +0000" stop="20250326015500 +0000">
     <title>Christmas Festival of Ice</title>
@@ -2014,9 +2018,9 @@
     <icon src="https://images.pluto.tv/episodes/632b33f57d18170013f90f3b/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20221031</date>
     <series-id system="pluto">632b33f27d18170013f90f34</series-id>
-    <category>Movie</category>
     <category>Romance</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62fb6d4308f5ec0007453c09" start="20250326015500 +0000" stop="20250326033400 +0000">
     <title>Royal Nanny</title>
@@ -2025,9 +2029,9 @@
     <icon src="https://images.pluto.tv/episodes/65a6b34ca95cb10014d9a600/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20221112</date>
     <series-id system="pluto">65a6b349a95cb10014d9a5e0</series-id>
-    <category>Movie</category>
     <category>Romance</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62fb6d4308f5ec0007453c09" start="20250326033400 +0000" stop="20250326051800 +0000">
     <title>Battle of the Bulbs</title>
@@ -2037,8 +2041,8 @@
     <date>20101218</date>
     <series-id system="pluto">6328ab56cad61a0013956674</series-id>
     <category>Late Night Comedies</category>
-    <category>Movie</category>
     <category>Comedy</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62fb6d4308f5ec0007453c09" start="20250326051800 +0000" stop="20250326065700 +0000">
     <title>Majestic Christmas</title>
@@ -2048,8 +2052,8 @@
     <date>20221031</date>
     <series-id system="pluto">63344af83eb55d0013ab90a7</series-id>
     <category>Inspirational Drama</category>
-    <category>Movie</category>
     <category>Drama</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62fb6d4308f5ec0007453c09" start="20250326065700 +0000" stop="20250326084100 +0000">
     <title>The Mistletoe Promise</title>
@@ -2058,9 +2062,9 @@
     <icon src="https://images.pluto.tv/episodes/63656865cea640001358ae1f/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20221031</date>
     <series-id system="pluto">63656862cea640001358ae16</series-id>
-    <category>Movie</category>
     <category>Romance</category>
     <category>Romantic comedy</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62fb6d4308f5ec0007453c09" start="20250326084100 +0000" stop="20250326102100 +0000">
     <title>Lights, Camera, Christmas!</title>
@@ -2069,9 +2073,9 @@
     <icon src="https://images.pluto.tv/episodes/65085e31f439aa0013625847/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20221031</date>
     <series-id system="pluto">65085e2df439aa0013625821</series-id>
-    <category>Movie</category>
     <category>Romance</category>
     <category>Romantic comedy</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62fb6d4308f5ec0007453c09" start="20250326102100 +0000" stop="20250326120200 +0000">
     <title>Engaging Father Christmas CA</title>
@@ -2080,20 +2084,31 @@
     <icon src="https://images.pluto.tv/episodes/636a60e5bc198f00133763b8/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20221031</date>
     <series-id system="pluto">636a60e3bc198f00133763af</series-id>
-    <category>Movie</category>
     <category>Romance</category>
     <category>Drama</category>
-  </programme>
-  <programme channel="62fb6da41afad500077e9178" start="20250325185200 +0000" stop="20250325203700 +0000">
-    <title>Badge Of Betrayal</title>
-    <episode-num system="original-air-date">20221031000000 +0000</episode-num>
-    <desc>Zoey fights to prove her son is alive, when she discovers her ex-husband  Barry has gone to elaborate lengths to fake his death to ruin her life. In a desperate race to prove her innocence, Zoey lures Barry into a trap.</desc>
-    <icon src="https://images.pluto.tv/episodes/636152478515d300131bca0c/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20221031</date>
-    <series-id system="pluto">636152448515d300131bca03</series-id>
     <category>Movie</category>
+  </programme>
+  <programme channel="62fb6d4308f5ec0007453c09" start="20250326120200 +0000" stop="20250326134100 +0000">
+    <title>A Godwink Christmas: Miracle of Love</title>
+    <episode-num system="original-air-date">20221031000000 +0000</episode-num>
+    <desc>Brought together by community service, Eric and Joy find new purpose at Christmas. As they help a family rebuild their home, coincidences and a medical miracle lead them to believe in destiny.</desc>
+    <icon src="https://images.pluto.tv/episodes/632a0db3db4067001362ffd2/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20221031</date>
+    <series-id system="pluto">632a0db0db4067001362ffcb</series-id>
     <category>Romance</category>
     <category>Romantic comedy</category>
+    <category>Movie</category>
+  </programme>
+  <programme channel="62fb6d4308f5ec0007453c09" start="20250326134100 +0000" stop="20250326152000 +0000">
+    <title>Swept Up By Christmas</title>
+    <episode-num system="original-air-date">20221031000000 +0000</episode-num>
+    <desc>An antique seller and a cleaner clash over how to downsize a magnificent estate right before Christmas.</desc>
+    <icon src="https://images.pluto.tv/episodes/6346c9cf68f5d80013731986/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20221031</date>
+    <series-id system="pluto">6346c9cd68f5d8001373197d</series-id>
+    <category>Romance</category>
+    <category>Romantic comedy</category>
+    <category>Movie</category>
   </programme>
   <programme channel="62fb6da41afad500077e9178" start="20250325203700 +0000" stop="20250325222000 +0000">
     <title>Maid for Revenge</title>
@@ -2132,9 +2147,9 @@
     <icon src="https://images.pluto.tv/episodes/650358b1f6f05d00137d72f7/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
     <date>20221031</date>
     <series-id system="pluto">650358aff6f05d00137d72d7</series-id>
+    <category>Crime</category>
     <category>Thriller</category>
     <category>Movie</category>
-    <category>Crime</category>
   </programme>
   <programme channel="62fb6da41afad500077e9178" start="20250326032900 +0000" stop="20250326051200 +0000">
     <title>Ann Rules Circle of Deception</title>
@@ -2186,29 +2201,26 @@
     <category>Thriller</category>
     <category>Movie</category>
   </programme>
-  <programme channel="6350fdd266e9ea0007bedec5" start="20250325200000 +0000" stop="20250325210000 +0000">
-    <title>CBS News 24/7</title>
-    <live />
-    <episode-num system="original-air-date">20250325200000 +0000</episode-num>
-    <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
-    <icon src="https://images.pluto.tv/series/66eacef19f04dd0013db843f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">66eacef19f04dd0013db843f</series-id>
-    <category>Series</category>
-    <category>News &amp; Information</category>
-    <category>News</category>
+  <programme channel="62fb6da41afad500077e9178" start="20250326120400 +0000" stop="20250326134300 +0000">
+    <title>Curious Caterer: Grilling Season</title>
+    <episode-num system="original-air-date">20230205000000 +0000</episode-num>
+    <desc>Caterer Goldy Berry reunites with Detective Tom Schultz to investigate the murder of a realtor. As they uncover personal and professional rivalries, they soon realize the culprit is closer than expected.</desc>
+    <icon src="https://images.pluto.tv/episodes/664df08acceea000131ea791/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20230205</date>
+    <series-id system="pluto">664df088cceea000131ea770</series-id>
+    <category>Romance</category>
+    <category>Drama</category>
+    <category>Movie</category>
   </programme>
-  <programme channel="6350fdd266e9ea0007bedec5" start="20250325210000 +0000" stop="20250325220000 +0000">
-    <title>America Decides</title>
-    <live />
-    <episode-num system="original-air-date">20250325210000 +0000</episode-num>
-    <desc>A political news program that goes deeper into the headlines and delivers news-making interviews.</desc>
-    <icon src="https://images.pluto.tv/series/6447f202c6f09e001b0e9be5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">6447f202c6f09e001b0e9be5</series-id>
-    <category>Series</category>
-    <category>News &amp; Information</category>
-    <category>News</category>
+  <programme channel="62fb6da41afad500077e9178" start="20250326134300 +0000" stop="20250326152600 +0000">
+    <title>Is There A Killer In My Family?</title>
+    <episode-num system="original-air-date">20221031000000 +0000</episode-num>
+    <desc>True-crime author, Carly, and her husband Kevin take a vacation at a historical mansion on Crawford Island. Kevin thinks it will be a chance for them to reconnect, but Carly plans to research an unsolved murder.</desc>
+    <icon src="https://images.pluto.tv/episodes/6335a7b2db4067001366ab84/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
+    <date>20221031</date>
+    <series-id system="pluto">6335a7b0db4067001366ab7c</series-id>
+    <category>Thriller</category>
+    <category>Movie</category>
   </programme>
   <programme channel="6350fdd266e9ea0007bedec5" start="20250325220000 +0000" stop="20250325230000 +0000">
     <title>The Daily Report</title>
@@ -2219,8 +2231,8 @@
     <date>19700101</date>
     <series-id system="pluto">66228e100fb7c10013ff6ecc</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6350fdd266e9ea0007bedec5" start="20250325230000 +0000" stop="20250325233000 +0000">
     <title>CBS Evening News Plus</title>
@@ -2231,8 +2243,8 @@
     <date>19700101</date>
     <series-id system="pluto">67a2399715e36300145310f1</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6350fdd266e9ea0007bedec5" start="20250325233000 +0000" stop="20250326000000 +0000">
     <title>The Daily Report</title>
@@ -2243,8 +2255,8 @@
     <date>19700101</date>
     <series-id system="pluto">66228e100fb7c10013ff6ecc</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6350fdd266e9ea0007bedec5" start="20250326000000 +0000" stop="20250326010000 +0000">
     <title>America Decides</title>
@@ -2255,8 +2267,8 @@
     <date>19700101</date>
     <series-id system="pluto">6447f202c6f09e001b0e9be5</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6350fdd266e9ea0007bedec5" start="20250326010000 +0000" stop="20250326020000 +0000">
     <title>The Daily Report</title>
@@ -2267,8 +2279,8 @@
     <date>19700101</date>
     <series-id system="pluto">66228e100fb7c10013ff6ecc</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6350fdd266e9ea0007bedec5" start="20250326020000 +0000" stop="20250326023000 +0000">
     <title>CBS Evening News</title>
@@ -2279,8 +2291,8 @@
     <date>19700101</date>
     <series-id system="pluto">678dc81b2175280013e87aad</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6350fdd266e9ea0007bedec5" start="20250326023000 +0000" stop="20250326030000 +0000">
     <title>CBS Evening News Plus</title>
@@ -2291,8 +2303,8 @@
     <date>19700101</date>
     <series-id system="pluto">67a2399715e36300145310f1</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6350fdd266e9ea0007bedec5" start="20250326030000 +0000" stop="20250326040000 +0000">
     <title>The Daily Report</title>
@@ -2303,8 +2315,8 @@
     <date>19700101</date>
     <series-id system="pluto">66228e100fb7c10013ff6ecc</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6350fdd266e9ea0007bedec5" start="20250326040000 +0000" stop="20250326050000 +0000">
     <title>The Daily Report</title>
@@ -2315,8 +2327,8 @@
     <date>19700101</date>
     <series-id system="pluto">66228e100fb7c10013ff6ecc</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6350fdd266e9ea0007bedec5" start="20250326050000 +0000" stop="20250326060000 +0000">
     <title>CBS News Roundup</title>
@@ -2327,8 +2339,8 @@
     <date>19700101</date>
     <series-id system="pluto">6659c9edf8681400135d28bd</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6350fdd266e9ea0007bedec5" start="20250326060000 +0000" stop="20250326070000 +0000">
     <title>CBS News Roundup</title>
@@ -2339,8 +2351,8 @@
     <date>19700101</date>
     <series-id system="pluto">6659c9edf8681400135d28bd</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6350fdd266e9ea0007bedec5" start="20250326070000 +0000" stop="20250326080000 +0000">
     <title>CBS News Roundup</title>
@@ -2351,8 +2363,8 @@
     <date>19700101</date>
     <series-id system="pluto">6659c9edf8681400135d28bd</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6350fdd266e9ea0007bedec5" start="20250326080000 +0000" stop="20250326090000 +0000">
     <title>CBS News Roundup</title>
@@ -2363,8 +2375,8 @@
     <date>19700101</date>
     <series-id system="pluto">6659c9edf8681400135d28bd</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6350fdd266e9ea0007bedec5" start="20250326090000 +0000" stop="20250326093000 +0000">
     <title>CBS News Mornings</title>
@@ -2375,8 +2387,8 @@
     <date>19700101</date>
     <series-id system="pluto">66228e070fb7c10013ff5cc3</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6350fdd266e9ea0007bedec5" start="20250326093000 +0000" stop="20250326100000 +0000">
     <title>CBS News Mornings</title>
@@ -2387,8 +2399,8 @@
     <date>19700101</date>
     <series-id system="pluto">66228e070fb7c10013ff5cc3</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6350fdd266e9ea0007bedec5" start="20250326100000 +0000" stop="20250326103000 +0000">
     <title>CBS News Mornings</title>
@@ -2399,8 +2411,8 @@
     <date>19700101</date>
     <series-id system="pluto">66228e070fb7c10013ff5cc3</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6350fdd266e9ea0007bedec5" start="20250326103000 +0000" stop="20250326110000 +0000">
     <title>CBS News Mornings</title>
@@ -2411,8 +2423,8 @@
     <date>19700101</date>
     <series-id system="pluto">66228e070fb7c10013ff5cc3</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6350fdd266e9ea0007bedec5" start="20250326110000 +0000" stop="20250326120000 +0000">
     <title>CBS Morning News</title>
@@ -2423,8 +2435,8 @@
     <date>19700101</date>
     <series-id system="pluto">63eb54bb662ef900145bb045</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6350fdd266e9ea0007bedec5" start="20250326120000 +0000" stop="20250326130000 +0000">
     <title>CBS Mornings</title>
@@ -2435,32 +2447,32 @@
     <date>19700101</date>
     <series-id system="pluto">63eb54bc662ef900145bb0c5</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
-  <programme channel="63da370e2e477400081cf8b6" start="20250325200000 +0000" stop="20250325210000 +0000">
-    <title>What If</title>
+  <programme channel="6350fdd266e9ea0007bedec5" start="20250326130000 +0000" stop="20250326140000 +0000">
+    <title>CBS Mornings Plus</title>
     <live />
-    <episode-num system="original-air-date">20250325200000 +0000</episode-num>
-    <desc>A journey through hypothetical worlds and possibilities.</desc>
-    <icon src="https://images.pluto.tv/series/6666cf3cc3f49b00136c0f73/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250326130000 +0000</episode-num>
+    <desc>"CBS Mornings Plus" is produced by the award-winning "CBS Mornings" team and takes viewers deeper into the most important headlines of the day, as well as pop culture, entertainment, health, wellness and financial news.</desc>
+    <icon src="https://images.pluto.tv/series/66f2e22d7dcabd0013cd76f9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">6666cf3cc3f49b00136c0f73</series-id>
+    <series-id system="pluto">66f2e22d7dcabd0013cd76f9</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
-  <programme channel="63da370e2e477400081cf8b6" start="20250325210000 +0000" stop="20250325220000 +0000">
-    <title>Your Body On</title>
+  <programme channel="6350fdd266e9ea0007bedec5" start="20250326140000 +0000" stop="20250326150000 +0000">
+    <title>CBS News 24/7</title>
     <live />
-    <episode-num system="original-air-date">20250325210000 +0000</episode-num>
-    <desc>Putting the human body to the What if test.</desc>
-    <icon src="https://images.pluto.tv/series/666af5366ae03e001301125c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250326140000 +0000</episode-num>
+    <desc>Coverage, reporting and storytelling from CBS News and Stations; a look at how news coverage comes together.</desc>
+    <icon src="https://images.pluto.tv/series/66eacef19f04dd0013db843f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">666af5366ae03e001301125c</series-id>
+    <series-id system="pluto">66eacef19f04dd0013db843f</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250325220000 +0000" stop="20250325230000 +0000">
     <title>Survivorman</title>
@@ -2472,8 +2484,8 @@
     <series-id system="pluto">6666cf39c3f49b00136c0c2f</series-id>
     <sub-title>Oregon</sub-title>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250325230000 +0000" stop="20250325233000 +0000">
     <title>Storm Hunters</title>
@@ -2485,8 +2497,8 @@
     <series-id system="pluto">6666cf3ac3f49b00136c0db6</series-id>
     <sub-title>Knowing the Enemy</sub-title>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250325233000 +0000" stop="20250326000000 +0000">
     <title>Force of Nature</title>
@@ -2497,8 +2509,8 @@
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0d68</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250326000000 +0000" stop="20250326003000 +0000">
     <title>Power to the People</title>
@@ -2510,8 +2522,8 @@
     <series-id system="pluto">6666cf53c3f49b00136c31c3</series-id>
     <sub-title>Bella Coola</sub-title>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250326003000 +0000" stop="20250326010000 +0000">
     <title>Spring Forecast</title>
@@ -2522,8 +2534,8 @@
     <date>19700101</date>
     <series-id system="pluto">67d059351b63ec7ef433a1f3</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250326010000 +0000" stop="20250326020000 +0000">
     <title>Survivorman Ten Days</title>
@@ -2535,8 +2547,8 @@
     <series-id system="pluto">666af5336ae03e0013010e82</series-id>
     <sub-title>Tonga</sub-title>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250326020000 +0000" stop="20250326023000 +0000">
     <title>Force of Nature</title>
@@ -2547,8 +2559,8 @@
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0d68</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250326023000 +0000" stop="20250326030000 +0000">
     <title>Force of Nature</title>
@@ -2559,8 +2571,8 @@
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0d68</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250326030000 +0000" stop="20250326040000 +0000">
     <title>What If</title>
@@ -2571,8 +2583,8 @@
     <date>19700101</date>
     <series-id system="pluto">6666cf3cc3f49b00136c0f73</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250326040000 +0000" stop="20250326050000 +0000">
     <title>Your Body On</title>
@@ -2583,8 +2595,8 @@
     <date>19700101</date>
     <series-id system="pluto">666af5366ae03e001301125c</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250326050000 +0000" stop="20250326060000 +0000">
     <title>Survivorman</title>
@@ -2596,8 +2608,8 @@
     <series-id system="pluto">6666cf39c3f49b00136c0c2f</series-id>
     <sub-title>Oregon</sub-title>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250326060000 +0000" stop="20250326063000 +0000">
     <title>Dream in Colour</title>
@@ -2608,8 +2620,8 @@
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0cfe</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250326063000 +0000" stop="20250326070000 +0000">
     <title>Dream in Colour</title>
@@ -2620,8 +2632,8 @@
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0cfe</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250326070000 +0000" stop="20250326073000 +0000">
     <title>Dream in Colour</title>
@@ -2632,8 +2644,8 @@
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0cfe</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250326073000 +0000" stop="20250326080000 +0000">
     <title>Dream in Colour</title>
@@ -2644,8 +2656,8 @@
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0cfe</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250326080000 +0000" stop="20250326083000 +0000">
     <title>Dream in Colour</title>
@@ -2656,8 +2668,8 @@
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0cfe</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250326083000 +0000" stop="20250326090000 +0000">
     <title>Dream in Colour</title>
@@ -2668,8 +2680,8 @@
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0cfe</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250326090000 +0000" stop="20250326093000 +0000">
     <title>Dream in Colour</title>
@@ -2680,8 +2692,8 @@
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0cfe</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250326093000 +0000" stop="20250326100000 +0000">
     <title>Dream in Colour</title>
@@ -2692,8 +2704,8 @@
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0cfe</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250326100000 +0000" stop="20250326103000 +0000">
     <title>Weather AM</title>
@@ -2704,8 +2716,8 @@
     <date>19700101</date>
     <series-id system="pluto">666181aac0b6d50014e45c22</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250326103000 +0000" stop="20250326110000 +0000">
     <title>Force of Nature</title>
@@ -2716,8 +2728,8 @@
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0d68</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250326110000 +0000" stop="20250326113000 +0000">
     <title>Weather AM</title>
@@ -2728,8 +2740,8 @@
     <date>19700101</date>
     <series-id system="pluto">666181aac0b6d50014e45c22</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250326113000 +0000" stop="20250326120000 +0000">
     <title>Force of Nature</title>
@@ -2740,8 +2752,8 @@
     <date>19700101</date>
     <series-id system="pluto">6666cf3ac3f49b00136c0d68</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="63da370e2e477400081cf8b6" start="20250326120000 +0000" stop="20250326123000 +0000">
     <title>Weather AM</title>
@@ -2752,19 +2764,56 @@
     <date>19700101</date>
     <series-id system="pluto">666181aac0b6d50014e45c22</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
-  <programme channel="64a3d96f060e830008af6745" start="20250325191800 +0000" stop="20250325210100 +0000">
-    <title>Held Up</title>
+  <programme channel="63da370e2e477400081cf8b6" start="20250326123000 +0000" stop="20250326130000 +0000">
+    <title>Spring Forecast</title>
     <live />
-    <episode-num system="original-air-date">20250325191800 +0000</episode-num>
-    <desc>Yuppie Alex (Jamie Foxx) stops for gas at a remote convenience store, gets dumped by his fiancee (Nia Long) and becomes a hostage during a robbery.</desc>
-    <icon src="https://images.pluto.tv/series/651710d4e2a2d8001a90218d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250326123000 +0000</episode-num>
+    <desc>The Spring Forecast is here to add some sunshine to the day; viewers can get their season scoop with the epic all-day premiere.</desc>
+    <icon src="https://images.pluto.tv/series/67d059351b63ec7ef433a1f3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">651710d4e2a2d8001a90218d</series-id>
+    <series-id system="pluto">67d059351b63ec7ef433a1f3</series-id>
     <category>Series</category>
-    <category>Entertainment</category>
+    <category>News</category>
+    <category>News &amp; Information</category>
+  </programme>
+  <programme channel="63da370e2e477400081cf8b6" start="20250326130000 +0000" stop="20250326133000 +0000">
+    <title>Weather AM</title>
+    <live />
+    <episode-num system="original-air-date">20250326130000 +0000</episode-num>
+    <desc>Forecasts for all of Canada with relevant weather stories to start the day.</desc>
+    <icon src="https://images.pluto.tv/series/666181aac0b6d50014e45c22/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">666181aac0b6d50014e45c22</series-id>
+    <category>Series</category>
+    <category>News</category>
+    <category>News &amp; Information</category>
+  </programme>
+  <programme channel="63da370e2e477400081cf8b6" start="20250326133000 +0000" stop="20250326140000 +0000">
+    <title>Force of Nature</title>
+    <live />
+    <episode-num system="original-air-date">20250326133000 +0000</episode-num>
+    <desc>Wild and viral weather footage from across Canada and around the world.</desc>
+    <icon src="https://images.pluto.tv/series/6666cf3ac3f49b00136c0d68/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6666cf3ac3f49b00136c0d68</series-id>
+    <category>Series</category>
+    <category>News</category>
+    <category>News &amp; Information</category>
+  </programme>
+  <programme channel="63da370e2e477400081cf8b6" start="20250326140000 +0000" stop="20250326143000 +0000">
+    <title>Weather AM</title>
+    <live />
+    <episode-num system="original-air-date">20250326140000 +0000</episode-num>
+    <desc>Forecasts for all of Canada with relevant weather stories to start the day.</desc>
+    <icon src="https://images.pluto.tv/series/666181aac0b6d50014e45c22/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">666181aac0b6d50014e45c22</series-id>
+    <category>Series</category>
+    <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="64a3d96f060e830008af6745" start="20250325210100 +0000" stop="20250325230200 +0000">
     <title>Red</title>
@@ -2854,40 +2903,16 @@
     <category>Series</category>
     <category>Entertainment</category>
   </programme>
-  <programme channel="65265dada6c3830008942a0a" start="20250325193400 +0000" stop="20250325202600 +0000">
-    <title>The Bizarre Pet Vets</title>
+  <programme channel="64a3d96f060e830008af6745" start="20250326134400 +0000" stop="20250326153300 +0000">
+    <title>Shattered Glass</title>
     <live />
-    <episode-num system="original-air-date">20250325193400 +0000</episode-num>
-    <desc>The team work on some naughty and nice patients; Dr Kelly performs a very small surgery.</desc>
-    <icon src="https://images.pluto.tv/series/656daa6b6206380013e24dba/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250326134400 +0000</episode-num>
+    <desc>Washington, D.C., journalist Stephen Glass (Hayden Christensen) swiftly falls from grace when the news breaks that many of his stories were fabricated.</desc>
+    <icon src="https://images.pluto.tv/series/64c21d0caab4dc0013b4df29/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">656daa6b6206380013e24dba</series-id>
+    <series-id system="pluto">64c21d0caab4dc0013b4df29</series-id>
     <category>Series</category>
-    <category>Documentary</category>
-  </programme>
-  <programme channel="65265dada6c3830008942a0a" start="20250325202600 +0000" stop="20250325205300 +0000">
-    <title>ER Vets</title>
-    <live />
-    <episode-num system="original-air-date">20250325202600 +0000</episode-num>
-    <desc>Sydra, a dog with fainting issues; Anchor, a dog who can't walk.</desc>
-    <icon src="https://images.pluto.tv/series/656daa676206380013e2497f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">656daa676206380013e2497f</series-id>
-    <sub-title>Full of Heart</sub-title>
-    <category>Series</category>
-    <category>Documentary</category>
-  </programme>
-  <programme channel="65265dada6c3830008942a0a" start="20250325205300 +0000" stop="20250325211800 +0000">
-    <title>ER Vets</title>
-    <live />
-    <episode-num system="original-air-date">20250325205300 +0000</episode-num>
-    <desc>A cat that only walks to it's left side.</desc>
-    <icon src="https://images.pluto.tv/series/656daa676206380013e2497f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">656daa676206380013e2497f</series-id>
-    <sub-title>Quirk</sub-title>
-    <category>Series</category>
-    <category>Documentary</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="65265dada6c3830008942a0a" start="20250325211800 +0000" stop="20250325221700 +0000">
     <title>Hope for Wildlife</title>
@@ -2898,8 +2923,8 @@
     <date>19700101</date>
     <series-id system="pluto">656daa636206380013e2458e</series-id>
     <sub-title>Foxes in the Henhouse</sub-title>
-    <category>Series</category>
     <category>Documentary</category>
+    <category>Series</category>
   </programme>
   <programme channel="65265dada6c3830008942a0a" start="20250325221700 +0000" stop="20250325231500 +0000">
     <title>Hope for Wildlife</title>
@@ -2910,8 +2935,8 @@
     <date>19700101</date>
     <series-id system="pluto">656daa636206380013e2458e</series-id>
     <sub-title>Ester the Moose</sub-title>
-    <category>Series</category>
     <category>Documentary</category>
+    <category>Series</category>
   </programme>
   <programme channel="65265dada6c3830008942a0a" start="20250325231500 +0000" stop="20250325234400 +0000">
     <title>The Shelter: Animal SOS</title>
@@ -2921,8 +2946,8 @@
     <icon src="https://images.pluto.tv/series/656daa7e6206380013e26682/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">656daa7e6206380013e26682</series-id>
-    <category>Series</category>
     <category>Documentary</category>
+    <category>Series</category>
   </programme>
   <programme channel="65265dada6c3830008942a0a" start="20250325234400 +0000" stop="20250326001200 +0000">
     <title>The Shelter: Animal SOS</title>
@@ -2932,8 +2957,8 @@
     <icon src="https://images.pluto.tv/series/656daa7e6206380013e26682/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">656daa7e6206380013e26682</series-id>
-    <category>Series</category>
     <category>Documentary</category>
+    <category>Series</category>
   </programme>
   <programme channel="65265dada6c3830008942a0a" start="20250326001200 +0000" stop="20250326010800 +0000">
     <title>Vet on the Hill</title>
@@ -2943,8 +2968,8 @@
     <icon src="https://images.pluto.tv/series/656daa726206380013e255b6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">656daa726206380013e255b6</series-id>
-    <category>Series</category>
     <category>Documentary</category>
+    <category>Series</category>
   </programme>
   <programme channel="65265dada6c3830008942a0a" start="20250326010800 +0000" stop="20250326020400 +0000">
     <title>Vet on the Hill</title>
@@ -2954,8 +2979,8 @@
     <icon src="https://images.pluto.tv/series/656daa726206380013e255b6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">656daa726206380013e255b6</series-id>
-    <category>Series</category>
     <category>Documentary</category>
+    <category>Series</category>
   </programme>
   <programme channel="65265dada6c3830008942a0a" start="20250326020400 +0000" stop="20250326030000 +0000">
     <title>Vet on the Hill</title>
@@ -2965,8 +2990,8 @@
     <icon src="https://images.pluto.tv/series/656daa726206380013e255b6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">656daa726206380013e255b6</series-id>
-    <category>Series</category>
     <category>Documentary</category>
+    <category>Series</category>
   </programme>
   <programme channel="65265dada6c3830008942a0a" start="20250326030000 +0000" stop="20250326035600 +0000">
     <title>Hope for Wildlife</title>
@@ -2977,8 +3002,8 @@
     <date>19700101</date>
     <series-id system="pluto">656daa636206380013e2458e</series-id>
     <sub-title>Stealing Home</sub-title>
-    <category>Series</category>
     <category>Documentary</category>
+    <category>Series</category>
   </programme>
   <programme channel="65265dada6c3830008942a0a" start="20250326035600 +0000" stop="20250326045200 +0000">
     <title>Hope for Wildlife</title>
@@ -2989,8 +3014,8 @@
     <date>19700101</date>
     <series-id system="pluto">656daa636206380013e2458e</series-id>
     <sub-title>Kit's the Name</sub-title>
-    <category>Series</category>
     <category>Documentary</category>
+    <category>Series</category>
   </programme>
   <programme channel="65265dada6c3830008942a0a" start="20250326045200 +0000" stop="20250326054700 +0000">
     <title>Hope for Wildlife</title>
@@ -3001,8 +3026,8 @@
     <date>19700101</date>
     <series-id system="pluto">656daa636206380013e2458e</series-id>
     <sub-title>A Makeshift Family</sub-title>
-    <category>Series</category>
     <category>Documentary</category>
+    <category>Series</category>
   </programme>
   <programme channel="65265dada6c3830008942a0a" start="20250326054700 +0000" stop="20250326064300 +0000">
     <title>Hope for Wildlife</title>
@@ -3013,8 +3038,8 @@
     <date>19700101</date>
     <series-id system="pluto">656daa636206380013e2458e</series-id>
     <sub-title>Hello Goodbye</sub-title>
-    <category>Series</category>
     <category>Documentary</category>
+    <category>Series</category>
   </programme>
   <programme channel="65265dada6c3830008942a0a" start="20250326064300 +0000" stop="20250326071000 +0000">
     <title>Dr. Lisa to the Rescue</title>
@@ -3025,8 +3050,8 @@
     <date>19700101</date>
     <series-id system="pluto">67a24f2d04472a00132d680e</series-id>
     <sub-title>Corderoy</sub-title>
-    <category>Series</category>
     <category>Documentary</category>
+    <category>Series</category>
   </programme>
   <programme channel="65265dada6c3830008942a0a" start="20250326071000 +0000" stop="20250326073700 +0000">
     <title>Dr. Lisa to the Rescue</title>
@@ -3037,8 +3062,8 @@
     <date>19700101</date>
     <series-id system="pluto">67a24f2d04472a00132d680e</series-id>
     <sub-title>Murray</sub-title>
-    <category>Series</category>
     <category>Documentary</category>
+    <category>Series</category>
   </programme>
   <programme channel="65265dada6c3830008942a0a" start="20250326073700 +0000" stop="20250326080400 +0000">
     <title>Dr. Lisa to the Rescue</title>
@@ -3049,8 +3074,8 @@
     <date>19700101</date>
     <series-id system="pluto">67a24f2d04472a00132d680e</series-id>
     <sub-title>Budge</sub-title>
-    <category>Series</category>
     <category>Documentary</category>
+    <category>Series</category>
   </programme>
   <programme channel="65265dada6c3830008942a0a" start="20250326080400 +0000" stop="20250326083000 +0000">
     <title>Dr. Lisa to the Rescue</title>
@@ -3061,8 +3086,8 @@
     <date>19700101</date>
     <series-id system="pluto">67a24f2d04472a00132d680e</series-id>
     <sub-title>The Parry Family</sub-title>
-    <category>Series</category>
     <category>Documentary</category>
+    <category>Series</category>
   </programme>
   <programme channel="65265dada6c3830008942a0a" start="20250326083000 +0000" stop="20250326085700 +0000">
     <title>Dr. Lisa to the Rescue</title>
@@ -3073,8 +3098,8 @@
     <date>19700101</date>
     <series-id system="pluto">67a24f2d04472a00132d680e</series-id>
     <sub-title>Meet the Borgs</sub-title>
-    <category>Series</category>
     <category>Documentary</category>
+    <category>Series</category>
   </programme>
   <programme channel="65265dada6c3830008942a0a" start="20250326085700 +0000" stop="20250326092300 +0000">
     <title>Dr. Lisa to the Rescue</title>
@@ -3085,8 +3110,8 @@
     <date>19700101</date>
     <series-id system="pluto">67a24f2d04472a00132d680e</series-id>
     <sub-title>Jo's Family</sub-title>
-    <category>Series</category>
     <category>Documentary</category>
+    <category>Series</category>
   </programme>
   <programme channel="65265dada6c3830008942a0a" start="20250326092300 +0000" stop="20250326095000 +0000">
     <title>Dr. Lisa to the Rescue</title>
@@ -3097,8 +3122,8 @@
     <date>19700101</date>
     <series-id system="pluto">67a24f2d04472a00132d680e</series-id>
     <sub-title>The Formosa Family</sub-title>
-    <category>Series</category>
     <category>Documentary</category>
+    <category>Series</category>
   </programme>
   <programme channel="65265dada6c3830008942a0a" start="20250326095000 +0000" stop="20250326101600 +0000">
     <title>Bondi Vet</title>
@@ -3109,8 +3134,8 @@
     <date>19700101</date>
     <series-id system="pluto">656daa656206380013e246b1</series-id>
     <sub-title>Kangaroo Babysitting</sub-title>
-    <category>Series</category>
     <category>Documentary</category>
+    <category>Series</category>
   </programme>
   <programme channel="65265dada6c3830008942a0a" start="20250326101600 +0000" stop="20250326104200 +0000">
     <title>Bondi Vet</title>
@@ -3121,8 +3146,8 @@
     <date>19700101</date>
     <series-id system="pluto">656daa656206380013e246b1</series-id>
     <sub-title>Behind the Bars</sub-title>
-    <category>Series</category>
     <category>Documentary</category>
+    <category>Series</category>
   </programme>
   <programme channel="65265dada6c3830008942a0a" start="20250326104200 +0000" stop="20250326110700 +0000">
     <title>Bondi Vet</title>
@@ -3133,8 +3158,8 @@
     <date>19700101</date>
     <series-id system="pluto">656daa656206380013e246b1</series-id>
     <sub-title>Nip and Tuck</sub-title>
-    <category>Series</category>
     <category>Documentary</category>
+    <category>Series</category>
   </programme>
   <programme channel="65265dada6c3830008942a0a" start="20250326110700 +0000" stop="20250326113400 +0000">
     <title>Bondi Vet</title>
@@ -3145,8 +3170,8 @@
     <date>19700101</date>
     <series-id system="pluto">656daa656206380013e246b1</series-id>
     <sub-title>Dizzy Devils</sub-title>
-    <category>Series</category>
     <category>Documentary</category>
+    <category>Series</category>
   </programme>
   <programme channel="65265dada6c3830008942a0a" start="20250326113400 +0000" stop="20250326120000 +0000">
     <title>Bondi Vet</title>
@@ -3157,8 +3182,8 @@
     <date>19700101</date>
     <series-id system="pluto">656daa656206380013e246b1</series-id>
     <sub-title>A Kid Named Pan</sub-title>
-    <category>Series</category>
     <category>Documentary</category>
+    <category>Series</category>
   </programme>
   <programme channel="65265dada6c3830008942a0a" start="20250326120000 +0000" stop="20250326122700 +0000">
     <title>Pick a Puppy</title>
@@ -3169,52 +3194,56 @@
     <date>19700101</date>
     <series-id system="pluto">656daa646206380013e245c3</series-id>
     <sub-title>Little Rascals</sub-title>
-    <category>Series</category>
     <category>Documentary</category>
-  </programme>
-  <programme channel="6536721dbfbaec00088687c0" start="20250325200000 +0000" stop="20250325203000 +0000">
-    <title>CBC News Toronto</title>
-    <live />
-    <episode-num system="original-air-date">20250325200000 +0000</episode-num>
-    <desc>CBC News Toronto provide Canadians with 24/7 coverage of major breaking news, weather, headlines, and the local stories that matter to them.</desc>
-    <icon src="https://images.pluto.tv/series/67407df4afc24200082312a2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">67407df4afc24200082312a2</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
   </programme>
-  <programme channel="6536721dbfbaec00088687c0" start="20250325203000 +0000" stop="20250325210000 +0000">
-    <title>CBC News Toronto</title>
+  <programme channel="65265dada6c3830008942a0a" start="20250326122700 +0000" stop="20250326125500 +0000">
+    <title>Pick a Puppy</title>
     <live />
-    <episode-num system="original-air-date">20250325203000 +0000</episode-num>
-    <desc>CBC News Toronto provide Canadians with 24/7 coverage of major breaking news, weather, headlines, and the local stories that matter to them.</desc>
-    <icon src="https://images.pluto.tv/series/67407df4afc24200082312a2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250326122700 +0000</episode-num>
+    <desc>The Frohlick family looks for a dog who loves water as much as they do.</desc>
+    <icon src="https://images.pluto.tv/series/656daa646206380013e245c3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">67407df4afc24200082312a2</series-id>
+    <series-id system="pluto">656daa646206380013e245c3</series-id>
+    <sub-title>Water Ready</sub-title>
+    <category>Documentary</category>
     <category>Series</category>
-    <category>News &amp; Information</category>
   </programme>
-  <programme channel="6536721dbfbaec00088687c0" start="20250325210000 +0000" stop="20250325213000 +0000">
-    <title>CBC News Toronto</title>
+  <programme channel="65265dada6c3830008942a0a" start="20250326125500 +0000" stop="20250326132200 +0000">
+    <title>Pick a Puppy</title>
     <live />
-    <episode-num system="original-air-date">20250325210000 +0000</episode-num>
-    <desc>CBC News Toronto provide Canadians with 24/7 coverage of major breaking news, weather, headlines, and the local stories that matter to them.</desc>
-    <icon src="https://images.pluto.tv/series/67407df4afc24200082312a2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250326125500 +0000</episode-num>
+    <desc>The Chambers family visits three rescue dogs in hopes to find a new edition to the family.</desc>
+    <icon src="https://images.pluto.tv/series/656daa646206380013e245c3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">67407df4afc24200082312a2</series-id>
+    <series-id system="pluto">656daa646206380013e245c3</series-id>
+    <sub-title>Very Active</sub-title>
+    <category>Documentary</category>
     <category>Series</category>
-    <category>News &amp; Information</category>
   </programme>
-  <programme channel="6536721dbfbaec00088687c0" start="20250325213000 +0000" stop="20250325220000 +0000">
-    <title>CBC News Toronto</title>
+  <programme channel="65265dada6c3830008942a0a" start="20250326132200 +0000" stop="20250326135000 +0000">
+    <title>Pick a Puppy</title>
     <live />
-    <episode-num system="original-air-date">20250325213000 +0000</episode-num>
-    <desc>CBC News Toronto provide Canadians with 24/7 coverage of major breaking news, weather, headlines, and the local stories that matter to them.</desc>
-    <icon src="https://images.pluto.tv/series/67407df4afc24200082312a2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250326132200 +0000</episode-num>
+    <desc>The Vietri-Mistry family can't agree on which breed to adopt for their first dog.</desc>
+    <icon src="https://images.pluto.tv/series/656daa646206380013e245c3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">67407df4afc24200082312a2</series-id>
+    <series-id system="pluto">656daa646206380013e245c3</series-id>
+    <sub-title>The Sweetest Thing</sub-title>
+    <category>Documentary</category>
     <category>Series</category>
-    <category>News &amp; Information</category>
+  </programme>
+  <programme channel="65265dada6c3830008942a0a" start="20250326135000 +0000" stop="20250326141700 +0000">
+    <title>Pick a Puppy</title>
+    <live />
+    <episode-num system="original-air-date">20250326135000 +0000</episode-num>
+    <desc>The Brohman family is looking for a companion for their son while his sisters go to collage.</desc>
+    <icon src="https://images.pluto.tv/series/656daa646206380013e245c3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">656daa646206380013e245c3</series-id>
+    <sub-title>See You At The Cottage</sub-title>
+    <category>Documentary</category>
+    <category>Series</category>
   </programme>
   <programme channel="6536721dbfbaec00088687c0" start="20250325220000 +0000" stop="20250325223000 +0000">
     <title>CBC News Toronto</title>
@@ -3535,17 +3564,49 @@
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="6536725167bd1a00084481bc" start="20250325200000 +0000" stop="20250325203000 +0000">
-    <title>About That</title>
+  <programme channel="6536721dbfbaec00088687c0" start="20250326123000 +0000" stop="20250326130000 +0000">
+    <title>CBC News Toronto</title>
     <live />
-    <episode-num system="original-air-date">20250325200000 +0000</episode-num>
-    <desc>Andrew Chang expands the understanding of the stories everybody's talking about.</desc>
-    <icon src="https://images.pluto.tv/series/670550257dcabd0013116e26/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250326123000 +0000</episode-num>
+    <desc>CBC News Toronto provide Canadians with 24/7 coverage of major breaking news, weather, headlines, and the local stories that matter to them.</desc>
+    <icon src="https://images.pluto.tv/series/67407df4afc24200082312a2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">670550257dcabd0013116e26</series-id>
+    <series-id system="pluto">67407df4afc24200082312a2</series-id>
     <category>Series</category>
     <category>News &amp; Information</category>
-    <category>News</category>
+  </programme>
+  <programme channel="6536721dbfbaec00088687c0" start="20250326130000 +0000" stop="20250326133000 +0000">
+    <title>CBC News Toronto</title>
+    <live />
+    <episode-num system="original-air-date">20250326130000 +0000</episode-num>
+    <desc>CBC News Toronto provide Canadians with 24/7 coverage of major breaking news, weather, headlines, and the local stories that matter to them.</desc>
+    <icon src="https://images.pluto.tv/series/67407df4afc24200082312a2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">67407df4afc24200082312a2</series-id>
+    <category>Series</category>
+    <category>News &amp; Information</category>
+  </programme>
+  <programme channel="6536721dbfbaec00088687c0" start="20250326133000 +0000" stop="20250326140000 +0000">
+    <title>CBC News Toronto</title>
+    <live />
+    <episode-num system="original-air-date">20250326133000 +0000</episode-num>
+    <desc>CBC News Toronto provide Canadians with 24/7 coverage of major breaking news, weather, headlines, and the local stories that matter to them.</desc>
+    <icon src="https://images.pluto.tv/series/67407df4afc24200082312a2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">67407df4afc24200082312a2</series-id>
+    <category>Series</category>
+    <category>News &amp; Information</category>
+  </programme>
+  <programme channel="6536721dbfbaec00088687c0" start="20250326140000 +0000" stop="20250326143000 +0000">
+    <title>CBC News Toronto</title>
+    <live />
+    <episode-num system="original-air-date">20250326140000 +0000</episode-num>
+    <desc>CBC News Toronto provide Canadians with 24/7 coverage of major breaking news, weather, headlines, and the local stories that matter to them.</desc>
+    <icon src="https://images.pluto.tv/series/67407df4afc24200082312a2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">67407df4afc24200082312a2</series-id>
+    <category>Series</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250325203000 +0000" stop="20250325230000 +0000">
     <title>Today's Top Stories</title>
@@ -3556,8 +3617,8 @@
     <date>19700101</date>
     <series-id system="pluto">67213f9d61f27a00137db248</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250325230000 +0000" stop="20250325233000 +0000">
     <title>About That</title>
@@ -3568,8 +3629,8 @@
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116e26</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250325233000 +0000" stop="20250326000000 +0000">
     <title>Today's Top Stories</title>
@@ -3580,8 +3641,8 @@
     <date>19700101</date>
     <series-id system="pluto">67213f9d61f27a00137db248</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250326000000 +0000" stop="20250326010000 +0000">
     <title>Today's Top Stories</title>
@@ -3592,8 +3653,8 @@
     <date>19700101</date>
     <series-id system="pluto">67213f9d61f27a00137db248</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250326010000 +0000" stop="20250326020000 +0000">
     <title>The National</title>
@@ -3604,8 +3665,8 @@
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116dd2</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250326020000 +0000" stop="20250326030000 +0000">
     <title>The National</title>
@@ -3616,8 +3677,8 @@
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116dd2</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250326030000 +0000" stop="20250326040000 +0000">
     <title>The National</title>
@@ -3628,8 +3689,8 @@
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116dd2</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250326040000 +0000" stop="20250326050000 +0000">
     <title>The National</title>
@@ -3640,8 +3701,8 @@
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116dd2</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250326050000 +0000" stop="20250326060000 +0000">
     <title>The National</title>
@@ -3652,8 +3713,8 @@
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116dd2</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250326060000 +0000" stop="20250326070000 +0000">
     <title>The National</title>
@@ -3664,8 +3725,8 @@
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116dd2</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250326070000 +0000" stop="20250326080000 +0000">
     <title>The National</title>
@@ -3676,8 +3737,8 @@
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116dd2</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250326080000 +0000" stop="20250326090000 +0000">
     <title>The National</title>
@@ -3688,8 +3749,8 @@
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116dd2</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250326090000 +0000" stop="20250326100000 +0000">
     <title>The National</title>
@@ -3700,8 +3761,8 @@
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116dd2</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250326100000 +0000" stop="20250326110000 +0000">
     <title>The National</title>
@@ -3712,8 +3773,8 @@
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116dd2</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250326110000 +0000" stop="20250326120000 +0000">
     <title>The National</title>
@@ -3724,8 +3785,8 @@
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116dd2</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6536725167bd1a00084481bc" start="20250326120000 +0000" stop="20250326130000 +0000">
     <title>The National</title>
@@ -3736,78 +3797,32 @@
     <date>19700101</date>
     <series-id system="pluto">670550257dcabd0013116dd2</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
-  <programme channel="65413633295b840008c9333a" start="20250325193800 +0000" stop="20250325200500 +0000">
-    <title>MTV Queens Of Pop</title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="pluto">67ae36135e644ca0d729f874</episode-num>
-    <episode-num system="original-air-date">20000101000000 +0000</episode-num>
-    <desc>Man! I Feel Like A Woman (Shania Twain) / Diamonds (Rihanna) / Bam Bam (Camila Cabello ft. Ed Sheeran) / Players (DJ Smallz 732 - Jersey Club Remix) (Coi Leray) / Final Song (MØ) / Born This Way (Lady Gaga)</desc>
-    <icon src="https://images.pluto.tv/series/66d760f377deaf0014ca1577/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20000101</date>
-    <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
-    <sub-title>Shania Twain / Rihanna / Camila Cabello ft. Ed Sheeran / Coi Leray / MØ / Lady Gaga</sub-title>
+  <programme channel="6536725167bd1a00084481bc" start="20250326130000 +0000" stop="20250326140000 +0000">
+    <title>The National</title>
+    <live />
+    <episode-num system="original-air-date">20250326130000 +0000</episode-num>
+    <desc>CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism; Adrienne Arsenault and Ian Hanomansing anchor.</desc>
+    <icon src="https://images.pluto.tv/series/670550257dcabd0013116dd2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">670550257dcabd0013116dd2</series-id>
     <category>Series</category>
-    <category>Music</category>
-    <category>Pop</category>
+    <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
-  <programme channel="65413633295b840008c9333a" start="20250325200500 +0000" stop="20250325203200 +0000">
-    <title>MTV Queens Of Pop</title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <episode-num system="pluto">6719437da88a190013dc8324</episode-num>
-    <episode-num system="original-air-date">20000101000000 +0000</episode-num>
-    <desc>Dark Horse (Katy Perry Ft. Juicy J) / I'm Like A Bird (Nelly Furtado) / Girls Just Want To Have Fun (Cyndi Lauper) / My Favourite Game (The Cardigans) / Independent Woman (Destiny's Child) / Royals (Lorde)</desc>
-    <icon src="https://images.pluto.tv/series/66d760f377deaf0014ca1577/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20000101</date>
-    <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
-    <sub-title>Katy Perry Ft. Juicy J / Nelly Furtado / Cyndi Lauper / The Cardigans / Destiny's Child / Lorde</sub-title>
+  <programme channel="6536725167bd1a00084481bc" start="20250326140000 +0000" stop="20250326150000 +0000">
+    <title>CBC News: Morning</title>
+    <live />
+    <episode-num system="original-air-date">20250326140000 +0000</episode-num>
+    <desc>The latest news in Canada and around the world.</desc>
+    <icon src="https://images.pluto.tv/series/672169b5b7ea5e001334bad8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">672169b5b7ea5e001334bad8</series-id>
     <category>Series</category>
-    <category>Music</category>
-    <category>Pop</category>
-  </programme>
-  <programme channel="65413633295b840008c9333a" start="20250325203200 +0000" stop="20250325205900 +0000">
-    <title>MTV Queens Of Pop</title>
-    <episode-num system="onscreen">S01E14</episode-num>
-    <episode-num system="pluto">67ae365b5e644ca0d72aea89</episode-num>
-    <episode-num system="original-air-date">20000101000000 +0000</episode-num>
-    <desc>No Scrubs (TLC) / I Wanna Dance With Somebody (Whitney Houston) / Survivor (Destiny's Child) / Super Bass (Nicki Minaj) / 7 Rings (Ariana Grande) / good 4 u (Olivia Rodrigo)</desc>
-    <icon src="https://images.pluto.tv/series/66d760f377deaf0014ca1577/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20000101</date>
-    <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
-    <sub-title>TLC / Whitney Houston / Destiny's Child / Nicki Minaj / Ariana Grande / Olivia Rodrigo</sub-title>
-    <category>Series</category>
-    <category>Music</category>
-    <category>Pop</category>
-  </programme>
-  <programme channel="65413633295b840008c9333a" start="20250325205900 +0000" stop="20250325212400 +0000">
-    <title>MTV Queens Of Pop</title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <episode-num system="pluto">67ae36535e644ca0d72ae8c1</episode-num>
-    <episode-num system="original-air-date">20000101000000 +0000</episode-num>
-    <desc>NEVER EVER (All Saints) / Hung Up (Madonna) / Fancy (Iggy Azalea Ft. Charli XCX) / Therefore I Am (Billie Eilish) / Good As Hell (Lizzo)</desc>
-    <icon src="https://images.pluto.tv/series/66d760f377deaf0014ca1577/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20000101</date>
-    <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
-    <sub-title>All Saints / Madonna / Iggy Azalea Ft. Charli XCX / Billie Eilish / Lizzo</sub-title>
-    <category>Series</category>
-    <category>Music</category>
-    <category>Pop</category>
-  </programme>
-  <programme channel="65413633295b840008c9333a" start="20250325212400 +0000" stop="20250325214800 +0000">
-    <title>MTV Queens Of Pop</title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <episode-num system="pluto">67ae36155e644ca0d729f8b6</episode-num>
-    <episode-num system="original-air-date">20000101000000 +0000</episode-num>
-    <desc>She Wolf (Shakira) / Oops!... I Did It Again (Britney Spears) / All I Wanna Do (Sheryl Crow) / Umbrella (Rihanna Ft. Jay-Z) / Shout Out To My Ex (Little Mix)</desc>
-    <icon src="https://images.pluto.tv/series/66d760f377deaf0014ca1577/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20000101</date>
-    <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
-    <sub-title>Shakira / Britney Spears / Sheryl Crow / Rihanna Ft. Jay-Z / Little Mix</sub-title>
-    <category>Series</category>
-    <category>Music</category>
-    <category>Pop</category>
+    <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250325214800 +0000" stop="20250325221600 +0000">
     <title>MTV Queens Of Pop</title>
@@ -3819,9 +3834,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>Rita Ora / Dido / Mariah Carey / Lykke Li / Adele / Lizzo</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250325221600 +0000" stop="20250325224700 +0000">
     <title>MTV Queens Of Pop</title>
@@ -3833,9 +3848,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>Icona Pop Ft. Charli XCX / Ciara Ft. Missy Elliott / Sinead O'Connor / Tina Turner / P!nk / Ava Max / Olivia Rodrigo</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250325224700 +0000" stop="20250325231200 +0000">
     <title>MTV Queens Of Pop</title>
@@ -3847,9 +3862,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>David Guetta &amp; Bebe Rexha / Zara Larsson / Jennifer Lopez Ft. Jadakiss &amp; Styles / Cher / Eve Ft. Gwen Stefani / Miley Cyrus</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250325231200 +0000" stop="20250325233700 +0000">
     <title>MTV Queens Of Pop</title>
@@ -3861,9 +3876,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>M.I.A / Katy Perry / Kelis / Madonna / The Pussycat Dolls + Busta Rhymes</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250325233700 +0000" stop="20250326000400 +0000">
     <title>MTV Queens Of Pop</title>
@@ -3875,9 +3890,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>Alanis Morissette / Mariah Carey / Taylor Swift / Doja Cat / Halsey / Selena Gomez</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326000400 +0000" stop="20250326003000 +0000">
     <title>MTV Queens Of Pop</title>
@@ -3889,9 +3904,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>Paramore / Lauryn Hill / Sugababes / P!nk / Tove Lo / Ava Max</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326003000 +0000" stop="20250326005800 +0000">
     <title>MTV Queens Of Pop</title>
@@ -3903,9 +3918,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>Dua Lipa / Rihanna / Janet Jackson / Amy Winehouse / Camila Cabello Ft. Young Thug / Doja Cat</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326005800 +0000" stop="20250326012500 +0000">
     <title>MTV Queens Of Pop</title>
@@ -3917,9 +3932,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>Britney Spears / Demi Lovato / Ariana Grande / Taylor Swift / Kelly Clarkson / Alicia Keys</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326012500 +0000" stop="20250326014800 +0000">
     <title>MTV Queens Of Pop</title>
@@ -3931,9 +3946,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>Blondie / Gwen Stefani / Alicia Keys Ft. Nicki Minaj / HAIM / Beyoncé</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326014800 +0000" stop="20250326021200 +0000">
     <title>MTV Queens Of Pop</title>
@@ -3945,9 +3960,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>BlackPink / Zara Larsson / Lady Gaga + Ariana Grande / Carly Rae Jepsen / Amy Winehouse / Spice Girls</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326021200 +0000" stop="20250326024100 +0000">
     <title>MTV Queens Of Pop</title>
@@ -3959,9 +3974,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>GAYLE / ALMA / Lady Gaga / Destiny's Child / Madonna / Ariana Grande / Meghan Trainor</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326024100 +0000" stop="20250326030700 +0000">
     <title>MTV Queens Of Pop</title>
@@ -3973,9 +3988,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>Cardi B Ft. Bad Bunny x J Balvin / SZA / Miley Cyrus / Sia / Fergie</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326030700 +0000" stop="20250326033400 +0000">
     <title>MTV Queens Of Pop</title>
@@ -3987,9 +4002,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>Shania Twain / Rihanna / Camila Cabello ft. Ed Sheeran / Coi Leray / MØ / Lady Gaga</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326033400 +0000" stop="20250326040100 +0000">
     <title>MTV Queens Of Pop</title>
@@ -4001,9 +4016,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>Katy Perry Ft. Juicy J / Nelly Furtado / Cyndi Lauper / The Cardigans / Destiny's Child / Lorde</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326040100 +0000" stop="20250326042800 +0000">
     <title>MTV Queens Of Pop</title>
@@ -4015,9 +4030,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>TLC / Whitney Houston / Destiny's Child / Nicki Minaj / Ariana Grande / Olivia Rodrigo</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326042800 +0000" stop="20250326045300 +0000">
     <title>MTV Queens Of Pop</title>
@@ -4029,9 +4044,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>All Saints / Madonna / Iggy Azalea Ft. Charli XCX / Billie Eilish / Lizzo</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326045300 +0000" stop="20250326051700 +0000">
     <title>MTV Queens Of Pop</title>
@@ -4043,9 +4058,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>Shakira / Britney Spears / Sheryl Crow / Rihanna Ft. Jay-Z / Little Mix</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326051700 +0000" stop="20250326054500 +0000">
     <title>MTV Queens Of Pop</title>
@@ -4057,9 +4072,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>Rita Ora / Dido / Mariah Carey / Lykke Li / Adele / Lizzo</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326054500 +0000" stop="20250326061600 +0000">
     <title>MTV Queens Of Pop</title>
@@ -4071,9 +4086,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>Icona Pop Ft. Charli XCX / Ciara Ft. Missy Elliott / Sinead O'Connor / Tina Turner / P!nk / Ava Max / Olivia Rodrigo</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326061600 +0000" stop="20250326064100 +0000">
     <title>MTV Queens Of Pop</title>
@@ -4085,9 +4100,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>David Guetta &amp; Bebe Rexha / Zara Larsson / Jennifer Lopez Ft. Jadakiss &amp; Styles / Cher / Eve Ft. Gwen Stefani / Miley Cyrus</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326064100 +0000" stop="20250326070600 +0000">
     <title>MTV Queens Of Pop</title>
@@ -4099,9 +4114,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>M.I.A / Katy Perry / Kelis / Madonna / The Pussycat Dolls + Busta Rhymes</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326070600 +0000" stop="20250326073300 +0000">
     <title>MTV Queens Of Pop</title>
@@ -4113,9 +4128,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>Alanis Morissette / Mariah Carey / Taylor Swift / Doja Cat / Halsey / Selena Gomez</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326073300 +0000" stop="20250326075900 +0000">
     <title>MTV Queens Of Pop</title>
@@ -4127,9 +4142,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>Paramore / Lauryn Hill / Sugababes / P!nk / Tove Lo / Ava Max</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326075900 +0000" stop="20250326082700 +0000">
     <title>MTV Queens Of Pop</title>
@@ -4141,9 +4156,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>Dua Lipa / Rihanna / Janet Jackson / Amy Winehouse / Camila Cabello Ft. Young Thug / Doja Cat</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326082700 +0000" stop="20250326085400 +0000">
     <title>MTV Queens Of Pop</title>
@@ -4155,9 +4170,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>Britney Spears / Demi Lovato / Ariana Grande / Taylor Swift / Kelly Clarkson / Alicia Keys</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326085400 +0000" stop="20250326091700 +0000">
     <title>MTV Queens Of Pop</title>
@@ -4169,9 +4184,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>Blondie / Gwen Stefani / Alicia Keys Ft. Nicki Minaj / HAIM / Beyoncé</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326091700 +0000" stop="20250326094100 +0000">
     <title>MTV Queens Of Pop</title>
@@ -4183,9 +4198,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>BlackPink / Zara Larsson / Lady Gaga + Ariana Grande / Carly Rae Jepsen / Amy Winehouse / Spice Girls</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326094100 +0000" stop="20250326101000 +0000">
     <title>MTV Queens Of Pop</title>
@@ -4197,9 +4212,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>GAYLE / ALMA / Lady Gaga / Destiny's Child / Madonna / Ariana Grande / Meghan Trainor</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326101000 +0000" stop="20250326103600 +0000">
     <title>MTV Queens Of Pop</title>
@@ -4211,9 +4226,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>Cardi B Ft. Bad Bunny x J Balvin / SZA / Miley Cyrus / Sia / Fergie</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326103600 +0000" stop="20250326110300 +0000">
     <title>MTV Queens Of Pop</title>
@@ -4225,9 +4240,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>Shania Twain / Rihanna / Camila Cabello ft. Ed Sheeran / Coi Leray / MØ / Lady Gaga</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326110300 +0000" stop="20250326113000 +0000">
     <title>MTV Queens Of Pop</title>
@@ -4239,9 +4254,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>Katy Perry Ft. Juicy J / Nelly Furtado / Cyndi Lauper / The Cardigans / Destiny's Child / Lorde</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326113000 +0000" stop="20250326115700 +0000">
     <title>MTV Queens Of Pop</title>
@@ -4253,9 +4268,9 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>TLC / Whitney Houston / Destiny's Child / Nicki Minaj / Ariana Grande / Olivia Rodrigo</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65413633295b840008c9333a" start="20250326115700 +0000" stop="20250326122200 +0000">
     <title>MTV Queens Of Pop</title>
@@ -4267,21 +4282,65 @@
     <date>20000101</date>
     <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
     <sub-title>All Saints / Madonna / Iggy Azalea Ft. Charli XCX / Billie Eilish / Lizzo</sub-title>
-    <category>Series</category>
-    <category>Music</category>
     <category>Pop</category>
-  </programme>
-  <programme channel="65bcc9ac33ea8600086883ed" start="20250325190000 +0000" stop="20250325210000 +0000">
-    <title>Reuters Afternoon News</title>
-    <live />
-    <episode-num system="original-air-date">20250325190000 +0000</episode-num>
-    <desc>Serving the real world in real time since 1851, Reuters delivers fast, accurate, unbiased, insightful, and trusted news around the globe.</desc>
-    <icon src="https://images.pluto.tv/series/66069867a79dde0014f8f0bd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">66069867a79dde0014f8f0bd</series-id>
+    <category>Music</category>
     <category>Series</category>
-    <category>News &amp; Information</category>
-    <category>News</category>
+  </programme>
+  <programme channel="65413633295b840008c9333a" start="20250326122200 +0000" stop="20250326124600 +0000">
+    <title>MTV Queens Of Pop</title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <episode-num system="pluto">67ae36155e644ca0d729f8b6</episode-num>
+    <episode-num system="original-air-date">20000101000000 +0000</episode-num>
+    <desc>She Wolf (Shakira) / Oops!... I Did It Again (Britney Spears) / All I Wanna Do (Sheryl Crow) / Umbrella (Rihanna Ft. Jay-Z) / Shout Out To My Ex (Little Mix)</desc>
+    <icon src="https://images.pluto.tv/series/66d760f377deaf0014ca1577/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20000101</date>
+    <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
+    <sub-title>Shakira / Britney Spears / Sheryl Crow / Rihanna Ft. Jay-Z / Little Mix</sub-title>
+    <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="65413633295b840008c9333a" start="20250326124600 +0000" stop="20250326131400 +0000">
+    <title>MTV Queens Of Pop</title>
+    <episode-num system="onscreen">S01E19</episode-num>
+    <episode-num system="pluto">67ae35f55e644ca0d7282d6c</episode-num>
+    <episode-num system="original-air-date">20000101000000 +0000</episode-num>
+    <desc>Anywhere (Rita Ora) / White Flag (Dido) / Fantasy (Mariah Carey) / I Follow Rivers (Lykke Li) / Rolling In The Deep (Adele) / About Damn Time (Lizzo)</desc>
+    <icon src="https://images.pluto.tv/series/66d760f377deaf0014ca1577/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20000101</date>
+    <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
+    <sub-title>Rita Ora / Dido / Mariah Carey / Lykke Li / Adele / Lizzo</sub-title>
+    <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="65413633295b840008c9333a" start="20250326131400 +0000" stop="20250326134500 +0000">
+    <title>MTV Queens Of Pop</title>
+    <episode-num system="onscreen">S01E20</episode-num>
+    <episode-num system="pluto">67ae36595e644ca0d72aea07</episode-num>
+    <episode-num system="original-air-date">20000101000000 +0000</episode-num>
+    <desc>I Love It (Icona Pop Ft. Charli XCX) / 1, 2 Step (Ciara Ft. Missy Elliott) / Nothing Compares 2 U (Sinead O'Connor) / What's Love Got To Do With It (Tina Turner) / So What (P!nk) / Sweet But Psycho (Ava Max) / drivers license (Olivia Rodrigo)</desc>
+    <icon src="https://images.pluto.tv/series/66d760f377deaf0014ca1577/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20000101</date>
+    <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
+    <sub-title>Icona Pop Ft. Charli XCX / Ciara Ft. Missy Elliott / Sinead O'Connor / Tina Turner / P!nk / Ava Max / Olivia Rodrigo</sub-title>
+    <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="65413633295b840008c9333a" start="20250326134500 +0000" stop="20250326141000 +0000">
+    <title>MTV Queens Of Pop</title>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <episode-num system="pluto">67ae36635e644ca0d72bcc91</episode-num>
+    <episode-num system="original-air-date">20000101000000 +0000</episode-num>
+    <desc>I'm Good (Blue) (David Guetta &amp; Bebe Rexha) / Lush Life (Zara Larsson) / Jenny From The Block (Jennifer Lopez Ft. Jadakiss &amp; Styles) / BELIEVE (Cher) / LET ME BLOW YA MIND (Eve Ft. Gwen Stefani) / We Can't Stop (Miley Cyrus)</desc>
+    <icon src="https://images.pluto.tv/series/66d760f377deaf0014ca1577/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>20000101</date>
+    <series-id system="pluto">66d760f377deaf0014ca1577</series-id>
+    <sub-title>David Guetta &amp; Bebe Rexha / Zara Larsson / Jennifer Lopez Ft. Jadakiss &amp; Styles / Cher / Eve Ft. Gwen Stefani / Miley Cyrus</sub-title>
+    <category>Pop</category>
+    <category>Music</category>
+    <category>Series</category>
   </programme>
   <programme channel="65bcc9ac33ea8600086883ed" start="20250325210000 +0000" stop="20250325230000 +0000">
     <title>Reuters Evening News</title>
@@ -4292,8 +4351,8 @@
     <date>19700101</date>
     <series-id system="pluto">66069867a79dde0014f8f04b</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="65bcc9ac33ea8600086883ed" start="20250325230000 +0000" stop="20250326010000 +0000">
     <title>Reuters Evening News</title>
@@ -4304,8 +4363,8 @@
     <date>19700101</date>
     <series-id system="pluto">66069867a79dde0014f8f04b</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="65bcc9ac33ea8600086883ed" start="20250326010000 +0000" stop="20250326030000 +0000">
     <title>Reuters Evening News</title>
@@ -4316,8 +4375,8 @@
     <date>19700101</date>
     <series-id system="pluto">66069867a79dde0014f8f04b</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="65bcc9ac33ea8600086883ed" start="20250326030000 +0000" stop="20250326050000 +0000">
     <title>Reuters Evening News</title>
@@ -4328,8 +4387,8 @@
     <date>19700101</date>
     <series-id system="pluto">66069867a79dde0014f8f04b</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="65bcc9ac33ea8600086883ed" start="20250326050000 +0000" stop="20250326070000 +0000">
     <title>Reuters Evening News</title>
@@ -4340,8 +4399,8 @@
     <date>19700101</date>
     <series-id system="pluto">66069867a79dde0014f8f04b</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="65bcc9ac33ea8600086883ed" start="20250326070000 +0000" stop="20250326090000 +0000">
     <title>Reuters Morning News</title>
@@ -4352,8 +4411,8 @@
     <date>19700101</date>
     <series-id system="pluto">66069867a79dde0014f8f06f</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="65bcc9ac33ea8600086883ed" start="20250326090000 +0000" stop="20250326100000 +0000">
     <title>Reuters Morning News</title>
@@ -4364,8 +4423,8 @@
     <date>19700101</date>
     <series-id system="pluto">66069867a79dde0014f8f06f</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="65bcc9ac33ea8600086883ed" start="20250326100000 +0000" stop="20250326110000 +0000">
     <title>Reuters Morning News</title>
@@ -4376,8 +4435,8 @@
     <date>19700101</date>
     <series-id system="pluto">66069867a79dde0014f8f06f</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="65bcc9ac33ea8600086883ed" start="20250326110000 +0000" stop="20250326130000 +0000">
     <title>Reuters Morning News</title>
@@ -4388,51 +4447,19 @@
     <date>19700101</date>
     <series-id system="pluto">66069867a79dde0014f8f06f</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
-  </programme>
-  <programme channel="66a8f01914a2bb00084dd86c" start="20250325200000 +0000" stop="20250325203000 +0000">
-    <title>CBC News British Columbia</title>
-    <live />
-    <episode-num system="original-air-date">20250325200000 +0000</episode-num>
-    <desc>CBC News British Columbia</desc>
-    <icon src="https://images.pluto.tv/series/66ff9e08d7de140008de365d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">66ff9e08d7de140008de365d</series-id>
-    <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="66a8f01914a2bb00084dd86c" start="20250325203000 +0000" stop="20250325210000 +0000">
-    <title>CBC News British Columbia</title>
+  <programme channel="65bcc9ac33ea8600086883ed" start="20250326130000 +0000" stop="20250326150000 +0000">
+    <title>Reuters Morning News</title>
     <live />
-    <episode-num system="original-air-date">20250325203000 +0000</episode-num>
-    <desc>CBC News British Columbia</desc>
-    <icon src="https://images.pluto.tv/series/66ff9e08d7de140008de365d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250326130000 +0000</episode-num>
+    <desc>Serving the real world in real time since 1851, Reuters delivers fast, accurate, unbiased, insightful, and trusted news around the globe.</desc>
+    <icon src="https://images.pluto.tv/series/66069867a79dde0014f8f06f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">66ff9e08d7de140008de365d</series-id>
+    <series-id system="pluto">66069867a79dde0014f8f06f</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
-  </programme>
-  <programme channel="66a8f01914a2bb00084dd86c" start="20250325210000 +0000" stop="20250325213000 +0000">
-    <title>CBC News British Columbia</title>
-    <live />
-    <episode-num system="original-air-date">20250325210000 +0000</episode-num>
-    <desc>CBC News British Columbia</desc>
-    <icon src="https://images.pluto.tv/series/66ff9e08d7de140008de365d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">66ff9e08d7de140008de365d</series-id>
-    <category>Series</category>
-    <category>News &amp; Information</category>
-  </programme>
-  <programme channel="66a8f01914a2bb00084dd86c" start="20250325213000 +0000" stop="20250325220000 +0000">
-    <title>CBC News British Columbia</title>
-    <live />
-    <episode-num system="original-air-date">20250325213000 +0000</episode-num>
-    <desc>CBC News British Columbia</desc>
-    <icon src="https://images.pluto.tv/series/66ff9e08d7de140008de365d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">66ff9e08d7de140008de365d</series-id>
-    <category>Series</category>
+    <category>News</category>
     <category>News &amp; Information</category>
   </programme>
   <programme channel="66a8f01914a2bb00084dd86c" start="20250325220000 +0000" stop="20250325223000 +0000">
@@ -4754,17 +4781,49 @@
     <category>Series</category>
     <category>News &amp; Information</category>
   </programme>
-  <programme channel="66c45c274f25dd00092739ee" start="20250325170000 +0000" stop="20250325210000 +0000">
-    <title>Fast-Paced Videos On Global Stories</title>
+  <programme channel="66a8f01914a2bb00084dd86c" start="20250326123000 +0000" stop="20250326130000 +0000">
+    <title>CBC News British Columbia</title>
     <live />
-    <episode-num system="original-air-date">20250325170000 +0000</episode-num>
-    <desc>From the leader in global news, fast-paced videos featuring the latest stories on major events, business, entertainment, sport, and the environment.</desc>
-    <icon src="https://images.pluto.tv/series/66dffcf522dfe900138529db/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250326123000 +0000</episode-num>
+    <desc>CBC News British Columbia</desc>
+    <icon src="https://images.pluto.tv/series/66ff9e08d7de140008de365d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">66dffcf522dfe900138529db</series-id>
+    <series-id system="pluto">66ff9e08d7de140008de365d</series-id>
     <category>Series</category>
     <category>News &amp; Information</category>
-    <category>News</category>
+  </programme>
+  <programme channel="66a8f01914a2bb00084dd86c" start="20250326130000 +0000" stop="20250326133000 +0000">
+    <title>CBC News British Columbia</title>
+    <live />
+    <episode-num system="original-air-date">20250326130000 +0000</episode-num>
+    <desc>CBC News British Columbia</desc>
+    <icon src="https://images.pluto.tv/series/66ff9e08d7de140008de365d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">66ff9e08d7de140008de365d</series-id>
+    <category>Series</category>
+    <category>News &amp; Information</category>
+  </programme>
+  <programme channel="66a8f01914a2bb00084dd86c" start="20250326133000 +0000" stop="20250326140000 +0000">
+    <title>CBC News British Columbia</title>
+    <live />
+    <episode-num system="original-air-date">20250326133000 +0000</episode-num>
+    <desc>CBC News British Columbia</desc>
+    <icon src="https://images.pluto.tv/series/66ff9e08d7de140008de365d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">66ff9e08d7de140008de365d</series-id>
+    <category>Series</category>
+    <category>News &amp; Information</category>
+  </programme>
+  <programme channel="66a8f01914a2bb00084dd86c" start="20250326140000 +0000" stop="20250326143000 +0000">
+    <title>CBC News British Columbia</title>
+    <live />
+    <episode-num system="original-air-date">20250326140000 +0000</episode-num>
+    <desc>CBC News British Columbia</desc>
+    <icon src="https://images.pluto.tv/series/66ff9e08d7de140008de365d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">66ff9e08d7de140008de365d</series-id>
+    <category>Series</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="66c45c274f25dd00092739ee" start="20250325210000 +0000" stop="20250326010000 +0000">
     <title>Fast-Paced Videos On Global Stories</title>
@@ -4775,8 +4834,8 @@
     <date>19700101</date>
     <series-id system="pluto">66dffcf522dfe900138529db</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="66c45c274f25dd00092739ee" start="20250326010000 +0000" stop="20250326050000 +0000">
     <title>Fast-Paced Videos On Global Stories</title>
@@ -4787,8 +4846,8 @@
     <date>19700101</date>
     <series-id system="pluto">66dffcf522dfe900138529db</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="66c45c274f25dd00092739ee" start="20250326050000 +0000" stop="20250326090000 +0000">
     <title>Fast-Paced Videos On Global Stories</title>
@@ -4799,8 +4858,8 @@
     <date>19700101</date>
     <series-id system="pluto">66dffcf522dfe900138529db</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="66c45c274f25dd00092739ee" start="20250326090000 +0000" stop="20250326130000 +0000">
     <title>Fast-Paced Videos On Global Stories</title>
@@ -4811,31 +4870,20 @@
     <date>19700101</date>
     <series-id system="pluto">66dffcf522dfe900138529db</series-id>
     <category>Series</category>
-    <category>News &amp; Information</category>
     <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
-  <programme channel="6729d651c7626f0008b5dacf" start="20250325184000 +0000" stop="20250325202600 +0000">
-    <title>Lucky in Love</title>
+  <programme channel="66c45c274f25dd00092739ee" start="20250326130000 +0000" stop="20250326170000 +0000">
+    <title>Fast-Paced Videos On Global Stories</title>
     <live />
-    <episode-num system="original-air-date">20250325184000 +0000</episode-num>
-    <desc>A woman (Jessica Szohr) must adjust to her new, seemingly perfect life when her pranks on April Fools' Day come true.</desc>
-    <icon src="https://images.pluto.tv/series/67a5d32e3d4e117043d7bbc1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250326130000 +0000</episode-num>
+    <desc>From the leader in global news, fast-paced videos featuring the latest stories on major events, business, entertainment, sport, and the environment.</desc>
+    <icon src="https://images.pluto.tv/series/66dffcf522dfe900138529db/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">67a5d32e3d4e117043d7bbc1</series-id>
+    <series-id system="pluto">66dffcf522dfe900138529db</series-id>
     <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6729d651c7626f0008b5dacf" start="20250325202600 +0000" stop="20250325212200 +0000">
-    <title>Heartland</title>
-    <live />
-    <episode-num system="original-air-date">20250325202600 +0000</episode-num>
-    <desc>Lou's life in Dubai and Tim's relationship with his jockey are not what they appear to be.</desc>
-    <icon src="https://images.pluto.tv/series/67a5d31b3d4e117043d7847b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">67a5d31b3d4e117043d7847b</series-id>
-    <sub-title>What Dreams May Become</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
+    <category>News</category>
+    <category>News &amp; Information</category>
   </programme>
   <programme channel="6729d651c7626f0008b5dacf" start="20250325212200 +0000" stop="20250325230700 +0000">
     <title>Dognapped: Hound for the Holidays</title>
@@ -5015,53 +5063,28 @@
     <category>Series</category>
     <category>Entertainment</category>
   </programme>
-  <programme channel="677f929054f43dad4b325c1c" start="20250325200000 +0000" stop="20250325203000 +0000">
-    <title>Just for Laughs GAGS</title>
+  <programme channel="6729d651c7626f0008b5dacf" start="20250326125200 +0000" stop="20250326134800 +0000">
+    <title>When Calls the Heart</title>
     <live />
-    <episode-num system="original-air-date">20250325200000 +0000</episode-num>
-    <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
-    <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250326125200 +0000</episode-num>
+    <desc>The residents of Hope Valley pull together to help one of their own deal with a crushing loss; Abigail notices certain symptoms and suspects a pregnancy.</desc>
+    <icon src="https://images.pluto.tv/series/67a5d31c3d4e117043d78590/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
+    <series-id system="pluto">67a5d31c3d4e117043d78590</series-id>
+    <sub-title>Close to My Heart</sub-title>
     <category>Series</category>
-    <category>Fails &amp; Pranks</category>
-    <category>Comedy</category>
+    <category>Entertainment</category>
   </programme>
-  <programme channel="677f929054f43dad4b325c1c" start="20250325203000 +0000" stop="20250325210000 +0000">
-    <title>Just for Laughs GAGS</title>
+  <programme channel="6729d651c7626f0008b5dacf" start="20250326134800 +0000" stop="20250326153300 +0000">
+    <title>Lucky in Love</title>
     <live />
-    <episode-num system="original-air-date">20250325203000 +0000</episode-num>
-    <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
-    <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20250326134800 +0000</episode-num>
+    <desc>A woman (Jessica Szohr) must adjust to her new, seemingly perfect life when her pranks on April Fools' Day come true.</desc>
+    <icon src="https://images.pluto.tv/series/67a5d32e3d4e117043d7bbc1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
+    <series-id system="pluto">67a5d32e3d4e117043d7bbc1</series-id>
     <category>Series</category>
-    <category>Fails &amp; Pranks</category>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="677f929054f43dad4b325c1c" start="20250325210000 +0000" stop="20250325213000 +0000">
-    <title>Just for Laughs GAGS</title>
-    <live />
-    <episode-num system="original-air-date">20250325210000 +0000</episode-num>
-    <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
-    <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
-    <category>Fails &amp; Pranks</category>
-    <category>Comedy</category>
-  </programme>
-  <programme channel="677f929054f43dad4b325c1c" start="20250325213000 +0000" stop="20250325220000 +0000">
-    <title>Just for Laughs GAGS</title>
-    <live />
-    <episode-num system="original-air-date">20250325213000 +0000</episode-num>
-    <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
-    <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
-    <category>Fails &amp; Pranks</category>
-    <category>Comedy</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250325220000 +0000" stop="20250325223000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5071,9 +5094,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250325223000 +0000" stop="20250325230000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5083,9 +5106,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250325230000 +0000" stop="20250325233000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5095,9 +5118,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250325233000 +0000" stop="20250326000000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5107,9 +5130,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250326000000 +0000" stop="20250326003000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5119,9 +5142,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250326003000 +0000" stop="20250326010000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5131,9 +5154,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250326010000 +0000" stop="20250326013000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5143,9 +5166,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250326013000 +0000" stop="20250326020000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5155,9 +5178,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250326020000 +0000" stop="20250326023000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5167,9 +5190,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250326023000 +0000" stop="20250326030000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5179,9 +5202,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250326030000 +0000" stop="20250326033000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5191,9 +5214,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250326033000 +0000" stop="20250326040000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5203,9 +5226,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250326040000 +0000" stop="20250326043000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5215,9 +5238,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250326043000 +0000" stop="20250326050000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5227,9 +5250,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250326050000 +0000" stop="20250326053000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5239,9 +5262,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250326053000 +0000" stop="20250326060000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5251,9 +5274,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250326060000 +0000" stop="20250326063000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5263,9 +5286,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250326063000 +0000" stop="20250326070000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5275,9 +5298,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250326070000 +0000" stop="20250326073000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5287,9 +5310,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250326073000 +0000" stop="20250326080000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5299,9 +5322,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250326080000 +0000" stop="20250326083000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5311,9 +5334,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250326083000 +0000" stop="20250326090000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5323,9 +5346,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250326090000 +0000" stop="20250326093000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5335,9 +5358,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250326093000 +0000" stop="20250326100000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5347,9 +5370,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250326100000 +0000" stop="20250326103000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5359,9 +5382,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250326103000 +0000" stop="20250326110000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5371,9 +5394,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250326110000 +0000" stop="20250326113000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5383,9 +5406,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250326113000 +0000" stop="20250326120000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5395,9 +5418,9 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <programme channel="677f929054f43dad4b325c1c" start="20250326120000 +0000" stop="20250326123000 +0000">
     <title>Just for Laughs GAGS</title>
@@ -5407,9 +5430,57 @@
     <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
-    <category>Series</category>
     <category>Fails &amp; Pranks</category>
     <category>Comedy</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="677f929054f43dad4b325c1c" start="20250326123000 +0000" stop="20250326130000 +0000">
+    <title>Just for Laughs GAGS</title>
+    <live />
+    <episode-num system="original-air-date">20250326123000 +0000</episode-num>
+    <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
+    <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
+    <category>Fails &amp; Pranks</category>
+    <category>Comedy</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="677f929054f43dad4b325c1c" start="20250326130000 +0000" stop="20250326133000 +0000">
+    <title>Just for Laughs GAGS</title>
+    <live />
+    <episode-num system="original-air-date">20250326130000 +0000</episode-num>
+    <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
+    <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
+    <category>Fails &amp; Pranks</category>
+    <category>Comedy</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="677f929054f43dad4b325c1c" start="20250326133000 +0000" stop="20250326140000 +0000">
+    <title>Just for Laughs GAGS</title>
+    <live />
+    <episode-num system="original-air-date">20250326133000 +0000</episode-num>
+    <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
+    <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
+    <category>Fails &amp; Pranks</category>
+    <category>Comedy</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="677f929054f43dad4b325c1c" start="20250326140000 +0000" stop="20250326143000 +0000">
+    <title>Just for Laughs GAGS</title>
+    <live />
+    <episode-num system="original-air-date">20250326140000 +0000</episode-num>
+    <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
+    <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">67af2281c6d96e335cebff55</series-id>
+    <category>Fails &amp; Pranks</category>
+    <category>Comedy</category>
+    <category>Series</category>
   </programme>
   <channel id="5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e">
     <display-name>Popular Science</display-name>
