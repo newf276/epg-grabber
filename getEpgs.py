@@ -63,8 +63,8 @@ def filter_and_build_epg(urls):
 #m3u4u_epg = os.getenv("M3U4U_EPG")
 
 urls = [
-    'https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz',
-    'https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz',
+    'https://github.com/newf276/xmltv-epg/releases/latest/download/epg-pluto.xml.gz',
+    'https://github.com/newf276/xmltv-epg/releases/latest/download/epg-plex.xml.gz',
     'https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz',
 ]
 
